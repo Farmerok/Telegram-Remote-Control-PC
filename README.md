@@ -47,16 +47,12 @@
 
 # 🛠️ To configure the script, follow these steps:
 
-**Create the following in the current directory where the script is located: tokens.ini and admlist.ini in the specified location upon first run or run the script that will create the files and enter your data there.**
+**The script will create a file named settings.ini in the current directory on first run. You can then enter your data in this file.**
 
-**Inside the tokens.ini file, specify the token by pasting it into the file as follows:**
+**Inside settings.ini, specify the token by pasting it on a line like this:**
 
-    [Token]
+    [BotConfig]
     token = 1298170394:AAFoRAJsNzgxalі4dhHX_UNjDbu6stjsTkI
-
-**In the admlist.ini file, specify the identifiers of administrators, separating them with commas. Example:**
-
-    [Admins]
     admin_list = 123331492, 320491837
 
 # ⬇️ Download:
