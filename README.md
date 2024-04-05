@@ -1,4 +1,4 @@
-# Telegram-BOT-Helper
+# Yours BOT Helper
 # Main features of the `bot`:
 
     /start: Launches the bot.
