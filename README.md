@@ -1,65 +1,61 @@
-# Yours BOT Helper
-# Main features of the `bot`:
+# 🤖 Telegram Remote Control Bot for PC
 
-    /start: Launches the bot.
-    /screenshot: Takes a screenshot.
-    /photo: Processes the command to send photos from the webcam.
-    /typetext: Processes the command for entering text.
-    /message: Processes the command to display messages on the screen.
-    /blockdostup: Processes the command to block access.
-    /speak: Processes the command to voice text.
-    /wallinstall: Processes the command to set wallpapers.
-    /walldownload: Processes the command to download wallpapers.
-    /youtube: Processes the command to search on YouTube.
-    /changestep: Processes the command to change the step.
-    /recscreen: Processes the command to record the screen.
-    /recvoice: Processes the command to record voice.
-    /camrec: Processes the command to record from the webcam.
-    /changeboard: Processes the command to change keyboard layout.
-    /dellproc: Processes the command to terminate processes.
-    /consol: Processes the command to execute commands in the console.
-    /download: Processes the command to download files.
-    /openurl: Processes the command to open URLs.
-    /upload: Processes the command to upload files.
-    /document: Processes the command to upload documents.
-    /run: Processes the command to run applications.
-    /delete: Processes the command to delete files (folders).
-    /keypress: Processes the command to simulate key presses.
-    /recordermenu: Sends a message recording menu.
-    /showkeyboard: Sends a menu to display the keyboard.
-    /browser: Browser management.
-    /mousecontrol: Mouse control.
-    /player: Media player control.
-    /panelfile: Sends a menu for file management.
-    /boardmenu: Sends a menu for keyboard management.
-    /panelbot: Sends a menu for bot management.
-    /powersystem: Sends a menu for power and overall computer management.
-    and so on...
-# Localization:
+## Introduction
+
+Welcome to the Telegram Remote Control Bot for PC! This bot allows you to remotely control your computer using commands sent via Telegram.
+
+## Main Features
+
+- Take screenshots
+- Capture photos from the webcam
+- Voice text messages
+- Set wallpapers
+- Download files
+- Execute commands in the console
+- and much more...
+
+## Supported Systems
+
+| System       | Support |
+|--------------|---------|
+| Linux        | ❌      |
+| MacOS        | ❌      |
+| Windows 7    | ❌      |
+| Windows 8    | ✔️      |
+| Windows 10   | ✔️      |
+| Windows 11   | ✔️      |
+
+## 🌎 Localization
+- To improve usability, the bot has been localized into different languages ​​to ensure maximum usability.
+ 
 ![We are NOT limited by the technology of our time!](resource/image/language.png)
 
-# It's important to consider the following:
+## Important Information
 
-- ⚠️ When using this script, make sure to comply with local laws and security policies. Ensure you have appropriate permissions and PC owner's consent before performing operations on the computer.
+- ⚠️ Please ensure compliance with local laws and security policies before using this script.
+  - 🔐 This script is not open-source software.
+  - Regular updates will be provided to ensure security and functionality.
 
-  - 🔐 The script is not open-source software.
-  - The script will be maintained, allowing you to receive timely updates.
+## Script Configuration
 
-# 🛠️ To configure the script, follow these steps:
+**To configure the script:**
 
-**The script will create a file named settings.ini in the current directory on first run. You can then enter your data in this file.**
+1. Run the script to generate the `settings.ini` file.
+2. Enter your Telegram bot token and admin list in the `settings.ini` file.
 
-**Inside settings.ini, specify the token by pasting it on a line like this:**
+        [BotConfig]
+        token = 1298170394:AAFoRAJsNzgxalі4dhHX_UNjDbu6stjsTkI
+        admin_list = 123331492, 320491837
 
-    [BotConfig]
-    token = 1298170394:AAFoRAJsNzgxalі4dhHX_UNjDbu6stjsTkI
-    admin_list = 123331492, 320491837
+## ⬇️ Download
 
-# ⬇️ Download:
-- [Download the latest version](https://github.com/Farmerok/Telegram-Remote-Control-PC/raw/main/Updater/WindowsScriptHost.exe)
-- [Other releases and changelog](https://github.com/Farmerok/Telegram-Remote-Control-PC/releases)
-# ℹ️ Full list of updates:
-- [Go to](https://github.com/Farmerok/Telegram-Remote-Control-PC/tree/main/changelog)
+- [Download Latest Version](https://github.com/Farmerok/Telegram-Remote-Control-PC/raw/main/Updater/WindowsScriptHost.exe)
+- [Other Releases and Changelog](https://github.com/Farmerok/Telegram-Remote-Control-PC/releases)
 
-# 📞 To contact me, you can use:
+## Full List of Updates
+
+- [Changelog](https://github.com/Farmerok/Telegram-Remote-Control-PC/tree/main/changelog)
+
+## 📇 Contact Information
+
 - [Telegram](https://t.me/insiderkeeps) (Clickable)
