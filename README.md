@@ -26,7 +26,7 @@ Welcome to the Telegram Remote Control Bot for PC! This bot allows you to remote
 | Windows 11   | ✔️      |
 
 ## 🌎 Localization
-- To improve usability, the bot has been localized into different languages ​​to ensure maximum usability.
+- To improve usability, the bot has been localized into different languages ​​to ensure maximum usability
  
 ![We are NOT limited by the technology of our time!](resource/image/language.png)
 
