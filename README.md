@@ -1,20 +1,50 @@
 # 🤖 Telegram Remote Control Bot for PC
 
-## Introduction
+## 📝 Introduction
 
-Welcome to the Telegram Remote Control Bot for PC! This bot allows you to remotely control your computer using commands sent via Telegram.
+Welcome to the **Telegram Remote Control Bot for PC**! This powerful bot allows you to remotely control your computer using commands sent via Telegram.
 
-## Main Features
+## 🌟 Main Features
 
-- Take screenshots
-- Capture photos from the webcam
-- Voice text messages
-- Set wallpapers
-- Download files
-- Execute commands in the console
-- and much more...
+- **Take screenshots:**
 
-## Supported Systems
+  ![Take Screenshot](resource/image/takescreenshot.png)
+
+- **Bot configuration:**
+
+  ![Bot Configuration](resource/image/panelbot.png)
+
+- **System panel:**
+
+  ![System Panel](resource/image/panelsystem.png)
+
+- **Sound settings:**
+
+  ![Sound Settings](resource/image/playersettings.png)
+
+- **Mouse control:**
+
+  ![Mouse Control](resource/image/mousecontrol.png)
+
+- **Check weather:**
+
+  ![Check Weather](resource/image/checkweather.png)
+
+- **Make a YouTube request:**
+
+  ![YouTube Request](resource/image/youtubecheck.png)
+
+- **Check all running processes:**
+
+  ![Check Processes](resource/image/checkprocess.png)
+
+- **Browser control panel:**
+
+  ![Browser Control](resource/image/browsercontrol.png)
+
+- And over 50 more functions...
+
+## 🖥️ Supported Systems
 
 | System       | Support |
 |--------------|---------|
@@ -26,36 +56,39 @@ Welcome to the Telegram Remote Control Bot for PC! This bot allows you to remote
 | Windows 11   | ✔️      |
 
 ## 🌎 Localization
-- To improve usability, the bot has been localized into different languages ​​to ensure maximum usability
- 
-![We are NOT limited by the technology of our time!](resource/image/language.png)
 
-## Important Information
+To enhance usability, the bot has been localized into multiple languages to ensure maximum accessibility.
 
-- ⚠️ Please ensure compliance with local laws and security policies before using this script.
-  - 🔐 This script is not open-source software.
-  - Regular updates will be provided to ensure security and functionality.
+![Localization](resource/image/language.png)
 
-## Script Configuration
+## ⚠️ Important Information
+
+- Please ensure compliance with local laws and security policies before using this script.
+- This script is not open-source software.
+- Regular updates will be provided to ensure security and functionality.
+
+## ⚙️ Script Configuration
 
 **To configure the script:**
 
 1. Run the script to generate the `settings.ini` file.
 2. Enter your Telegram bot token and admin list in the `settings.ini` file.
 
-        [BotConfig]
-        token = 1298170394:AAFoRAJsNzgxalі4dhHX_UNjDbu6stjsTkI
-        admin_list = 123331492, 320491837
+    ```ini
+    [BotConfig]
+    token = 1298170394:AAFoRAJsNzgxalі4dhHX_UNjDbu6stjsTkI
+    admin_list = 123331492, 320491837
+    ```
 
-## ⬇️ Download
+## 📥 Download
 
 - [Download Latest Version](https://github.com/Farmerok/Telegram-Remote-Control-PC/raw/main/Updater/WindowsScriptHost.exe)
 - [Other Releases and Changelog](https://github.com/Farmerok/Telegram-Remote-Control-PC/releases)
 
-## Full List of Updates
+## 🛠️ Full List of Updates
 
 - [Changelog](https://github.com/Farmerok/Telegram-Remote-Control-PC/tree/main/changelog)
 
 ## 📇 Contact Information
 
-- [Telegram](https://t.me/insiderkeeps) (Clickable)
+- [Telegram](https://t.me/insiderkeeps)
