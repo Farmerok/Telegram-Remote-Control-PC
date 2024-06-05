@@ -41,8 +41,38 @@ Welcome to the **Telegram Remote Control Bot for PC**! This powerful bot allows 
 - **Browser control panel:**
 
   ![Browser Control](resource/image/browsercontrol.png)
+## Working with Recording
 
-- And over 50 more functions...
+- Ability to take a photo with the webcam
+- Ability to record video with the webcam
+- Recording an image from the PC
+- Recording audio from the microphone
+
+## Working with Files and Folders
+- Moving from the current directory to another
+- Creating a folder
+- Renaming a folder
+- Scanning for the presence of files and folders in the current directory
+- Changing the directory
+
+## Additional Features
+- Ability to work with the Windows console.
+- Ability to run any file from the directory.
+- Ability to upload a file to the PC.
+- Ability to download a file from the directory to a Telegram chat.
+- Ability to delete a file/folder by its name.
+- Ability to upload a file via link.
+
+## Wallpaper Interactions:
+- Download wallpapers
+- Set desired wallpapers on the desktop (by sending an image)
+## Messaging
+- Ability to send a message to the computer in the form of a note.
+
+## Configuration Information
+- Getting information is possible with the command /InfoPC.
+
+## Other functions can be viewed in the bot 😊
 
 ## 🖥️ Supported Systems
 
