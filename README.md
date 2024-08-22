@@ -81,7 +81,7 @@ Welcome to the **Telegram Remote Control Bot for PC**! This powerful bot allows 
 | Linux      | ❌       |       |      |
 | MacOS      | ❌       |       |      |
 | Windows 7  | ✔️       | 1. **There may be an error when running the script:** `api-ms-win-core-path-l1-1-0.dll`. **You will need to download an additional file.**<br><br>2. **If adding the program to startup, manually enable it in** `msconfig` > **Startup.** | [Go to link](https://github.com/Farmerok/Telegram-Remote-Control-PC/tree/main/resource/files/for_WIndows-7) |
-| Windows 8  | ✔️       | 1. **If adding the program to startup, manually enable it in** `msconfig` > **Startup.** |       |
+| Windows 8  | ✔️       | 1. **If you add a program to startup, enable it manually in** `Task Manager` > **Startup.** |       |
 | Windows 10 | ✔️       |       |      |
 | Windows 11 | ✔️       |       |      |
 
