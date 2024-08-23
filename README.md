@@ -2,111 +2,127 @@
 
 ## 📝 Introduction
 
-Welcome to the **Telegram Remote Control Bot for PC**! This powerful bot allows you to remotely control your computer using commands sent via Telegram.
+Welcome to **Telegram Remote Control Bot for PC**! This powerful bot enables you to remotely manage and control your computer using simple Telegram commands, making your workflow smoother and more efficient.
 
-## 🌟 Main Features
+---
 
-- **Take screenshots:**
+## 🌟 Features at a Glance
 
+- **🖼️ Take Screenshots:**  
+  Capture and retrieve screenshots directly from your PC.  
   ![Take Screenshot](resource/image/takescreenshot.png)
 
-- **Bot configuration:**
-
+- **🔧 Bot Configuration:**  
+  Easily customize and manage bot settings.  
   ![Bot Configuration](resource/image/panelbot.png)
 
-- **System panel:**
-
+- **🖥️ System Control Panel:**  
+  Monitor and control system processes with ease.  
   ![System Panel](resource/image/panelsystem.png)
 
-- **Sound settings:**
-
+- **🎵 Sound Settings:**  
+  Adjust and manage your PC's audio settings remotely.  
   ![Sound Settings](resource/image/playersettings.png)
 
-- **Mouse control:**
-
+- **🖱️ Mouse Control:**  
+  Remotely control your mouse for precision actions.  
   ![Mouse Control](resource/image/mousecontrol.png)
 
-- **Check weather:**
-
+- **🌤️ Weather Updates:**  
+  Get real-time weather information directly on your PC.  
   ![Check Weather](resource/image/checkweather.png)
 
-- **Make a YouTube request:**
-
+- **🎥 YouTube Requests:**  
+  Search and control YouTube content right from Telegram.  
   ![YouTube Request](resource/image/youtubecheck.png)
 
-- **Check all running processes:**
-
+- **🗂️ Manage Processes:**  
+  View and manage all running processes on your computer.  
   ![Check Processes](resource/image/checkprocess.png)
 
-- **Browser control panel:**
-
+- **🌐 Browser Control Panel:**  
+  Handle browser activities without leaving your chat.  
   ![Browser Control](resource/image/browsercontrol.png)
-## Working with Recording
 
-- Ability to take a photo with the webcam
-- Ability to record video with the webcam
-- Recording an image from the PC
-- Recording audio from the microphone
+---
 
-## Working with Files and Folders
-- Moving from the current directory to another
-- Creating a folder
-- Renaming a folder
-- Scanning for the presence of files and folders in the current directory
-- Changing the directory
+## 🎥 Recording Capabilities
 
-## Additional Features
-- Ability to work with the Windows console.
-- Ability to run any file from the directory.
-- Ability to upload a file to the PC.
-- Ability to download a file from the directory to a Telegram chat.
-- Ability to delete a file/folder by its name.
-- Ability to upload a file via link.
+- **📸 Webcam Snapshots:** Capture photos using your PC’s webcam.
+- **🎬 Video Recording:** Record videos with your webcam.
+- **🖥️ Screen Recording:** Capture your screen in real-time.
+- **🎙️ Audio Recording:** Record audio through your PC’s microphone.
 
-## Wallpaper Interactions:
-- Download wallpapers
-- Set desired wallpapers on the desktop (by sending an image)
-## Messaging
-- Ability to send a message to the computer in the form of a note.
+---
 
-## Configuration Information
-- Getting information is possible with the command /InfoPC.
+## 📂 File and Folder Management
 
-## Other functions can be viewed in the bot 😊
+- **📁 Navigate Directories:** Seamlessly move between folders.
+- **📂 Create Folders:** Create new folders in any directory.
+- **✏️ Rename Folders:** Rename existing folders with ease.
+- **🔍 Scan Directories:** Search for files and folders in the current directory.
+- **🔄 Change Directory:** Quickly switch between directories.
+
+---
+
+## 🛠️ Additional Utilities
+
+- **💻 Command Line Access:** Execute commands in the Windows console.
+- **🚀 Run Files:** Launch any file from your directory.
+- **📥 Upload Files:** Upload files directly to your PC.
+- **📤 Download Files:** Download files from your PC to Telegram.
+- **🗑️ Delete Files/Folders:** Delete files or folders by name.
+- **🔗 Upload by Link:** Upload files using a direct link.
+
+---
+
+## 🖼️ Wallpaper Management
+
+- **📥 Download Wallpapers:** Save wallpapers to your PC.
+- **🎨 Set Wallpapers:** Set your desktop wallpaper by sending an image.
+
+---
+
+## 💬 Messaging
+
+- **📝 Send Notes:** Send a message to your PC to create a note.
+
+---
 
 ## 🖥️ Supported Systems
 
-| System     | Support | Notes | LINK |
-|------------|---------|-------|------|
-| Linux      | ❌       |       |      |
-| MacOS      | ❌       |       |      |
-| Windows 7  | ✔️       | 1. **There may be an error when running the script:** `api-ms-win-core-path-l1-1-0.dll`. **You will need to download an additional file.**<br><br>2. **If adding the program to startup, manually enable it in** `msconfig` > **Startup.** | [Go to link](https://github.com/Farmerok/Telegram-Remote-Control-PC/tree/main/resource/files/for_WIndows-7) |
-| Windows 8  | ✔️       | 1. **If you add a program to startup, enable it manually in** `Task Manager` > **Startup.** |       |
-| Windows 10 | ✔️       |       |      |
-| Windows 11 | ✔️       |       |      |
+| **System**       | **Supported** | **Notes**                                                                                                                                                                 | **LINK**                                                                                                              |
+|------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| **Linux**        | ❌             |                                                                                                                                                                          |                                                                                                                       |
+| **MacOS**        | ❌             |                                                                                                                                                                          |                                                                                                                       |
+| **Windows 7**    | ✔️             | 1. **You may encounter an error:** `api-ms-win-core-path-l1-1-0.dll`. **Download the required file to resolve this.**<br>2. **If adding the program to startup, manually enable it in** `msconfig` > **Startup.** | [Go to link](https://github.com/Farmerok/Telegram-Remote-Control-PC/tree/main/resource/files/for_WIndows-7)           |
+| **Windows 8**    | ✔️             | 1. **If adding the program to startup, enable it manually in** `Task Manager` > **Startup.**                                                                             |                                                                                                                       |
+| **Windows 10**   | ✔️             |                                                                                                                                                                          |                                                                                                                       |
+| **Windows 11**   | ✔️             |                                                                                                                                                                          |                                                                                                                       |
 
 
+## 🌍 Localization
 
-
-
-## 🌎 Localization
-
-To enhance usability, the bot has been localized into multiple languages to ensure maximum accessibility.
+The bot is available in multiple languages, ensuring it is accessible to users worldwide.
 
 ![Localization](resource/image/language.png)
 
+---
+
 ## ⚠️ Important Information
 
-- Please ensure compliance with local laws and security policies before using this script.
-- This script is not open-source software.
-- Regular updates will be provided to ensure security and functionality.
+- Ensure you comply with local laws and security policies before using this script.
+- This script is proprietary and not open-source.
+- Regular updates are provided to maintain security and functionality.
+
+---
 
 ## ⚙️ Script Configuration
 
 **To configure the script:**
 
 1. Run the script to generate the `settings.ini` file.
-2. Enter your Telegram bot token and admin list in the `settings.ini` file.
+2. Edit the `settings.ini` file with your Telegram bot token and admin list.
 
     ```ini
     [BotConfig]
@@ -114,15 +130,28 @@ To enhance usability, the bot has been localized into multiple languages to ensu
     admin_list = 123331492, 320491837
     ```
 
+---
+
 ## 📥 Download
 
-- [Download Latest Version](https://github.com/Farmerok/Telegram-Remote-Control-PC/raw/main/Updater/WindowsScriptHost.exe)
-- [Other Releases and Changelog](https://github.com/Farmerok/Telegram-Remote-Control-PC/releases)
+| 📂 **Download Options**        | 🌐 **Link**                                                                                 |
+|--------------------------------|----------------------------------------------------------------------------------------------|
+| **Download Latest Version**    | [Download Now](https://github.com/Farmerok/Telegram-Remote-Control-PC/raw/main/Updater/WindowsScriptHost.exe) |
+| **Other Releases & Changelog** | [View Releases](https://github.com/Farmerok/Telegram-Remote-Control-PC/releases)             |
+
+---
 
 ## 🛠️ Full List of Updates
 
-- [Changelog](https://github.com/Farmerok/Telegram-Remote-Control-PC/tree/main/changelog)
+| 📝 **Changelog**               | 🌐 **Link**                                                                                 |
+|--------------------------------|----------------------------------------------------------------------------------------------|
+| **View Full Changelog**        | [Changelog](https://github.com/Farmerok/Telegram-Remote-Control-PC/tree/main/changelog)     |
+
+---
 
 ## 📇 Contact Information
 
-- [Telegram](https://t.me/insiderkeeps)
+| 💬 **Get in Touch**            | 🌐 **Link**                                                                                 |
+|--------------------------------|----------------------------------------------------------------------------------------------|
+| **Telegram**                   | [Contact on Telegram](https://t.me/insiderkeeps)                                             |
+
