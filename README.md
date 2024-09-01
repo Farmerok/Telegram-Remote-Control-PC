@@ -4,6 +4,8 @@
 
 Welcome to **Telegram Remote Control Bot for PC**! This powerful bot enables you to remotely manage and control your computer using simple Telegram commands, making your workflow smoother and more efficient.
 
+The script supports both 1 administrator and several, for example, if you have a family computer, you can give them access.
+
 ---
 
 ## 🌟 Features at a Glance
