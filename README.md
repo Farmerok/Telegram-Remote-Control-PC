@@ -112,11 +112,28 @@ The bot is available in multiple languages, ensuring it is accessible to users w
 ---
 
 ## ⚠️ Important Information
-
-- Ensure you comply with local laws and security policies before using this script.
 - This script is proprietary and not open-source.
 - Regular updates are provided to maintain security and functionality.
+- Note about antivirus scanning
 
+  
+  ```ini
+  Some antivirus programs may flag this file as a virus, since the program is designed to remotely control a PC.
+  This is typical behavior for such programs, as they may be considered potentially dangerous due to their functions.
+  However, this script is absolutely safe and you can safely use it.
+  
+  You decide whether to download it or not - it's your right, and we respect your decision. However,
+  if you trust the source and need to remotely control your PC,
+  simply add the file to your antivirus's trusted or excluded list to avoid false positives.
+  
+  The script is provided completely free of charge and we will support it with updates from time to time to ensure security,
+  compatibility and enhanced functionality.
+  Don't worry - downloading the script is safe,
+  and you will get a powerful tool for conveniently managing your PC remotely via TELEGRAM!
+
+- 🚨 Disclaimer
+
+  - The creators of this script are not responsible for possible unlawful actions of users, including the use of the program to harm other people. Do not use this script to perform actions that may violate laws or the rights of others. You must use the program within the limits of the law and for the benefit of yourself and others.
 ---
 
 ## ⚙️ Script Configuration
