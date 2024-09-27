@@ -6,55 +6,71 @@ Welcome to **Telegram Remote Control Bot for PC**! This powerful bot enables you
 
 The script supports both 1 administrator and several, for example, if you have a family computer, you can give them access.
 
-## ❓ Demonstration of work > [Click](https://vimeo.com/1013143950)
+## ❓ Video Demonstration of work > [Click](https://vimeo.com/1013143950)
+
 ---
 
 ## 🌟 Features at a Glance
 
-- **🖼️ Take Screenshots:**  
-  Capture and retrieve screenshots directly from your PC.  
-  ![Take Screenshot](resource/image/takescreenshot.png)
-
-- **🔧 Bot Configuration:**  
-  Easily customize and manage bot settings.  
-  ![Bot Configuration](resource/image/panelbot.png)
-
-- **🖥️ System Control Panel:**  
-  Monitor and control system processes with ease.  
-  ![System Panel](resource/image/panelsystem.png)
-
-- **🎵 Sound Settings:**  
-  Adjust and manage your PC's audio settings remotely.  
-  ![Sound Settings](resource/image/playersettings.png)
-
-- **🖱️ Mouse Control:**  
-  Remotely control your mouse for precision actions.  
-  ![Mouse Control](resource/image/mousecontrol.png)
-
-- **🌤️ Weather Updates:**  
-  Get real-time weather information directly on your PC.  
-  ![Check Weather](resource/image/checkweather.png)
-
-- **🎥 YouTube Requests:**  
-  Search and control YouTube content right from Telegram.  
-  ![YouTube Request](resource/image/youtubecheck.png)
-
-- **🗂️ Manage Processes:**  
-  View and manage all running processes on your computer.  
-  ![Check Processes](resource/image/checkprocess.png)
-
-- **🌐 Browser Control Panel:**  
-  Handle browser activities without leaving your chat.  
-  ![Browser Control](resource/image/browsercontrol.png)
-
----
-
-## 🎥 Recording Capabilities
-
-- **📸 Webcam Snapshots:** Capture photos using your PC’s webcam.
-- **🎬 Video Recording:** Record videos with your webcam.
-- **🖥️ Screen Recording:** Capture your screen in real-time.
-- **🎙️ Audio Recording:** Record audio through your PC’s microphone.
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="resource/image/takescreenshot.png" width="290px"><br>
+        <b>🖼️ Take Screenshots</b><br>
+        Capture and retrieve screenshots directly from your PC.
+      </td>
+      <td align="center">
+        <img src="resource/image/panelbot.png" width="290px"><br>
+        <b>🔧 Bot Configuration</b><br>
+        Easily customize and manage bot settings.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="resource/image/panelsystem.png" width="290px"><br>
+        <b>🖥️ System Control Panel</b><br>
+        Monitor and control system processes with ease.
+      </td>
+      <td align="center">
+        <img src="resource/image/playersettings.png" width="290px"><br>
+        <b>🎵 Sound Settings</b><br>
+        Adjust and manage your PC's audio settings remotely.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="resource/image/devicecontrol.png" width="290px"><br>
+        <b>🖱️ Device Control</b><br>
+        Remotely control your mouse for precision actions.
+      </td>
+      <td align="center">
+        <img src="resource/image/checkweather.png" width="290px"><br>
+        <b>🌤️ Check Weather</b><br>
+        Get real-time weather information directly on your PC.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="resource/image/youtubecheck.png" width="290px"><br>
+        <b>🎥 YouTube Requests</b><br>
+        Search and control YouTube content from Telegram.
+      </td>
+      <td align="center">
+        <img src="resource/image/checkprocess.png" width="290px"><br>
+        <b>🗂️ Manage Processes</b><br>
+        View and manage all running processes on your PC.
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <img src="resource/image/browsercontrol.png" width="290px"><br>
+        <b>🌐 Browser Control Panel</b><br>
+        Handle browser activities without leaving your chat.
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
