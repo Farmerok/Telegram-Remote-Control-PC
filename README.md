@@ -106,6 +106,12 @@ The script supports both 1 administrator and several, for example, if you have a
 
 - **📝 Send Notes:** Send a message to your PC to create a note.
 
+## 🌍 Localization
+
+The bot is available in multiple languages, ensuring it is accessible to users worldwide.
+
+![Localization](resource/image/language.png)
+
 ---
 
 ## 🖥️ Supported Systems
@@ -118,13 +124,6 @@ The script supports both 1 administrator and several, for example, if you have a
 | **Windows 8**    | ✔️             | 1. **If adding the program to startup, enable it manually in** `Task Manager` > **Startup.**                                                                             |                                                                                                                       |
 | **Windows 10**   | ✔️             |                                                                                                                                                                          |                                                                                                                       |
 | **Windows 11**   | ✔️             |                                                                                                                                                                          |                                                                                                                       |
-
-
-## 🌍 Localization
-
-The bot is available in multiple languages, ensuring it is accessible to users worldwide.
-
-![Localization](resource/image/language.png)
 
 ---
 
