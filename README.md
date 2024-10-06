@@ -16,6 +16,11 @@ The script supports both 1 administrator and several, for example, if you have a
   <table>
     <tr>
       <td align="center">
+        <img src="resource/image/language.png" width="290px"><br>
+        <b>🌍 Localization</b><br>
+        The bot is available in multiple languages, ensuring it is accessible to users worldwide.
+      </td>
+      <td align="center">
         <img src="resource/image/takescreenshot.png" width="290px"><br>
         <b>🖼️ Take Screenshots</b><br>
         Capture and retrieve screenshots directly from your PC.
@@ -37,20 +42,18 @@ The script supports both 1 administrator and several, for example, if you have a
         <b>🎵 Sound Settings</b><br>
         Adjust and manage your PC's audio settings remotely.
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <img src="resource/image/devicecontrol.png" width="290px"><br>
         <b>🖱️ Device Control</b><br>
         Remotely control your mouse for precision actions.
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <img src="resource/image/checkweather.png" width="290px"><br>
         <b>🌤️ Check Weather</b><br>
         Get real-time weather information directly on your PC.
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <img src="resource/image/youtubecheck.png" width="290px"><br>
         <b>🎥 YouTube Requests</b><br>
@@ -63,7 +66,7 @@ The script supports both 1 administrator and several, for example, if you have a
       </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td align="center" colspan="3">
         <img src="resource/image/browsercontrol.png" width="290px"><br>
         <b>🌐 Browser Control Panel</b><br>
         Handle browser activities without leaving your chat.
@@ -106,12 +109,6 @@ The script supports both 1 administrator and several, for example, if you have a
 
 - **📝 Send Notes:** Send a message to your PC to create a note.
 
-## 🌍 Localization
-
-The bot is available in multiple languages, ensuring it is accessible to users worldwide.
-
-![Localization](resource/image/language.png)
-
 ---
 
 ## 🖥️ Supported Systems
@@ -152,12 +149,22 @@ The bot is available in multiple languages, ensuring it is accessible to users w
   - The creators of this script are not responsible for possible unlawful actions of users, including the use of the program to harm other people. Do not use this script to perform actions that may violate laws or the rights of others. You must use the program within the limits of the law and for the benefit of yourself and others.
 ---
 
+## 🐞 Reporting Issues
+
+If you encounter a bug, an incomplete feature, a localization error in your language, or an issue with phrasing, please report it to me via Telegram or create an issue in the repository.
+
+Also, if you have any interesting suggestions, feel free to share!
+
+- **Telegram:** [Telegram](https://t.me/insiderkeeps)
+- **Issues:** [Create Issues](https://github.com/Farmerok/Telegram-Remote-Control-PC/issues/new)
+
+
 ## ⚙️ Script Configuration
 
-**To configure the script:**
+*To configure the script:*
 
-1. Run the script to generate the `settings.ini` file.
-2. Edit the `settings.ini` file with your Telegram bot token and admin list.
+1. **Run the script to generate the `settings.ini` file, where you can enter the data (an example is shown below).**
+2. **Alternatively, create a file named `settings.ini`, copy the example below, and paste it into the file, then replace it with YOUR data.**
 
     ```ini
     [BotConfig]
