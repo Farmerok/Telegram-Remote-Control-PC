@@ -6,6 +6,9 @@ Welcome to **Telegram Remote Control Bot for PC**! This powerful bot enables you
 
 The script supports both 1 administrator and several, for example, if you have a family computer, you can give them access.
 
+The script currently receives free regular updates. As long as I have the opportunity and desire, I will support it and its functionality.
+The script can be downloaded - [Click](https://github.com/Farmerok/Telegram-Remote-Control-PC#-download)
+
 ## ❓ Video Demonstration of work > [Click](https://vimeo.com/1013143950)
 
 ---
