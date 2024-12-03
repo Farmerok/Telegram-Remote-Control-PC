@@ -41,6 +41,18 @@ The script can be downloaded - [Click](https://github.com/Farmerok/Telegram-Remo
         Monitor and control system processes with ease.
       </td>
       <td align="center">
+        <img src="resource/image/systemSection.png" width="290px"><br>
+        <b>⚙️ System Information</b><br>
+        View detailed system information such as CPU usage, memory stats, and more.
+      </td>
+      <td align="center">
+        <img src="resource/image/PowerPC.png" width="290px"><br>
+        <b>🔋 Power Management</b><br>
+        Control your PC's power options, including shutdown, restart, and sleep.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
         <img src="resource/image/playersettings.png" width="290px"><br>
         <b>🎵 Sound Settings</b><br>
         Adjust and manage your PC's audio settings remotely.
@@ -50,13 +62,13 @@ The script can be downloaded - [Click](https://github.com/Farmerok/Telegram-Remo
         <b>🖱️ Device Control</b><br>
         Remotely control your mouse for precision actions.
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <img src="resource/image/checkweather.png" width="290px"><br>
         <b>🌤️ Check Weather</b><br>
         Get real-time weather information directly on your PC.
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <img src="resource/image/youtubecheck.png" width="290px"><br>
         <b>🎥 YouTube Requests</b><br>
@@ -67,9 +79,7 @@ The script can be downloaded - [Click](https://github.com/Farmerok/Telegram-Remo
         <b>🗂️ Manage Processes</b><br>
         View and manage all running processes on your PC.
       </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="3">
+      <td align="center">
         <img src="resource/image/browsercontrol.png" width="290px"><br>
         <b>🌐 Browser Control Panel</b><br>
         Handle browser activities without leaving your chat.
@@ -77,6 +87,7 @@ The script can be downloaded - [Click](https://github.com/Farmerok/Telegram-Remo
     </tr>
   </table>
 </div>
+
 
 ---
 
@@ -130,6 +141,8 @@ The script can be downloaded - [Click](https://github.com/Farmerok/Telegram-Remo
 ## ⚠️ Important Information
 - This script is proprietary and not open-source.
 - Regular updates are provided to maintain security and functionality.
+- What is `update.exe"?`  
+  This file is responsible for updating the script. If you want to quickly update the script without downloading it manually, simply download and run `update.exe`. It will automatically fetch and install the latest version of the script for you.
 - Note about antivirus scanning
 
   
@@ -152,16 +165,6 @@ The script can be downloaded - [Click](https://github.com/Farmerok/Telegram-Remo
   - The creators of this script are not responsible for possible unlawful actions of users, including the use of the program to harm other people. Do not use this script to perform actions that may violate laws or the rights of others. You must use the program within the limits of the law and for the benefit of yourself and others.
 ---
 
-## 🐞 Reporting Issues
-
-If you encounter a bug, an incomplete feature, a localization error in your language, or an issue with phrasing, please report it to me via Telegram or create an issue in the repository.
-
-Also, if you have any interesting suggestions, feel free to share!
-
-- **Telegram:** [Telegram](https://t.me/insiderkeeps)
-- **Issues:** [Create Issues](https://github.com/Farmerok/Telegram-Remote-Control-PC/issues/new)
-
-
 ## ⚙️ Script Configuration
 
 *To configure the script:*
@@ -174,6 +177,23 @@ Also, if you have any interesting suggestions, feel free to share!
     token = 1298170394:AAFoRAJsNzgxalі4dhHX_UNjDbu6stjsTkI
     admin_list = 123331492, 320491837
     ```
+
+### Where to Get the Required Data
+
+1. **Bot Token:**  
+   - Go to Telegram and search for the [@BotFather](https://t.me/BotFather).  
+   - Start a chat with it and send the command `/newbot`.  
+   - Follow the instructions to create a new bot and get your unique token.  
+     Example: `123456789:ABCDefghIJKLMNOPQRSTUVWXYZ`.  
+   - Save this token for use in the `settings.ini` file.
+
+2. **Admin ID(s):**  
+   - Open Telegram and search for the `MYID` and `getmyid`.  
+   - Start a chat with it, and it will display your unique Telegram user ID.  
+     Example: `123456789`.  
+   - Add your ID to the `admin_list` in the `settings.ini` file to ensure you have access to admin commands.
+   - If you want to add multiple admins, separate their IDs with a comma (`,`) as shown above.
+
 
 ---
 
@@ -199,4 +219,13 @@ Also, if you have any interesting suggestions, feel free to share!
 | 💬 **Get in Touch**            | 🌐 **Link**                                                                                 |
 |--------------------------------|----------------------------------------------------------------------------------------------|
 | **Telegram**                   | [Contact on Telegram](https://t.me/insiderkeeps)                                             |
+
+## 🐞 Reporting Issues
+
+If you encounter a bug, an incomplete feature, a localization error in your language, or an issue with phrasing, please report it to me via Telegram or create an issue in the repository.
+
+Also, if you have any interesting suggestions, feel free to share!
+
+- **Telegram:** [Telegram](https://t.me/insiderkeeps)
+- **Issues:** [Create Issues](https://github.com/Farmerok/Telegram-Remote-Control-PC/issues/new)
 
