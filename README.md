@@ -1,16 +1,20 @@
-# 🤖 Telegram Remote Control Bot for PC
+# 🤖 Control your PC with a telegram bot!
 
 ## 📝 Introduction
 
-Welcome to **Telegram Remote Control Bot for PC**! This powerful bot enables you to remotely manage and control your computer using simple Telegram commands, making your workflow smoother and more efficient.
+Welcome to **Control your PC with a telegram bot**! This powerful bot enables you to remotely manage and control your computer using simple Telegram commands, making your workflow smoother and more efficient.
 
 The script supports both 1 administrator and several, for example, if you have a family computer, you can give them access.
 
 The script currently receives free regular updates. As long as I have the opportunity and desire, I will support it and its functionality.
-The script can be downloaded - [Click](https://github.com/Farmerok/Telegram-Remote-Control-PC#-download)
 
-## ❓ Video Demonstration of work > [Click](https://vimeo.com/1013143950)
+## 📖 Table of Contents
 
+1. [📥   Download](#-download)
+2. [⚙️   Script Configuration](#%EF%B8%8F-script-configuration)
+3. [🖥️   Supported Systems](#%EF%B8%8F-supported-systems)
+4. [⚠️   Important Information](#%EF%B8%8F-important-information)
+5. [🐞   Reporting Issues](#-reporting-issues)
 ---
 
 ## 🌟 Features at a Glance
@@ -88,7 +92,7 @@ The script can be downloaded - [Click](https://github.com/Farmerok/Telegram-Remo
   </table>
 </div>
 
-
+## ❓ Video DEMO of work > [Click](https://vimeo.com/1013143950)
 ---
 
 ## 📂 File and Folder Management
