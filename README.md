@@ -56,7 +56,8 @@
 
 
 
-
+## ℹ️ How to download and configure a bot?
+- *Watch the* `video` [Click](https://vimeo.com/1036711129)
 ## 📥 Download
 
 | 📂 **Download Options**        | 🌐 **Link**                                                                                 |
