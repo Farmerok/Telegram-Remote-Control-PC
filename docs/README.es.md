@@ -5,6 +5,7 @@
 El script admite tanto un solo administrador como varios administradores. Por ejemplo, si utilizas una computadora familiar, puedes dar acceso a tus seres queridos.
 
 El script recibe actualizaciones gratuitas de forma regular. Mientras tenga la capacidad y las ganas, seguiré manteniendo su funcionalidad.
+
 ---
 
 ## 🌟 Funciones principales
@@ -47,8 +48,6 @@ El script recibe actualizaciones gratuitas de forma regular. Mientras tenga la c
     </tr>
   </table>
 </div>
-
-## ❓ Video de demostración > [Haz clic aquí](https://vimeo.com/1013143950)
 
 ---
 

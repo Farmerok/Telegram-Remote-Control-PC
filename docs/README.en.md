@@ -5,6 +5,7 @@ Welcome to **Control Your PC with a Telegram Bot**! This powerful bot allows you
 The script supports both a single administrator and multiple administrators. For example, if you are using a family computer, you can grant access to your loved ones.
 
 The script regularly receives free updates. As long as I have the ability and desire, I will maintain its functionality.
+
 ---
 
 ## 🌟 Key Features
@@ -47,8 +48,6 @@ The script regularly receives free updates. As long as I have the ability and de
     </tr>
   </table>
 </div>
-
-## ❓ Video Demo > [Click here](https://vimeo.com/1013143950)
 
 ---
 
