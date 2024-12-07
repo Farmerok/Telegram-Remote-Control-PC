@@ -5,6 +5,7 @@ Bienvenue dans **Contrôlez votre PC avec un bot Telegram** ! Ce puissant bot vo
 Le script prend en charge un administrateur unique ainsi que plusieurs administrateurs. Par exemple, si vous utilisez un ordinateur familial, vous pouvez donner l'accès à vos proches.
 
 Le script reçoit régulièrement des mises à jour gratuites. Tant que j'ai la capacité et l'envie, je maintiendrai sa fonctionnalité.
+
 ---
 
 ## 🌟 Fonctionnalités principales
@@ -47,8 +48,6 @@ Le script reçoit régulièrement des mises à jour gratuites. Tant que j'ai la 
     </tr>
   </table>
 </div>
-
-## ❓ Vidéo de démonstration > [Cliquez ici](https://vimeo.com/1013143950)
 
 ---
 

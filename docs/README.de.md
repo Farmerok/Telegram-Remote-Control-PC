@@ -5,6 +5,7 @@ Willkommen bei **Steuere deinen PC mit einem Telegram-Bot**! Dieser leistungssta
 Das Skript unterstützt sowohl einen einzelnen Administrator als auch mehrere Administratoren. Wenn du beispielsweise einen Familiencomputer verwendest, kannst du deinen Angehörigen Zugang gewähren.
 
 Das Skript erhält regelmäßig kostenlose Updates. Solange ich die Möglichkeit und den Wunsch habe, werde ich die Funktionalität weiterhin unterstützen.
+
 ---
 
 ## 🌟 Hauptfunktionen
@@ -47,8 +48,6 @@ Das Skript erhält regelmäßig kostenlose Updates. Solange ich die Möglichkeit
     </tr>
   </table>
 </div>
-
-## ❓ Video-Demonstration > [Klicke hier](https://vimeo.com/1013143950)
 
 ---
 
