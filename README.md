@@ -54,7 +54,8 @@
   </table>
 </p>
 
-
+# ❓ Video Demo
+[![Видео на YouTube](https://img.youtube.com/vi/QhUmuGZmCfc/0.jpg)](https://www.youtube.com/watch?v=QhUmuGZmCfc)
 
 ## ℹ️ How to download and configure a bot?
 - *Watch the* `video` [Click](https://vimeo.com/1036711129)
