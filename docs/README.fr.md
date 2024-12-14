@@ -16,12 +16,12 @@ Le script reçoit régulièrement des mises à jour gratuites. Tant que j'ai la 
       <td align="center">
         <img src="resource/image/language.png" width="290px"><br>
         <b>🌍 Localisation</b><br>
-        Le bot est disponible en plusieurs langues, ce qui le rend pratique pour les utilisateurs du monde entier.
+        Le bot est disponible en plusieurs langues, offrant une commodité d'utilisation aux utilisateurs presque partout dans le monde.
       </td>
       <td align="center">
         <img src="resource/image/takescreenshot.png" width="290px"><br>
         <b>🖼️ Capture d'écran</b><br>
-        Prenez et recevez des captures d'écran directement depuis votre PC.
+        Prenez et recevez des captures d'écran directement depuis votre PC sur Telegram.
       </td>
       <td align="center">
         <img src="resource/image/panelbot.png" width="290px"><br>
@@ -32,22 +32,57 @@ Le script reçoit régulièrement des mises à jour gratuites. Tant que j'ai la 
     <tr>
       <td align="center">
         <img src="resource/image/panelsystem.png" width="290px"><br>
-        <b>🖥️ Panneau de contrôle du système</b><br>
-        Surveillez et contrôlez les processus de votre système.
+        <b>🖥️ Panneau de navigation pour la gestion du système</b><br>
+        Une navigation pratique avec votre système.
       </td>
       <td align="center">
         <img src="resource/image/systemSection.png" width="290px"><br>
         <b>⚙️ Informations système</b><br>
-        Consultez des informations détaillées sur le système, telles que la charge du processeur, les statistiques de la mémoire et bien plus encore.
+        Interagissez avec l'alimentation du PC, modifiez le plan d'alimentation, fonction d'arrêt d'écran, blocage rapide, vérification de l'état des disques, déconnexion du système.
       </td>
       <td align="center">
         <img src="resource/image/PowerPC.png" width="290px"><br>
         <b>🔋 Gestion de l'alimentation</b><br>
-        Contrôlez les paramètres d'alimentation de votre PC, y compris l'arrêt, le redémarrage et le mode veille.
+        Gérez les options d'alimentation de votre PC, y compris : arrêt, redémarrage, mode hibernation ou planification de l'arrêt du PC.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="resource/image/playersettings.png" width="290px"><br>
+        <b>🎵 Paramètres audio</b><br>
+        Configurez et gérez le son de votre PC à distance.
+      </td>
+      <td align="center">
+        <img src="resource/image/devicecontrol.png" width="290px"><br>
+        <b>🖱️ Gestion des périphériques</b><br>
+        Contrôlez à distance la souris et le clavier.
+      </td>
+      <td align="center">
+        <img src="resource/image/checkweather.png" width="290px"><br>
+        <b>🌤️ Vérification météo</b><br>
+        Obtenez des informations météorologiques à jour directement dans le bot !
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="resource/image/youtubecheck.png" width="290px"><br>
+        <b>🎥 Recherches YouTube</b><br>
+        Recherchez du contenu sur YouTube via Telegram.
+      </td>
+      <td align="center">
+        <img src="resource/image/checkprocess.png" width="290px"><br>
+        <b>🗂️ Gestion des processus</b><br>
+        Consultez et gérez tous les processus en cours sur votre PC, surveillez leur consommation et terminez-les.
+      </td>
+      <td align="center">
+        <img src="resource/image/browsercontrol.png" width="290px"><br>
+        <b>🌐 Panneau de contrôle du navigateur</b><br>
+        Gérez les actions du navigateur directement depuis le chat.
       </td>
     </tr>
   </table>
 </div>
+
 
 ---
 

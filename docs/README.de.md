@@ -16,38 +16,73 @@ Das Skript erhält regelmäßig kostenlose Updates. Solange ich die Möglichkeit
       <td align="center">
         <img src="resource/image/language.png" width="290px"><br>
         <b>🌍 Lokalisierung</b><br>
-        Der Bot ist in mehreren Sprachen verfügbar, was ihn für Benutzer weltweit praktisch macht.
+        Der Bot ist in mehreren Sprachen verfügbar und bietet Benutzern weltweit Komfort.
       </td>
       <td align="center">
         <img src="resource/image/takescreenshot.png" width="290px"><br>
-        <b>🖼️ Screenshot erstellen</b><br>
-        Erstelle und erhalte Screenshots direkt von deinem PC.
+        <b>🖼️ Erstellung von Screenshots</b><br>
+        Machen Sie Screenshots und erhalten Sie sie direkt von Ihrem PC über Telegram.
       </td>
       <td align="center">
         <img src="resource/image/panelbot.png" width="290px"><br>
         <b>🔧 Bot-Einstellungen</b><br>
-        Konfiguriere und verwalte die Bot-Parameter einfach.
+        Konfigurieren und verwalten Sie die Einstellungen des Bots ganz einfach.
       </td>
     </tr>
     <tr>
       <td align="center">
         <img src="resource/image/panelsystem.png" width="290px"><br>
-        <b>🖥️ Systemsteuerung</b><br>
-        Überwache und steuere die Prozesse deines Systems.
+        <b>🖥️ Navigationspanel zur Systemsteuerung</b><br>
+        Bequeme Navigation mit Ihrem System.
       </td>
       <td align="center">
         <img src="resource/image/systemSection.png" width="290px"><br>
         <b>⚙️ Systeminformationen</b><br>
-        Sieh dir detaillierte Systeminformationen wie CPU-Auslastung, Speicherauslastung und vieles mehr an.
+        Interagieren Sie mit der PC-Energieversorgung, ändern Sie den Energiesparplan, nutzen Sie die Bildschirm-Sperrfunktion, Schnell-Sperre, überprüfen Sie den Festplattenstatus und melden Sie sich vom System ab.
       </td>
       <td align="center">
         <img src="resource/image/PowerPC.png" width="290px"><br>
         <b>🔋 Energieverwaltung</b><br>
-        Steuere die Energieeinstellungen deines PCs, einschließlich Herunterfahren, Neustart und Schlafmodus.
+        Verwalten Sie die Energieoptionen Ihres PCs, einschließlich Herunterfahren, Neustart, Ruhezustand oder Zeitplanung für das Herunterfahren.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="resource/image/playersettings.png" width="290px"><br>
+        <b>🎵 Audioeinstellungen</b><br>
+        Konfigurieren und steuern Sie den Ton Ihres PCs aus der Ferne.
+      </td>
+      <td align="center">
+        <img src="resource/image/devicecontrol.png" width="290px"><br>
+        <b>🖱️ Geräteverwaltung</b><br>
+        Steuern Sie Maus und Tastatur aus der Ferne.
+      </td>
+      <td align="center">
+        <img src="resource/image/checkweather.png" width="290px"><br>
+        <b>🌤️ Wetterüberprüfung</b><br>
+        Erhalten Sie aktuelle Wetterinformationen direkt im Bot!
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="resource/image/youtubecheck.png" width="290px"><br>
+        <b>🎥 YouTube-Anfragen</b><br>
+        Suchen Sie Inhalte auf YouTube über Telegram.
+      </td>
+      <td align="center">
+        <img src="resource/image/checkprocess.png" width="290px"><br>
+        <b>🗂️ Prozessverwaltung</b><br>
+        Anzeigen und Verwalten aller laufenden Prozesse auf Ihrem PC, Überwachen der Ressourcennutzung und Beenden von Prozessen.
+      </td>
+      <td align="center">
+        <img src="resource/image/browsercontrol.png" width="290px"><br>
+        <b>🌐 Browsersteuerungspanel</b><br>
+        Verwalten Sie Browseraktionen direkt aus dem Chat.
       </td>
     </tr>
   </table>
 </div>
+
 
 ---
 

@@ -16,38 +16,73 @@ El script recibe actualizaciones gratuitas de forma regular. Mientras tenga la c
       <td align="center">
         <img src="resource/image/language.png" width="290px"><br>
         <b>🌍 Localización</b><br>
-        El bot está disponible en varios idiomas, lo que lo hace práctico para usuarios de todo el mundo.
+        El bot está disponible en varios idiomas, ofreciendo comodidad a los usuarios en casi todo el mundo.
       </td>
       <td align="center">
         <img src="resource/image/takescreenshot.png" width="290px"><br>
-        <b>🖼️ Captura de pantalla</b><br>
-        Toma y recibe capturas de pantalla directamente desde tu PC.
+        <b>🖼️ Creación de capturas de pantalla</b><br>
+        Toma y recibe capturas de pantalla directamente desde tu PC en Telegram.
       </td>
       <td align="center">
         <img src="resource/image/panelbot.png" width="290px"><br>
         <b>🔧 Configuración del bot</b><br>
-        Configura y gestiona fácilmente los parámetros del bot.
+        Configura y gestiona fácilmente los ajustes del bot.
       </td>
     </tr>
     <tr>
       <td align="center">
         <img src="resource/image/panelsystem.png" width="290px"><br>
-        <b>🖥️ Panel de control del sistema</b><br>
-        Supervisa y controla los procesos de tu sistema.
+        <b>🖥️ Panel de navegación para gestión del sistema</b><br>
+        Navegación práctica con tu sistema.
       </td>
       <td align="center">
         <img src="resource/image/systemSection.png" width="290px"><br>
         <b>⚙️ Información del sistema</b><br>
-        Consulta información detallada sobre el sistema, como el uso de la CPU, las estadísticas de memoria y mucho más.
+        Interactúa con la energía del PC, cambia el plan de energía, utiliza la función de bloqueo de pantalla, bloqueo rápido, verifica el estado del disco y cierra la sesión del sistema.
       </td>
       <td align="center">
         <img src="resource/image/PowerPC.png" width="290px"><br>
         <b>🔋 Gestión de energía</b><br>
-        Controla los parámetros de energía de tu PC, incluyendo apagado, reinicio y modo de suspensión.
+        Administra las opciones de energía de tu PC, incluyendo apagado, reinicio, modo de hibernación o programación del apagado.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="resource/image/playersettings.png" width="290px"><br>
+        <b>🎵 Configuración de sonido</b><br>
+        Configura y administra el sonido de tu PC de forma remota.
+      </td>
+      <td align="center">
+        <img src="resource/image/devicecontrol.png" width="290px"><br>
+        <b>🖱️ Control de dispositivos</b><br>
+        Controla de forma remota el ratón y el teclado.
+      </td>
+      <td align="center">
+        <img src="resource/image/checkweather.png" width="290px"><br>
+        <b>🌤️ Verificación del clima</b><br>
+        ¡Obtén información meteorológica actualizada directamente en el bot!
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="resource/image/youtubecheck.png" width="290px"><br>
+        <b>🎥 Búsquedas en YouTube</b><br>
+        Busca contenido en YouTube a través de Telegram.
+      </td>
+      <td align="center">
+        <img src="resource/image/checkprocess.png" width="290px"><br>
+        <b>🗂️ Gestión de procesos</b><br>
+        Consulta y administra todos los procesos en ejecución en tu PC, monitorea su uso y ciérralos.
+      </td>
+      <td align="center">
+        <img src="resource/image/browsercontrol.png" width="290px"><br>
+        <b>🌐 Panel de control del navegador</b><br>
+        Gestiona las acciones del navegador directamente desde el chat.
       </td>
     </tr>
   </table>
 </div>
+
 
 ---
 
