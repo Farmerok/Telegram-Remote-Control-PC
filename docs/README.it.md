@@ -15,39 +15,74 @@ Das Skript erhält regelmäßig kostenlose Updates. Solange ich die Möglichkeit
     <tr>
       <td align="center">
         <img src="resource/image/language.png" width="290px"><br>
-        <b>🌍 Lokalisierung</b><br>
-        Der Bot ist in mehreren Sprachen verfügbar, was ihn für Benutzer weltweit praktisch macht.
+        <b>🌍 Localizzazione</b><br>
+        Il bot è disponibile in più lingue, offrendo praticità agli utenti quasi ovunque nel mondo.
       </td>
       <td align="center">
         <img src="resource/image/takescreenshot.png" width="290px"><br>
-        <b>🖼️ Screenshot erstellen</b><br>
-        Erstelle und erhalte Screenshots direkt von deinem PC.
+        <b>🖼️ Creazione di screenshot</b><br>
+        Cattura e ricevi screenshot direttamente dal tuo PC su Telegram.
       </td>
       <td align="center">
         <img src="resource/image/panelbot.png" width="290px"><br>
-        <b>🔧 Bot-Einstellungen</b><br>
-        Konfiguriere und verwalte die Bot-Parameter einfach.
+        <b>🔧 Configurazione del bot</b><br>
+        Configura e gestisci facilmente le impostazioni del bot.
       </td>
     </tr>
     <tr>
       <td align="center">
         <img src="resource/image/panelsystem.png" width="290px"><br>
-        <b>🖥️ Systemsteuerung</b><br>
-        Überwache und steuere die Prozesse deines Systems.
+        <b>🖥️ Pannello di navigazione per la gestione del sistema</b><br>
+        Navigazione comoda per gestire il tuo sistema.
       </td>
       <td align="center">
         <img src="resource/image/systemSection.png" width="290px"><br>
-        <b>⚙️ Systeminformationen</b><br>
-        Sieh dir detaillierte Systeminformationen wie CPU-Auslastung, Speicherauslastung und vieles mehr an.
+        <b>⚙️ Informazioni di sistema</b><br>
+        Interagisci con l'alimentazione del PC, modifica il piano energetico, utilizza la funzione di blocco schermo, blocco rapido, verifica lo stato dei dischi e disconnettiti dal sistema.
       </td>
       <td align="center">
         <img src="resource/image/PowerPC.png" width="290px"><br>
-        <b>🔋 Energieverwaltung</b><br>
-        Steuere die Energieeinstellungen deines PCs, einschließlich Herunterfahren, Neustart und Schlafmodus.
+        <b>🔋 Gestione dell'alimentazione</b><br>
+        Gestisci le opzioni di alimentazione del tuo PC, tra cui spegnimento, riavvio, modalità ibernazione o pianificazione dello spegnimento.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="resource/image/playersettings.png" width="290px"><br>
+        <b>🎵 Impostazioni audio</b><br>
+        Configura e gestisci l'audio del tuo PC a distanza.
+      </td>
+      <td align="center">
+        <img src="resource/image/devicecontrol.png" width="290px"><br>
+        <b>🖱️ Controllo dei dispositivi</b><br>
+        Controlla a distanza il mouse e la tastiera.
+      </td>
+      <td align="center">
+        <img src="resource/image/checkweather.png" width="290px"><br>
+        <b>🌤️ Controllo meteo</b><br>
+        Ricevi informazioni meteo aggiornate direttamente sul bot!
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="resource/image/youtubecheck.png" width="290px"><br>
+        <b>🎥 Ricerche su YouTube</b><br>
+        Cerca contenuti su YouTube tramite Telegram.
+      </td>
+      <td align="center">
+        <img src="resource/image/checkprocess.png" width="290px"><br>
+        <b>🗂️ Gestione dei processi</b><br>
+        Visualizza e gestisci tutti i processi in esecuzione sul tuo PC, monitorando l'utilizzo delle risorse e terminandoli.
+      </td>
+      <td align="center">
+        <img src="resource/image/browsercontrol.png" width="290px"><br>
+        <b>🌐 Pannello di controllo del browser</b><br>
+        Gestisci le azioni del browser direttamente dalla chat.
       </td>
     </tr>
   </table>
 </div>
+
 
 ---
 

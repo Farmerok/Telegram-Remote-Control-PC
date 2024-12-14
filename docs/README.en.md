@@ -16,38 +16,73 @@ The script regularly receives free updates. As long as I have the ability and de
       <td align="center">
         <img src="resource/image/language.png" width="290px"><br>
         <b>🌍 Localization</b><br>
-        The bot is available in multiple languages, making it convenient for users worldwide.
+        The bot is available in multiple languages, providing convenience for users almost anywhere in the world.
       </td>
       <td align="center">
         <img src="resource/image/takescreenshot.png" width="290px"><br>
-        <b>🖼️ Screenshot Capture</b><br>
-        Take and receive screenshots directly from your PC.
+        <b>🖼️ Screenshot Creation</b><br>
+        Take and receive screenshots directly from your PC on Telegram.
       </td>
       <td align="center">
         <img src="resource/image/panelbot.png" width="290px"><br>
         <b>🔧 Bot Configuration</b><br>
-        Easily configure and manage the bot's settings.
+        Easily configure and manage bot settings.
       </td>
     </tr>
     <tr>
       <td align="center">
         <img src="resource/image/panelsystem.png" width="290px"><br>
-        <b>🖥️ System Control Panel</b><br>
-        Monitor and control your system processes.
+        <b>🖥️ System Control Navigation Panel</b><br>
+        Convenient navigation with your system.
       </td>
       <td align="center">
         <img src="resource/image/systemSection.png" width="290px"><br>
         <b>⚙️ System Information</b><br>
-        View detailed system information such as CPU load, memory stats, and much more.
+        Interact with PC power, change power plans, use the screen lock feature, quick lock, check disk statuses, and log out of the system.
       </td>
       <td align="center">
         <img src="resource/image/PowerPC.png" width="290px"><br>
         <b>🔋 Power Management</b><br>
-        Control your PC's power settings, including shutdown, restart, and sleep mode.
+        Manage your PC's power options, including shutdown, restart, hibernate mode, or schedule a shutdown.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="resource/image/playersettings.png" width="290px"><br>
+        <b>🎵 Sound Settings</b><br>
+        Configure and manage your PC's sound remotely.
+      </td>
+      <td align="center">
+        <img src="resource/image/devicecontrol.png" width="290px"><br>
+        <b>🖱️ Device Control</b><br>
+        Remotely control your mouse and keyboard.
+      </td>
+      <td align="center">
+        <img src="resource/image/checkweather.png" width="290px"><br>
+        <b>🌤️ Weather Check</b><br>
+        Get up-to-date weather information directly in the bot!
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="resource/image/youtubecheck.png" width="290px"><br>
+        <b>🎥 YouTube Queries</b><br>
+        Search for content on YouTube via Telegram.
+      </td>
+      <td align="center">
+        <img src="resource/image/checkprocess.png" width="290px"><br>
+        <b>🗂️ Process Management</b><br>
+        View and manage all running processes on your PC, monitor their usage, and terminate them.
+      </td>
+      <td align="center">
+        <img src="resource/image/browsercontrol.png" width="290px"><br>
+        <b>🌐 Browser Control Panel</b><br>
+        Manage browser actions directly from the chat.
       </td>
     </tr>
   </table>
 </div>
+
 
 ---
 
