@@ -13,6 +13,23 @@ Le script reçoit régulièrement des mises à jour gratuites. Tant que j'ai la 
 <div align="center">
   <table>
     <tr>
+	  <td align="center">
+		<img src="resource/image/primarymenuserver.png" width="290px"><br>
+		<b>🔧 Navigation pratique entre caméra ou bureau</b><br>
+		Vous souhaitez observer quelque chose ? Choisissez
+	  </td>
+	  <td align="center">
+		<img src="resource/image/livecamera.png" width="290px"><br>
+		<b>📸 Diffusion depuis les caméras</b><br>
+		Regardez la diffusion depuis vos caméras pour surveiller votre maison.
+	  </td>
+	  <td align="center">
+		<img src="resource/image/livedesktop.png" width="290px"><br>
+		<b>📸 Diffusion depuis l'écran</b><br>
+		Surveillez votre bureau depuis un téléphone ou un autre PC
+	  </td>
+	</tr>
+    <tr>
       <td align="center">
         <img src="resource/image/language.png" width="290px"><br>
         <b>🌍 Localisation</b><br>

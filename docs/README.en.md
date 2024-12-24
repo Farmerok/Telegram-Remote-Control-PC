@@ -12,6 +12,23 @@ The script regularly receives free updates. As long as I have the ability and de
 
 <div align="center">
   <table>
+	<tr>
+	  <td align="center">
+		<img src="resource/image/primarymenuserver.png" width="290px"><br>
+		<b>🔧 Convenient navigation between camera or desktop</b><br>
+		Want to observe something? Choose
+	  </td>
+	  <td align="center">
+		<img src="resource/image/livecamera.png" width="290px"><br>
+		<b>📸 Camera streaming</b><br>
+		Watch streaming from your cameras, setting up surveillance for your home.
+	  </td>
+	  <td align="center">
+		<img src="resource/image/livedesktop.png" width="290px"><br>
+		<b>📸 Desktop streaming</b><br>
+		Monitor your desktop from your phone or another PC
+	  </td>
+	</tr>
     <tr>
       <td align="center">
         <img src="resource/image/language.png" width="290px"><br>

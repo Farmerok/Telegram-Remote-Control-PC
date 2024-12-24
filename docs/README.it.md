@@ -12,6 +12,23 @@ Das Skript erhält regelmäßig kostenlose Updates. Solange ich die Möglichkeit
 
 <div align="center">
   <table>
+	<tr>
+	  <td align="center">
+		<img src="resource/image/primarymenuserver.png" width="290px"><br>
+		<b>🔧 Navigazione comoda tra videocamera o desktop</b><br>
+		Vuoi osservare qualcosa? Scegli
+	  </td>
+	  <td align="center">
+		<img src="resource/image/livecamera.png" width="290px"><br>
+		<b>📸 Trasmissione dalle videocamere</b><br>
+		Guarda le trasmissioni dalle tue videocamere, monitorando la tua casa.
+	  </td>
+	  <td align="center">
+		<img src="resource/image/livedesktop.png" width="290px"><br>
+		<b>📸 Trasmissione dallo schermo</b><br>
+		Osserva il tuo desktop dal telefono o da un altro PC
+	  </td>
+	</tr>
     <tr>
       <td align="center">
         <img src="resource/image/language.png" width="290px"><br>

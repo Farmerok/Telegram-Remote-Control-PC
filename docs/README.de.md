@@ -12,6 +12,23 @@ Das Skript erhält regelmäßig kostenlose Updates. Solange ich die Möglichkeit
 
 <div align="center">
   <table>
+  <tr>
+	  <td align="center">
+		<img src="resource/image/primarymenuserver.png" width="290px"><br>
+		<b>🔧 Bequeme Navigation zwischen Kamera oder Desktop</b><br>
+		Möchten Sie etwas beobachten? Wählen Sie
+	  </td>
+	  <td align="center">
+		<img src="resource/image/livecamera.png" width="290px"><br>
+		<b>📸 Kamerastreaming</b><br>
+		Sehen Sie Streams von Ihren Kameras an, um Ihr Zuhause zu überwachen.
+	  </td>
+	  <td align="center">
+		<img src="resource/image/livedesktop.png" width="290px"><br>
+		<b>📸 Desktop-Streaming</b><br>
+		Beobachten Sie Ihren Desktop von Ihrem Telefon oder einem anderen PC aus
+	  </td>
+	</tr>
     <tr>
       <td align="center">
         <img src="resource/image/language.png" width="290px"><br>
