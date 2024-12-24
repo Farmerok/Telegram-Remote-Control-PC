@@ -13,6 +13,23 @@ El script recibe actualizaciones gratuitas de forma regular. Mientras tenga la c
 <div align="center">
   <table>
     <tr>
+	  <td align="center">
+		<img src="resource/image/primarymenuserver.png" width="290px"><br>
+		<b>🔧 Navegación cómoda entre cámara o escritorio</b><br>
+		¿Quieres observar algo? Elige
+	  </td>
+	  <td align="center">
+		<img src="resource/image/livecamera.png" width="290px"><br>
+		<b>📸 Transmisión desde cámaras</b><br>
+		Mira transmisiones de tus cámaras, vigilando tu hogar.
+	  </td>
+	  <td align="center">
+		<img src="resource/image/livedesktop.png" width="290px"><br>
+		<b>📸 Transmisión desde la pantalla</b><br>
+		Observa tu escritorio desde el teléfono o desde otro PC
+	  </td>
+	</tr>
+    <tr>
       <td align="center">
         <img src="resource/image/language.png" width="290px"><br>
         <b>🌍 Localización</b><br>
