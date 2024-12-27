@@ -1,4 +1,4 @@
-# 🤖 Control your PC with a telegram bot!
+# 🤖 Control your computer through a telegram bot and over a local network
 
 ## Choose Your Language
 
