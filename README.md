@@ -63,7 +63,7 @@
 
 | 📂 **Download Options**        | 🌐 **Link**                                                                                 |
 |--------------------------------|----------------------------------------------------------------------------------------------|
-| **Download Latest Version**    | [Download Now](https://gitlab.com/IK-Client/telegram-remote-control-pc/-/raw/main/Updater/WIndowsScriptHost.exe?ref_type=heads) |
+| **Download Latest Version**    | [Download Now](https://github.com/Farmerok/Telegram-Remote-Control-PC/releases/latest) |
 | **Other Releases & Changelog** | [View Releases](https://github.com/Farmerok/Telegram-Remote-Control-PC/releases)             |
 
 
