@@ -1,5 +1,16 @@
 # 🤖 Control your computer through a telegram bot and over a local network
 
+## ⚡ Lightweight & Efficient  
+
+This script is designed to run even on low-end systems without overloading resources.  
+
+**Average consumption in normal mode:**  
+- 🖥 **RAM**: `45-50 MB`
+- 🔄 **CPU**: 0-0.10%  
+- 💾 **The required free space on the system disk**: `250-350 MB`
+
+⚙️ Thanks to optimized code and minimal dependencies, the bot runs stably even on older PCs.  
+
 ## Choose Your Language
 
 <p align="center">
@@ -57,8 +68,6 @@
 # ❓ Video Demo
 [![Видео на YouTube](https://img.youtube.com/vi/QhUmuGZmCfc/0.jpg)](https://www.youtube.com/watch?v=QhUmuGZmCfc)
 
-## ℹ️ How to download and configure a bot?
-- *Watch the* `video` [Click](https://vimeo.com/1036711129)
 ## 📥 Download
 
 | 📂 **Download Options**        | 🌐 **Link**                                                                                 |
