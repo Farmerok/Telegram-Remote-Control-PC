@@ -1,4 +1,4 @@
-# 🤖 Control your computer through a telegram bot and over a local network
+# 🤖 Control your computer through a telegram bot and over a local network using the _PCGuardControl program_
 
 ## ⚡ Lightweight & Efficient  
 
