@@ -59,14 +59,9 @@ This script is designed to run even on low-end systems without overloading resou
           <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italiano" style="width: 40px; vertical-align: middle; margin: 5px;" />
           <br>Italiano
         </a>
-      </td>
-      <td></td> <!-- Empty cell to maintain symmetry -->
     </tr>
   </table>
 </p>
-
-# ❓ Video Demo
-[![Видео на YouTube](https://img.youtube.com/vi/QhUmuGZmCfc/0.jpg)](https://www.youtube.com/watch?v=QhUmuGZmCfc)
 
 ## 📥 Download
 
@@ -83,6 +78,10 @@ This script is designed to run even on low-end systems without overloading resou
 | 💬 **Get in Touch**            | 🌐 **Link**                                                                                 |
 |--------------------------------|----------------------------------------------------------------------------------------------|
 | **Telegram**                   | [Contact on Telegram](https://t.me/insiderkeeps)                                             |
+| **YouTube**                   | [Open](https://www.youtube.com/@IKDeveloper)                                                  |
+
+# ❓ Video Demo
+[![Video on YouTube](https://img.youtube.com/vi/QhUmuGZmCfc/0.jpg)](https://www.youtube.com/watch?v=QhUmuGZmCfc)
 
 ## 🐞 Reporting Issues
 
