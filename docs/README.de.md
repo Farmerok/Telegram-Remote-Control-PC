@@ -12,23 +12,23 @@ Das Skript erhält regelmäßig kostenlose Updates. Solange ich die Möglichkeit
 
 <div align="center">
   <table>
-  <tr>
-	  <td align="center">
-		<img src="resource/image/primarymenuserver.png" width="290px"><br>
-		<b>🔧 Bequeme Navigation zwischen Kamera oder Desktop</b><br>
-		Möchten Sie etwas beobachten? Wählen Sie
-	  </td>
-	  <td align="center">
-		<img src="resource/image/livecamera.png" width="290px"><br>
-		<b>📸 Kamerastreaming</b><br>
-		Sehen Sie Streams von Ihren Kameras an, um Ihr Zuhause zu überwachen.
-	  </td>
-	  <td align="center">
-		<img src="resource/image/livedesktop.png" width="290px"><br>
-		<b>📸 Desktop-Streaming</b><br>
-		Beobachten Sie Ihren Desktop von Ihrem Telefon oder einem anderen PC aus
-	  </td>
-	</tr>
+   <tr>
+      <td align="center">
+        <img src="resource/image/primarymenuserver.png" width="290px"><br>
+        <b>🔧 Bequeme Navigation zwischen Kamera oder Desktop</b><br>
+        Möchten Sie etwas beobachten? Wählen Sie aus.
+      </td>
+      <td align="center">
+        <img src="resource/image/livecamera.png" width="290px"><br>
+        <b>📸 Kameraübertragung</b><br>
+        Sehen Sie Live-Übertragungen von Ihren Kameras und überwachen Sie Ihr Zuhause.
+      </td>
+      <td align="center">
+        <img src="resource/image/livedesktop.png" width="290px"><br>
+        <b>📸 Bildschirmübertragung</b><br>
+        Beobachten Sie Ihren Desktop, sei es von Ihrem Telefon oder einem anderen PC.
+      </td>
+    </tr>
     <tr>
       <td align="center">
         <img src="resource/image/language.png" width="290px"><br>
@@ -36,38 +36,38 @@ Das Skript erhält regelmäßig kostenlose Updates. Solange ich die Möglichkeit
         Der Bot ist in mehreren Sprachen verfügbar und bietet Benutzern weltweit Komfort.
       </td>
       <td align="center">
-        <img src="resource/image/takescreenshot.png" width="290px"><br>
-        <b>🖼️ Erstellung von Screenshots</b><br>
-        Machen Sie Screenshots und erhalten Sie sie direkt von Ihrem PC über Telegram.
+        <img src="resource/image/botconfig.png" width="290px"><br>
+        <b>🤖 Bot-Konfiguration</b><br>
+        Ändern Sie den Token, fügen Sie Administratoren hinzu oder entfernen Sie sie direkt über den Bot.
       </td>
       <td align="center">
         <img src="resource/image/panelbot.png" width="290px"><br>
         <b>🔧 Bot-Einstellungen</b><br>
-        Konfigurieren und verwalten Sie die Einstellungen des Bots ganz einfach.
+        Konfigurieren und verwalten Sie die Bot-Parameter einfach.
       </td>
     </tr>
     <tr>
       <td align="center">
         <img src="resource/image/panelsystem.png" width="290px"><br>
-        <b>🖥️ Navigationspanel zur Systemsteuerung</b><br>
+        <b>🖥️ Systemsteuerungs-Navigationspanel</b><br>
         Bequeme Navigation mit Ihrem System.
       </td>
       <td align="center">
         <img src="resource/image/systemSection.png" width="290px"><br>
         <b>⚙️ Systeminformationen</b><br>
-        Interagieren Sie mit der PC-Energieversorgung, ändern Sie den Energiesparplan, nutzen Sie die Bildschirm-Sperrfunktion, Schnell-Sperre, überprüfen Sie den Festplattenstatus und melden Sie sich vom System ab.
+        Interagieren Sie mit der PC-Stromversorgung, ändern Sie den Energieplan, sperren Sie den Bildschirm, führen Sie einen schnellen Sperrvorgang durch oder melden Sie sich ab.
       </td>
       <td align="center">
         <img src="resource/image/PowerPC.png" width="290px"><br>
         <b>🔋 Energieverwaltung</b><br>
-        Verwalten Sie die Energieoptionen Ihres PCs, einschließlich Herunterfahren, Neustart, Ruhezustand oder Zeitplanung für das Herunterfahren.
+        Verwalten Sie die Energieoptionen Ihres PCs, einschließlich Herunterfahren, Neustart und Ruhezustand, oder planen Sie das Ausschalten Ihres PCs.
       </td>
     </tr>
     <tr>
       <td align="center">
         <img src="resource/image/playersettings.png" width="290px"><br>
-        <b>🎵 Audioeinstellungen</b><br>
-        Konfigurieren und steuern Sie den Ton Ihres PCs aus der Ferne.
+        <b>🎵 Toneinstellungen</b><br>
+        Passen Sie den Ton Ihres PCs aus der Ferne an und verwalten Sie ihn.
       </td>
       <td align="center">
         <img src="resource/image/devicecontrol.png" width="290px"><br>
@@ -76,25 +76,64 @@ Das Skript erhält regelmäßig kostenlose Updates. Solange ich die Möglichkeit
       </td>
       <td align="center">
         <img src="resource/image/checkweather.png" width="290px"><br>
-        <b>🌤️ Wetterüberprüfung</b><br>
+        <b>🌤️ Wetterprüfung</b><br>
         Erhalten Sie aktuelle Wetterinformationen direkt im Bot!
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="resource/image/youtubecheck.png" width="290px"><br>
-        <b>🎥 YouTube-Anfragen</b><br>
-        Suchen Sie Inhalte auf YouTube über Telegram.
+        <img src="resource/image/processmonitoring.png" width="290px"><br>
+        <b>🎥 Prozessüberwachung</b><br>
+        Fügen Sie Prozesse, die überwacht werden sollen, zur Blacklist hinzu und verfolgen Sie die Aktivität neuer Prozesse.
       </td>
       <td align="center">
         <img src="resource/image/checkprocess.png" width="290px"><br>
         <b>🗂️ Prozessverwaltung</b><br>
-        Anzeigen und Verwalten aller laufenden Prozesse auf Ihrem PC, Überwachen der Ressourcennutzung und Beenden von Prozessen.
+        Anzeigen und Verwalten aller laufenden Prozesse auf Ihrem PC, Überprüfen der Ressourcennutzung und Beenden von Prozessen.
       </td>
       <td align="center">
         <img src="resource/image/browsercontrol.png" width="290px"><br>
-        <b>🌐 Browsersteuerungspanel</b><br>
+        <b>🌐 Browser-Steuerungspanel</b><br>
         Verwalten Sie Browseraktionen direkt aus dem Chat.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="resource/image/myaplication.png" width="290px"><br>
+        <b>🈸 Meine Anwendungen</b><br>
+        Fügen Sie Ihre Anwendungen zur Liste hinzu, geben Sie ihnen eigene Namen und starten Sie sie aus diesem Menü.
+      </td>
+      <td align="center">
+        <img src="resource/image/jokemenu.png" width="290px"><br>
+        <b>🤡 Spaß-Menü</b><br>
+        Möchten Sie sich amüsieren, wenn Sie vom Computer weg sind und jemand versucht, darauf zuzugreifen? 
+        Spielen Sie zufällige Audiodateien ab, starten Sie eine zufällige Melodie, frieren Sie den Bildschirm ein oder nutzen Sie andere Funktionen.
+      </td>
+      <td align="center">
+        <img src="resource/image/preferences.png" width="290px"><br>
+        <b>🛠️ Einstellungen</b><br>
+        Passen Sie den Bot nach Ihren Wünschen an.
+        Möchten Sie Fotos als "Dokument" erhalten? > Umschalten.
+        Möchten Sie keine Benachrichtigung über neue Versionen? > Deaktivieren.
+        Möchten Sie keine Bildschirmsperre bei Aktivitätserkennung? > Deaktivieren.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="resource/image/clicker.png" width="290px"><br>
+        <b>🔘 Klicker</b><br>
+        Starten Sie einen Auto-Klicker für Maus oder Tastatur direkt aus dem Bot.
+      </td>
+      <td align="center">
+        <img src="resource/image/takescreenshot.png" width="290px"><br>
+        <b>🖼️ Screenshots erstellen</b><br>
+        Machen und erhalten Sie Screenshots direkt von Ihrem PC in Telegram.
+      </td>
+      <td align="center">
+        <img src="resource/image/scaryfunc.png" width="290px"><br>
+        <b>🖼️ Panel für extreme Funktionen</b><br>
+        Möchten Sie sich herausfordern? Dieses Menü ist für Sie.
+        Starten Sie einen BSOD oder schließen Sie alle Prozesse!
       </td>
     </tr>
   </table>
@@ -115,13 +154,20 @@ Das Skript erhält regelmäßig kostenlose Updates. Solange ich die Möglichkeit
 
 ## 🛠️ Zusätzliche Tools
 
-- **💻 Zugang zur Eingabeaufforderung:** Führe Befehle in der Windows-Konsole aus.
-- **🚀 Dateien ausführen:** Öffne beliebige Dateien aus deinem Verzeichnis.
-- **📥 Dateien hochladen:** Lade Dateien direkt auf deinen PC.
-- **📤 Dateien herunterladen:** Lade Dateien von deinem PC auf Telegram herunter.
-- **🗑️ Dateien und Ordner löschen:** Lösche Dateien oder Ordner per Namen.
-- **🔗 Dateien per Link herunterladen:** Lade Dateien über einen direkten Link herunter.
-
+- **💻 Zugriff auf die Eingabeaufforderung:** Führen Sie Befehle in der Windows-Konsole aus.
+- **🚀 Dateien starten:** Öffnen Sie beliebige Dateien aus Ihrem Verzeichnis.
+- **📥 Dateien hochladen:** Laden Sie Dateien direkt auf Ihren PC hoch.
+- **📤 Dateien herunterladen:** Laden Sie Dateien von Ihrem PC in Telegram herunter.
+- **🗑️ Dateien und Ordner löschen:** Löschen Sie Dateien oder Ordner nach Namen.
+- **🔗 Herunterladen über Link:** Laden Sie Dateien über einen direkten Link herunter.
+- **🛜 WiFi-Bruteforce:** Finden Sie das Passwort für einen ausgewählten Zugangspunkt.
+- **👮 Diebstahlschutz:** Sperren Sie den Bildschirm bei jeglicher PC-Aktivität.
+- **✍️ Texteingabe:** Schreiben Sie Text auf Ihrem PC direkt über den Bot.
+- **🗣 Sprachnachricht:** Senden Sie dem Bot eine Sprachnachricht, und sie wird auf Ihrem PC mit Ihrer Stimme wiedergegeben.
+- **📦 Zwischenablage:** Anzeigen und Bearbeiten des Inhalts der Zwischenablage.
+- **🛡️ Firewall:** Aktivieren/Deaktivieren Sie den Firewall-Schutz direkt im Bot.
+- **🖥 Monitor:** Schalten Sie den Monitor direkt im Bot ein oder aus.
+- **⌨️ Zugriffssperre:** Sperren Sie den Zugriff auf Maus und Tastatur für die gewünschte Zeit.
 ---
 
 ## 🖼️ Hintergrundbildverwaltung

@@ -12,55 +12,55 @@ El script recibe actualizaciones gratuitas de forma regular. Mientras tenga la c
 
 <div align="center">
   <table>
-    <tr>
-	  <td align="center">
-		<img src="resource/image/primarymenuserver.png" width="290px"><br>
-		<b>🔧 Navegación cómoda entre cámara o escritorio</b><br>
-		¿Quieres observar algo? Elige
-	  </td>
-	  <td align="center">
-		<img src="resource/image/livecamera.png" width="290px"><br>
-		<b>📸 Transmisión desde cámaras</b><br>
-		Mira transmisiones de tus cámaras, vigilando tu hogar.
-	  </td>
-	  <td align="center">
-		<img src="resource/image/livedesktop.png" width="290px"><br>
-		<b>📸 Transmisión desde la pantalla</b><br>
-		Observa tu escritorio desde el teléfono o desde otro PC
-	  </td>
-	</tr>
+   <tr>
+      <td align="center">
+        <img src="resource/image/primarymenuserver.png" width="290px"><br>
+        <b>🔧 Navegación conveniente entre la cámara o el escritorio</b><br>
+        ¿Deseas observar algo? ¡Elige!
+      </td>
+      <td align="center">
+        <img src="resource/image/livecamera.png" width="290px"><br>
+        <b>📸 Transmisión desde cámaras</b><br>
+        Mira la transmisión de tus cámaras, organizando vigilancia en tu hogar.
+      </td>
+      <td align="center">
+        <img src="resource/image/livedesktop.png" width="290px"><br>
+        <b>📸 Transmisión desde la pantalla</b><br>
+        Observa tu escritorio desde tu teléfono o desde otra PC.
+      </td>
+    </tr>
     <tr>
       <td align="center">
         <img src="resource/image/language.png" width="290px"><br>
         <b>🌍 Localización</b><br>
-        El bot está disponible en varios idiomas, ofreciendo comodidad a los usuarios en casi todo el mundo.
+        El bot está disponible en varios idiomas, proporcionando comodidad para usuarios de todo el mundo.
       </td>
       <td align="center">
-        <img src="resource/image/takescreenshot.png" width="290px"><br>
-        <b>🖼️ Creación de capturas de pantalla</b><br>
-        Toma y recibe capturas de pantalla directamente desde tu PC en Telegram.
+        <img src="resource/image/botconfig.png" width="290px"><br>
+        <b>🤖 Configuración del bot</b><br>
+        Cambia el token, agrega o elimina administradores directamente desde el bot.
       </td>
       <td align="center">
         <img src="resource/image/panelbot.png" width="290px"><br>
         <b>🔧 Configuración del bot</b><br>
-        Configura y gestiona fácilmente los ajustes del bot.
+        Configura y administra fácilmente los parámetros del bot.
       </td>
     </tr>
     <tr>
       <td align="center">
         <img src="resource/image/panelsystem.png" width="290px"><br>
-        <b>🖥️ Panel de navegación para gestión del sistema</b><br>
-        Navegación práctica con tu sistema.
+        <b>🖥️ Panel de navegación del sistema</b><br>
+        Navegación conveniente con tu sistema.
       </td>
       <td align="center">
         <img src="resource/image/systemSection.png" width="290px"><br>
         <b>⚙️ Información del sistema</b><br>
-        Interactúa con la energía del PC, cambia el plan de energía, utiliza la función de bloqueo de pantalla, bloqueo rápido, verifica el estado del disco y cierra la sesión del sistema.
+        Interactúa con la energía de la PC, cambia el plan de energía, bloquea la pantalla rápidamente o cierra sesión.
       </td>
       <td align="center">
         <img src="resource/image/PowerPC.png" width="290px"><br>
         <b>🔋 Gestión de energía</b><br>
-        Administra las opciones de energía de tu PC, incluyendo apagado, reinicio, modo de hibernación o programación del apagado.
+        Administra las opciones de energía de tu PC, incluyendo apagado, reinicio, hibernación o programación de apagado.
       </td>
     </tr>
     <tr>
@@ -72,29 +72,63 @@ El script recibe actualizaciones gratuitas de forma regular. Mientras tenga la c
       <td align="center">
         <img src="resource/image/devicecontrol.png" width="290px"><br>
         <b>🖱️ Control de dispositivos</b><br>
-        Controla de forma remota el ratón y el teclado.
+        Controla el ratón y el teclado de forma remota.
       </td>
       <td align="center">
         <img src="resource/image/checkweather.png" width="290px"><br>
-        <b>🌤️ Verificación del clima</b><br>
-        ¡Obtén información meteorológica actualizada directamente en el bot!
+        <b>🌤️ Consulta del clima</b><br>
+        Obtén información actualizada del clima directamente en el bot.
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="resource/image/youtubecheck.png" width="290px"><br>
-        <b>🎥 Búsquedas en YouTube</b><br>
-        Busca contenido en YouTube a través de Telegram.
+        <img src="resource/image/processmonitoring.png" width="290px"><br>
+        <b>🎥 Monitoreo de procesos</b><br>
+        Agrega procesos a una lista negra para monitorearlos o revisa la actividad de nuevos procesos.
       </td>
       <td align="center">
         <img src="resource/image/checkprocess.png" width="290px"><br>
         <b>🗂️ Gestión de procesos</b><br>
-        Consulta y administra todos los procesos en ejecución en tu PC, monitorea su uso y ciérralos.
+        Visualiza y administra todos los procesos en ejecución en tu PC, revisa su consumo y ciérralos.
       </td>
       <td align="center">
         <img src="resource/image/browsercontrol.png" width="290px"><br>
         <b>🌐 Panel de control del navegador</b><br>
-        Gestiona las acciones del navegador directamente desde el chat.
+        Administra acciones en el navegador sin salir del chat.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="resource/image/myaplication.png" width="290px"><br>
+        <b>🈸 Mis aplicaciones</b><br>
+        Agrega tus aplicaciones a una lista, asígnales un nombre y ejecútalas desde este menú.
+      </td>
+      <td align="center">
+        <img src="resource/image/jokemenu.png" width="290px"><br>
+        <b>🤡 Menú de bromas</b><br>
+        ¿Quieres divertirte si alguien intenta acceder a tu PC? Reproduce un audio aleatorio, congela la pantalla o utiliza otras funciones.
+      </td>
+      <td align="center">
+        <img src="resource/image/preferences.png" width="290px"><br>
+        <b>🛠️ Preferencias</b><br>
+        Configura el bot a tu gusto. ¿Quieres recibir fotos como "Documento"? Actívalo. ¿No quieres notificaciones de nuevas versiones? Desactívalas.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="resource/image/clicker.png" width="290px"><br>
+        <b>🔘 Clicker</b><br>
+        Ejecuta un autoclicker para el ratón o el teclado directamente desde el bot.
+      </td>
+      <td align="center">
+        <img src="resource/image/takescreenshot.png" width="290px"><br>
+        <b>🖼️ Captura de pantalla</b><br>
+        Toma y recibe capturas de pantalla de tu PC en Telegram.
+      </td>
+      <td align="center">
+        <img src="resource/image/scaryfunc.png" width="290px"><br>
+        <b>🖼️ Panel de funciones aterradoras</b><br>
+        ¿Quieres probar algo extremo? Lanza un BSOD o cierra todos los procesos.
       </td>
     </tr>
   </table>
@@ -116,12 +150,19 @@ El script recibe actualizaciones gratuitas de forma regular. Mientras tenga la c
 ## 🛠️ Utilidades adicionales
 
 - **💻 Acceso a la línea de comandos:** Ejecuta comandos en la consola de Windows.
-- **🚀 Ejecutar archivos:** Abre cualquier archivo desde tu directorio.
-- **📥 Subir archivos:** Sube archivos directamente a tu PC.
-- **📤 Descargar archivos:** Descarga archivos desde tu PC a Telegram.
-- **🗑️ Eliminar archivos y carpetas:** Elimina archivos o carpetas por nombre.
-- **🔗 Descargar por enlace:** Descarga archivos a través de un enlace directo.
-
+- **🚀 Ejecución de archivos:** Abre cualquier archivo desde tu directorio.
+- **📥 Descarga de archivos:** Descarga archivos directamente a tu PC.
+- **📤 Subida de archivos:** Sube archivos desde tu PC a Telegram.
+- **🗑️ Eliminación de archivos y carpetas:** Elimina archivos o carpetas por nombre.
+- **🔗 Descarga por enlace:** Descarga archivos mediante un enlace directo.
+- **🛜 Fuerza bruta WiFi:** Descubre contraseñas de puntos de acceso seleccionados.
+- **👮 Antirrobo:** Bloquea la pantalla ante cualquier actividad en el PC.
+- **✍️ Escritura de texto:** Escribe texto en el PC directamente desde el bot.
+- **🗣 Mensaje de voz:** Envía un mensaje de voz al bot y se reproducirá en el PC con tu voz.
+- **📦 Portapapeles:** Visualiza el contenido del portapapeles y reemplázalo con nueva información.
+- **🛡️ Cortafuegos:** Activa o desactiva la protección del cortafuegos directamente desde el bot.
+- **🖥 Monitor:** Activa o desactiva el monitor directamente desde el bot.
+- **⌨️ Bloqueo de acceso:** Bloquee el acceso al ratón y al teclado durante el tiempo que desee.
 ---
 
 ## 🖼️ Gestión de fondos de pantalla
