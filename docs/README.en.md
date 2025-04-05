@@ -12,38 +12,38 @@ The script regularly receives free updates. As long as I have the ability and de
 
 <div align="center">
   <table>
-	<tr>
-	  <td align="center">
-		<img src="resource/image/primarymenuserver.png" width="290px"><br>
-		<b>🔧 Convenient navigation between camera or desktop</b><br>
-		Want to observe something? Choose
-	  </td>
-	  <td align="center">
-		<img src="resource/image/livecamera.png" width="290px"><br>
-		<b>📸 Camera streaming</b><br>
-		Watch streaming from your cameras, setting up surveillance for your home.
-	  </td>
-	  <td align="center">
-		<img src="resource/image/livedesktop.png" width="290px"><br>
-		<b>📸 Desktop streaming</b><br>
-		Monitor your desktop from your phone or another PC
-	  </td>
-	</tr>
+   <tr>
+      <td align="center">
+        <img src="resource/image/primarymenuserver.png" width="290px"><br>
+        <b>🔧 Convenient Navigation Between Camera or Desktop</b><br>
+        Want to monitor something? Choose your option.
+      </td>
+      <td align="center">
+        <img src="resource/image/livecamera.png" width="290px"><br>
+        <b>📸 Camera Streaming</b><br>
+        Watch live streams from your cameras, enabling home surveillance.
+      </td>
+      <td align="center">
+        <img src="resource/image/livedesktop.png" width="290px"><br>
+        <b>📸 Desktop Streaming</b><br>
+        Monitor your desktop from your phone or another PC.
+      </td>
+    </tr>
     <tr>
       <td align="center">
         <img src="resource/image/language.png" width="290px"><br>
         <b>🌍 Localization</b><br>
-        The bot is available in multiple languages, providing convenience for users almost anywhere in the world.
+        The bot is available in multiple languages, ensuring ease of use for users worldwide.
       </td>
       <td align="center">
-        <img src="resource/image/takescreenshot.png" width="290px"><br>
-        <b>🖼️ Screenshot Creation</b><br>
-        Take and receive screenshots directly from your PC on Telegram.
+        <img src="resource/image/botconfig.png" width="290px"><br>
+        <b>🤖 Bot Configuration</b><br>
+        Change the token, add or remove administrators directly from the bot.
       </td>
       <td align="center">
         <img src="resource/image/panelbot.png" width="290px"><br>
-        <b>🔧 Bot Configuration</b><br>
-        Easily configure and manage bot settings.
+        <b>🔧 Bot Settings</b><br>
+        Easily configure and manage bot parameters.
       </td>
     </tr>
     <tr>
@@ -55,19 +55,19 @@ The script regularly receives free updates. As long as I have the ability and de
       <td align="center">
         <img src="resource/image/systemSection.png" width="290px"><br>
         <b>⚙️ System Information</b><br>
-        Interact with PC power, change power plans, use the screen lock feature, quick lock, check disk statuses, and log out of the system.
+        Interact with PC power options, change power plans, lock the screen, quick lock, or log out.
       </td>
       <td align="center">
         <img src="resource/image/PowerPC.png" width="290px"><br>
         <b>🔋 Power Management</b><br>
-        Manage your PC's power options, including shutdown, restart, hibernate mode, or schedule a shutdown.
+        Manage your PC's power options, including shutdown, restart, hibernation, or schedule shutdowns.
       </td>
     </tr>
     <tr>
       <td align="center">
         <img src="resource/image/playersettings.png" width="290px"><br>
         <b>🎵 Sound Settings</b><br>
-        Configure and manage your PC's sound remotely.
+        Adjust and manage your PC's sound remotely.
       </td>
       <td align="center">
         <img src="resource/image/devicecontrol.png" width="290px"><br>
@@ -82,19 +82,53 @@ The script regularly receives free updates. As long as I have the ability and de
     </tr>
     <tr>
       <td align="center">
-        <img src="resource/image/youtubecheck.png" width="290px"><br>
-        <b>🎥 YouTube Queries</b><br>
-        Search for content on YouTube via Telegram.
+        <img src="resource/image/processmonitoring.png" width="290px"><br>
+        <b>🎥 Process Monitoring</b><br>
+        Add desired processes to a blacklist for monitoring and track activity of all new processes.
       </td>
       <td align="center">
         <img src="resource/image/checkprocess.png" width="290px"><br>
         <b>🗂️ Process Management</b><br>
-        View and manage all running processes on your PC, monitor their usage, and terminate them.
+        View and manage all running processes on your PC, check resource usage, and terminate them.
       </td>
       <td align="center">
         <img src="resource/image/browsercontrol.png" width="290px"><br>
         <b>🌐 Browser Control Panel</b><br>
         Manage browser actions directly from the chat.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="resource/image/myaplication.png" width="290px"><br>
+        <b>🈸 My Applications</b><br>
+        Add your applications to a list, give them custom names, and launch them from this menu.
+      </td>
+      <td align="center">
+        <img src="resource/image/jokemenu.png" width="290px"><br>
+        <b>🤡 Joke Menu</b><br>
+        Want to have fun if someone tries to access your PC while you're away? Play random audio, start a random melody, freeze the screen, or use other fun features.
+      </td>
+      <td align="center">
+        <img src="resource/image/preferences.png" width="290px"><br>
+        <b>🛠️ Preferences</b><br>
+        Customize the bot as you like. Want photos as "Documents"? Toggle it. Don't want update notifications? Disable them. Don't want screen lock on activity detection? Turn it off.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="resource/image/clicker.png" width="290px"><br>
+        <b>🔘 Clicker</b><br>
+        Launch an auto-clicker for your mouse or keyboard directly from the bot.
+      </td>
+      <td align="center">
+        <img src="resource/image/takescreenshot.png" width="290px"><br>
+        <b>🖼️ Take Screenshots</b><br>
+        Capture and receive screenshots from your PC in Telegram.
+      </td>
+      <td align="center">
+        <img src="resource/image/scaryfunc.png" width="290px"><br>
+        <b>🖼️ Scary Functions Panel</b><br>
+        Want to test yourself? This menu is for you. Trigger a BSOD or close all processes!
       </td>
     </tr>
   </table>
@@ -115,12 +149,20 @@ The script regularly receives free updates. As long as I have the ability and de
 
 ## 🛠️ Additional Utilities
 
-- **💻 Command line access:** Execute commands in the Windows console.
-- **🚀 Run files:** Open any files from your directory.
-- **📥 Upload files:** Upload files directly to your PC.
-- **📤 Download files:** Download files from your PC to Telegram.
-- **🗑️ Delete files and folders:** Delete files or folders by name.
-- **🔗 Download from link:** Download files from a direct link.
+- **💻 Command Line Access:** Execute commands in the Windows console.
+- **🚀 File Execution:** Open any files from your directory.
+- **📥 File Upload:** Upload files directly to your PC.
+- **📤 File Download:** Download files from your PC to Telegram.
+- **🗑️ File and Folder Deletion:** Delete files or folders by name.
+- **🔗 Direct Link Download:** Download files via direct links.
+- **🛜 WiFi Brute Force:** Attempt to crack the password of a selected WiFi network.
+- **👮 Anti-Theft:** Lock the screen upon any PC activity.
+- **✍️ Text Input:** Type text on your PC directly from the bot.
+- **🗣 Voice Message:** Send a voice message to the bot, and it will play on your PC in your voice.
+- **📦 Clipboard Management:** View and modify the clipboard content.
+- **🛡️ Firewall:** Enable or disable the firewall directly from the bot.
+- **🖥 Monitor Control:** Turn the monitor on or off directly from the bot.
+- **⌨️ 🖥 Access Lock:** Lock access to the mouse and keyboard for the desired time.
 
 ---
 

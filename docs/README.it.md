@@ -12,28 +12,113 @@ Das Skript erhält regelmäßig kostenlose Updates. Solange ich die Möglichkeit
 
 <div align="center">
   <table>
-	<tr>
-	  <td align="center">
-		<img src="resource/image/primarymenuserver.png" width="290px"><br>
-		<b>🔧 Navigazione comoda tra videocamera o desktop</b><br>
-		Vuoi osservare qualcosa? Scegli
-	  </td>
-	  <td align="center">
-		<img src="resource/image/livecamera.png" width="290px"><br>
-		<b>📸 Trasmissione dalle videocamere</b><br>
-		Guarda le trasmissioni dalle tue videocamere, monitorando la tua casa.
-	  </td>
-	  <td align="center">
-		<img src="resource/image/livedesktop.png" width="290px"><br>
-		<b>📸 Trasmissione dallo schermo</b><br>
-		Osserva il tuo desktop dal telefono o da un altro PC
-	  </td>
-	</tr>
+   <tr>
+      <td align="center">
+        <img src="resource/image/primarymenuserver.png" width="290px"><br>
+        <b>🔧 Navigazione comoda tra la fotocamera o il desktop</b><br>
+        Vuoi osservare qualcosa? Scegli.
+      </td>
+      <td align="center">
+        <img src="resource/image/livecamera.png" width="290px"><br>
+        <b>📸 Trasmissione dalla fotocamera</b><br>
+        Guarda la trasmissione dalle tue fotocamere per monitorare la tua casa.
+      </td>
+      <td align="center">
+        <img src="resource/image/livedesktop.png" width="290px"><br>
+        <b>📸 Trasmissione dallo schermo</b><br>
+        Monitora il tuo desktop dal telefono o da un altro PC.
+      </td>
+    </tr>
     <tr>
       <td align="center">
         <img src="resource/image/language.png" width="290px"><br>
         <b>🌍 Localizzazione</b><br>
-        Il bot è disponibile in più lingue, offrendo praticità agli utenti quasi ovunque nel mondo.
+        Il bot è disponibile in più lingue, garantendo comodità per gli utenti di tutto il mondo.
+      </td>
+      <td align="center">
+        <img src="resource/image/botconfig.png" width="290px"><br>
+        <b>🤖 Configurazione del bot</b><br>
+        Cambia il token, aggiungi o rimuovi amministratori direttamente dal bot.
+      </td>
+      <td align="center">
+        <img src="resource/image/panelbot.png" width="290px"><br>
+        <b>🔧 Configurazione del bot</b><br>
+        Configura e gestisci facilmente i parametri del bot.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="resource/image/panelsystem.png" width="290px"><br>
+        <b>🖥️ Pannello di navigazione del sistema</b><br>
+        Navigazione comoda con il tuo sistema.
+      </td>
+      <td align="center">
+        <img src="resource/image/systemSection.png" width="290px"><br>
+        <b>⚙️ Informazioni di sistema</b><br>
+        Interagisci con l'alimentazione del PC, cambia il piano energetico, blocca lo schermo rapidamente o esci dal sistema.
+      </td>
+      <td align="center">
+        <img src="resource/image/PowerPC.png" width="290px"><br>
+        <b>🔋 Gestione dell'alimentazione</b><br>
+        Gestisci le opzioni di alimentazione del tuo PC, inclusi spegnimento, riavvio, modalità ibernazione o pianificazione dello spegnimento.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="resource/image/playersettings.png" width="290px"><br>
+        <b>🎵 Impostazioni audio</b><br>
+        Configura e gestisci l'audio del tuo PC da remoto.
+      </td>
+      <td align="center">
+        <img src="resource/image/devicecontrol.png" width="290px"><br>
+        <b>🖱️ Controllo dei dispositivi</b><br>
+        Controlla mouse e tastiera da remoto.
+      </td>
+      <td align="center">
+        <img src="resource/image/checkweather.png" width="290px"><br>
+        <b>🌤️ Controllo meteo</b><br>
+        Ricevi informazioni meteo aggiornate direttamente nel bot!
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="resource/image/processmonitoring.png" width="290px"><br>
+        <b>🎥 Monitoraggio dei processi</b><br>
+        Aggiungi processi alla blacklist per monitorarli o controlla l'attività di nuovi processi.
+      </td>
+      <td align="center">
+        <img src="resource/image/checkprocess.png" width="290px"><br>
+        <b>🗂️ Gestione dei processi</b><br>
+        Visualizza e gestisci tutti i processi in esecuzione sul tuo PC, controlla il consumo di risorse e chiudili.
+      </td>
+      <td align="center">
+        <img src="resource/image/browsercontrol.png" width="290px"><br>
+        <b>🌐 Pannello di controllo del browser</b><br>
+        Gestisci le azioni nel browser senza uscire dalla chat.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="resource/image/myaplication.png" width="290px"><br>
+        <b>🈸 Le mie applicazioni</b><br>
+        Aggiungi le tue applicazioni alla lista, assegna loro un nome e avviale da questo menu.
+      </td>
+      <td align="center">
+        <img src="resource/image/jokemenu.png" width="290px"><br>
+        <b>🤡 Menu scherzi</b><br>
+        Vuoi divertirti? Riproduci audio casuali, congela lo schermo o usa altre funzionalità divertenti.
+      </td>
+      <td align="center">
+        <img src="resource/image/preferences.png" width="290px"><br>
+        <b>🛠️ Preferenze</b><br>
+        Configura il bot come preferisci. Vuoi ricevere foto come "Documento"? Attiva. Non vuoi notifiche sulle nuove versioni? Disattiva.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="resource/image/clicker.png" width="290px"><br>
+        <b>🔘 Clicker</b><br>
+        Avvia un autoclicker per mouse o tastiera direttamente dal bot.
       </td>
       <td align="center">
         <img src="resource/image/takescreenshot.png" width="290px"><br>
@@ -41,60 +126,9 @@ Das Skript erhält regelmäßig kostenlose Updates. Solange ich die Möglichkeit
         Cattura e ricevi screenshot direttamente dal tuo PC su Telegram.
       </td>
       <td align="center">
-        <img src="resource/image/panelbot.png" width="290px"><br>
-        <b>🔧 Configurazione del bot</b><br>
-        Configura e gestisci facilmente le impostazioni del bot.
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="resource/image/panelsystem.png" width="290px"><br>
-        <b>🖥️ Pannello di navigazione per la gestione del sistema</b><br>
-        Navigazione comoda per gestire il tuo sistema.
-      </td>
-      <td align="center">
-        <img src="resource/image/systemSection.png" width="290px"><br>
-        <b>⚙️ Informazioni di sistema</b><br>
-        Interagisci con l'alimentazione del PC, modifica il piano energetico, utilizza la funzione di blocco schermo, blocco rapido, verifica lo stato dei dischi e disconnettiti dal sistema.
-      </td>
-      <td align="center">
-        <img src="resource/image/PowerPC.png" width="290px"><br>
-        <b>🔋 Gestione dell'alimentazione</b><br>
-        Gestisci le opzioni di alimentazione del tuo PC, tra cui spegnimento, riavvio, modalità ibernazione o pianificazione dello spegnimento.
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="resource/image/playersettings.png" width="290px"><br>
-        <b>🎵 Impostazioni audio</b><br>
-        Configura e gestisci l'audio del tuo PC a distanza.
-      </td>
-      <td align="center">
-        <img src="resource/image/devicecontrol.png" width="290px"><br>
-        <b>🖱️ Controllo dei dispositivi</b><br>
-        Controlla a distanza il mouse e la tastiera.
-      </td>
-      <td align="center">
-        <img src="resource/image/checkweather.png" width="290px"><br>
-        <b>🌤️ Controllo meteo</b><br>
-        Ricevi informazioni meteo aggiornate direttamente sul bot!
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="resource/image/youtubecheck.png" width="290px"><br>
-        <b>🎥 Ricerche su YouTube</b><br>
-        Cerca contenuti su YouTube tramite Telegram.
-      </td>
-      <td align="center">
-        <img src="resource/image/checkprocess.png" width="290px"><br>
-        <b>🗂️ Gestione dei processi</b><br>
-        Visualizza e gestisci tutti i processi in esecuzione sul tuo PC, monitorando l'utilizzo delle risorse e terminandoli.
-      </td>
-      <td align="center">
-        <img src="resource/image/browsercontrol.png" width="290px"><br>
-        <b>🌐 Pannello di controllo del browser</b><br>
-        Gestisci le azioni del browser direttamente dalla chat.
+        <img src="resource/image/scaryfunc.png" width="290px"><br>
+        <b>🖼️ Pannello funzioni spaventose</b><br>
+        Vuoi metterti alla prova? Usa questo menu. Avvia un BSOD o chiudi tutti i processi!
       </td>
     </tr>
   </table>
@@ -115,12 +149,20 @@ Das Skript erhält regelmäßig kostenlose Updates. Solange ich die Möglichkeit
 
 ## 🛠️ Zusätzliche Tools
 
-- **💻 Zugang zur Eingabeaufforderung:** Führe Befehle in der Windows-Konsole aus.
-- **🚀 Dateien ausführen:** Öffne beliebige Dateien aus deinem Verzeichnis.
-- **📥 Dateien hochladen:** Lade Dateien direkt auf deinen PC.
-- **📤 Dateien herunterladen:** Lade Dateien von deinem PC auf Telegram herunter.
-- **🗑️ Dateien und Ordner löschen:** Lösche Dateien oder Ordner per Namen.
-- **🔗 Dateien per Link herunterladen:** Lade Dateien über einen direkten Link herunter.
+- **💻 Accesso alla riga di comando:** Esegui comandi nella console di Windows.
+- **🚀 Avvio di file:** Apri qualsiasi file dalla tua directory.
+- **📥 Download di file:** Scarica file direttamente sul tuo PC.
+- **📤 Caricamento di file:** Carica file dal PC su Telegram.
+- **🗑️ Eliminazione di file e cartelle:** Elimina file o cartelle per nome.
+- **🔗 Download tramite link:** Scarica file tramite un link diretto.
+- **🛜 Brute Force WiFi:** Trova la password per un punto di accesso selezionato.
+- **👮 Anti-Furto:** Blocca lo schermo in caso di qualsiasi attività sul PC.
+- **✍️ Scrittura di testo:** Puoi digitare testo sul PC direttamente dal bot.
+- **🗣 Messaggio vocale:** Inviando un messaggio vocale al bot, verrà riprodotto sul PC con la tua voce.
+- **📦 Appunti:** Visualizza gli appunti e modifica le informazioni in essi contenute.
+- **🛡️ Firewall:** Attiva/disattiva la protezione del firewall direttamente dal bot.
+- **🖥 Monitor:** Accendi/spegni il monitor direttamente dal bot.
+- **⌨️ Blocco accesso:** Blocca l'accesso al mouse e alla tastiera per il tempo desiderato.
 
 ---
 
