@@ -81,7 +81,8 @@ This script is designed to run even on low-end systems without overloading resou
 | **YouTube**                   | [Open](https://www.youtube.com/@IKDeveloper)                                                  |
 
 # ❓ Video Demo
-[![Video on YouTube](https://img.youtube.com/vi/QhUmuGZmCfc/0.jpg)](https://www.youtube.com/watch?v=QhUmuGZmCfc)
+[![Video on YouTube](https://img.youtube.com/vi/BHk1nThG2VI/0.jpg)](https://youtu.be/BHk1nThG2VI?si=1Qrc_q9fawjXHUNk)
+
 
 ## 🐞 Reporting Issues
 
