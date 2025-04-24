@@ -83,6 +83,9 @@ This script is designed to run even on low-end systems without overloading resou
 # ❓ Video Demo
 [![Video on YouTube](https://img.youtube.com/vi/BHk1nThG2VI/0.jpg)](https://youtu.be/BHk1nThG2VI?si=1Qrc_q9fawjXHUNk)
 
+# 🛡️ LICENSE
+## [Custom License Agreement for _PCGuardControl program_](LICENSE)
+
 
 ## 🐞 Reporting Issues
 
