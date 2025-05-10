@@ -98,6 +98,11 @@ Das Skript erhält regelmäßig kostenlose Updates. Solange ich die Möglichkeit
       </td>
     </tr>
     <tr>
+    <td align="center">
+        <img src="resource/image/installerapp.png" width="290px"><br>
+        <b>🔧 Programm-Installer</b><br>
+        Windows neu installiert? Möchten Sie keine Zeit mit der Suche nach den benötigten Programmen im Internet verschwenden? Nutzen Sie diese Funktion! Hier sind verschiedene Anwendungen nach Kategorien geordnet. Sie können die Kategoriesuche verwenden, um das benötigte Programm zu finden. Wenn es nicht in der Liste ist, verwenden Sie einfach den Button „Nicht in der Liste“, geben Sie den Paketnamen ein, und das System schlägt eine passende Option vor.
+      </td>
       <td align="center">
         <img src="resource/image/myaplication.png" width="290px"><br>
         <b>🈸 Meine Anwendungen</b><br>
