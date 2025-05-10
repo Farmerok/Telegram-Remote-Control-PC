@@ -98,6 +98,11 @@ Le script reçoit régulièrement des mises à jour gratuites. Tant que j'ai la 
       </td>
     </tr>
     <tr>
+    <td align="center">
+        <img src="resource/image/installerapp.png" width="290px"><br>
+        <b>🔧 Installateur de programmes</b><br>
+        Vous avez réinstallé Windows ? Vous ne voulez pas perdre de temps à chercher les programmes nécessaires sur Internet ? Utilisez cette fonctionnalité ! Ici, vous trouverez diverses applications triées par catégories. Vous pouvez utiliser la recherche par catégorie pour trouver le programme dont vous avez besoin. S'il n'est pas dans la liste, il vous suffit d'utiliser le bouton « Non dans la liste », de saisir le nom du package et le système vous proposera une option appropriée.
+      </td>
       <td align="center">
         <img src="resource/image/myaplication.png" width="290px"><br>
         <b>🈸 Mes applications</b><br>

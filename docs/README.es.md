@@ -99,6 +99,11 @@ El script recibe actualizaciones gratuitas de forma regular. Mientras tenga la c
     </tr>
     <tr>
       <td align="center">
+        <img src="resource/image/installerapp.png" width="290px"><br>
+        <b>🔧 Instalador de programas</b><br>
+        ¿Reinstalaste Windows? ¿No quieres perder tiempo buscando los programas necesarios en Internet? ¡Utiliza esta función! Aquí se encuentran diversas aplicaciones organizadas por categorías. Puedes usar la búsqueda por categorías para encontrar el programa que necesitas. Si no está en la lista, simplemente utiliza el botón «No en la lista», ingresa el nombre del paquete y el sistema te sugerirá una opción adecuada.
+      </td>
+      <td align="center">
         <img src="resource/image/myaplication.png" width="290px"><br>
         <b>🈸 Mis aplicaciones</b><br>
         Agrega tus aplicaciones a una lista, asígnales un nombre y ejecútalas desde este menú.

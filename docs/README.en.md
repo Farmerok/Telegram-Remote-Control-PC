@@ -98,6 +98,11 @@ The script regularly receives free updates. As long as I have the ability and de
       </td>
     </tr>
     <tr>
+    <td align="center">
+        <img src="resource/image/installerapp.png" width="290px"><br>
+        <b>🔧 Program Installer</b><br>
+        Reinstalled Windows? Don’t want to waste time searching for the needed programs online? Use this feature! Various applications are gathered here, sorted by categories. You can use the category search to find the program you need. If it’s not in the list, simply use the “Not in the list” button, enter the package name, and the system will suggest a suitable option.
+      </td>
       <td align="center">
         <img src="resource/image/myaplication.png" width="290px"><br>
         <b>🈸 My Applications</b><br>

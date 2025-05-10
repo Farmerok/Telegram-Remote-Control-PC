@@ -98,6 +98,11 @@ Das Skript erhält regelmäßig kostenlose Updates. Solange ich die Möglichkeit
       </td>
     </tr>
     <tr>
+    <td align="center">
+        <img src="resource/image/installerapp.png" width="290px"><br>
+        <b>🔧 Installatore di programmi</b><br>
+        Hai reinstallato Windows? Non vuoi perdere tempo a cercare i programmi necessari su Internet? Usa questa funzionalità! Qui sono raccolte diverse applicazioni, organizzate per categorie. Puoi utilizzare la ricerca per categorie per trovare il programma che ti serve. Se non è nella lista, semplicemente utilizza il pulsante «Non nell'elenco», inserisci il nome del pacchetto e il sistema ti suggerirà un'opzione adatta.
+      </td>
       <td align="center">
         <img src="resource/image/myaplication.png" width="290px"><br>
         <b>🈸 Le mie applicazioni</b><br>
