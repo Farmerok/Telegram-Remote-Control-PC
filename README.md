@@ -11,7 +11,7 @@ This script is designed to run even on low-end systems without overloading resou
 
 ⚙️ Thanks to optimized code and minimal dependencies, the bot runs stably even on older PCs.  
 
-## Choose Your Language
+## 🌐 Choose Your Language
 
 <p align="center">
   <table>
@@ -80,8 +80,10 @@ This script is designed to run even on low-end systems without overloading resou
 | **Telegram**                   | [Contact on Telegram](https://t.me/insiderkeeps)                                             |
 | **YouTube**                   | [Open](https://www.youtube.com/@IKDeveloper)                                                  |
 
-# ❓ Video Demo
+# 📹 Video Demo (EN)     | Видео Демонстрация (RU)
+[![Video on YouTube](https://img.youtube.com/vi/QhUmuGZmCfc/0.jpg)](https://youtu.be/QhUmuGZmCfc?feature=share) 
 [![Video on YouTube](https://img.youtube.com/vi/BHk1nThG2VI/0.jpg)](https://youtu.be/BHk1nThG2VI?si=1Qrc_q9fawjXHUNk)
+
 
 # 🛡️ LICENSE
 ## [Custom License Agreement for _PCGuardControl program_](LICENSE)
