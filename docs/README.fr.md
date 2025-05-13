@@ -15,18 +15,23 @@ Le script reçoit régulièrement des mises à jour gratuites. Tant que j'ai la 
    <tr>
       <td align="center">
         <img src="resource/image/primarymenuserver.png" width="290px"><br>
-        <b>🔧 Navigation pratique entre la caméra ou le bureau</b><br>
-        Vous souhaitez observer quelque chose ? Faites votre choix.
+        <b>🔧 Navigation pratique entre la caméra, le bureau et le microphone.</b><br>
+        Vous souhaitez activer la surveillance ou le son du micro ? À vous de choisir.
       </td>
       <td align="center">
         <img src="resource/image/livecamera.png" width="290px"><br>
-        <b>📸 Diffusion depuis les caméras</b><br>
-        Regardez la diffusion de vos caméras pour surveiller votre maison.
+        <b>📸 Diffusion des caméras</b><br>
+        Regardez le flux de vos caméras pour surveiller votre domicile.
       </td>
       <td align="center">
         <img src="resource/image/livedesktop.png" width="290px"><br>
-        <b>📸 Diffusion depuis l'écran</b><br>
-        Surveillez votre bureau depuis votre téléphone ou un autre PC.
+        <b>📸 Diffusion de l'écran</b><br>
+        Surveillez votre bureau, que ce soit depuis un téléphone ou un autre PC.
+      </td>
+      <td align="center">
+        <img src="resource/image/livemicrophone.png" width="290px"><br>
+        <b>📸 Diffusion du microphone</b><br>
+        Écoutez le son en temps réel depuis votre micro, que ce soit depuis un téléphone ou un autre PC.
       </td>
     </tr>
     <tr>

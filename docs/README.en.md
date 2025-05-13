@@ -14,20 +14,25 @@ The script regularly receives free updates. As long as I have the ability and de
   <table>
    <tr>
       <td align="center">
-        <img src="resource/image/primarymenuserver.png" width="290px"><br>
-        <b>🔧 Convenient Navigation Between Camera or Desktop</b><br>
-        Want to monitor something? Choose your option.
-      </td>
-      <td align="center">
-        <img src="resource/image/livecamera.png" width="290px"><br>
-        <b>📸 Camera Streaming</b><br>
-        Watch live streams from your cameras, enabling home surveillance.
-      </td>
-      <td align="center">
-        <img src="resource/image/livedesktop.png" width="290px"><br>
-        <b>📸 Desktop Streaming</b><br>
-        Monitor your desktop from your phone or another PC.
-      </td>
+      <img src="resource/image/primarymenuserver.png" width="290px"><br>
+      <b>🔧 Easy navigation between camera, desktop, and microphone.</b><br>
+      Want to enable monitoring or microphone audio? Your choice.
+    </td>
+    <td align="center">
+      <img src="resource/image/livecamera.png" width="290px"><br>
+      <b>📸 Camera streaming</b><br>
+      Watch the stream from your cameras to monitor your home.
+    </td>
+    <td align="center">
+      <img src="resource/image/livedesktop.png" width="290px"><br>
+      <b>📸 Screen streaming</b><br>
+      Monitor your desktop from your phone or another PC.
+    </td>
+    <td align="center">
+      <img src="resource/image/livemicrophone.png" width="290px"><br>
+      <b>📸 Microphone streaming</b><br>
+      Listen to real-time audio from your microphone from your phone or another PC.
+    </td>
     </tr>
     <tr>
       <td align="center">

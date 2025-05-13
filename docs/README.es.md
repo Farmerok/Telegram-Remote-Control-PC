@@ -14,20 +14,25 @@ El script recibe actualizaciones gratuitas de forma regular. Mientras tenga la c
   <table>
    <tr>
       <td align="center">
-        <img src="resource/image/primarymenuserver.png" width="290px"><br>
-        <b>🔧 Navegación conveniente entre la cámara o el escritorio</b><br>
-        ¿Deseas observar algo? ¡Elige!
-      </td>
-      <td align="center">
-        <img src="resource/image/livecamera.png" width="290px"><br>
-        <b>📸 Transmisión desde cámaras</b><br>
-        Mira la transmisión de tus cámaras, organizando vigilancia en tu hogar.
-      </td>
-      <td align="center">
-        <img src="resource/image/livedesktop.png" width="290px"><br>
-        <b>📸 Transmisión desde la pantalla</b><br>
-        Observa tu escritorio desde tu teléfono o desde otra PC.
-      </td>
+      <img src="resource/image/primarymenuserver.png" width="290px"><br>
+      <b>🔧 Navegación cómoda entre la cámara, el escritorio y el micrófono.</b><br>
+      ¿Quieres activar la vigilancia o el sonido del micrófono? Tú eliges.
+    </td>
+    <td align="center">
+      <img src="resource/image/livecamera.png" width="290px"><br>
+      <b>📸 Transmisión desde cámaras</b><br>
+      Mira la transmisión desde tus cámaras y vigila tu hogar.
+    </td>
+    <td align="center">
+      <img src="resource/image/livedesktop.png" width="290px"><br>
+      <b>📸 Transmisión del escritorio</b><br>
+      Observa tu escritorio desde el teléfono o desde otro PC.
+    </td>
+    <td align="center">
+      <img src="resource/image/livemicrophone.png" width="290px"><br>
+      <b>📸 Transmisión del micrófono</b><br>
+      Escucha el sonido en tiempo real desde tu micrófono, ya sea desde el teléfono o desde otro PC.
+    </td>
     </tr>
     <tr>
       <td align="center">
