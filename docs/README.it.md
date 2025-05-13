@@ -12,21 +12,26 @@ Das Skript erhält regelmäßig kostenlose Updates. Solange ich die Möglichkeit
 
 <div align="center">
   <table>
-   <tr>
-      <td align="center">
+    <tr>
+       <td align="center">
         <img src="resource/image/primarymenuserver.png" width="290px"><br>
-        <b>🔧 Navigazione comoda tra la fotocamera o il desktop</b><br>
-        Vuoi osservare qualcosa? Scegli.
+        <b>🔧 Navigazione comoda tra fotocamera, desktop e microfono.</b><br>
+        Vuoi attivare la sorveglianza o l'audio dal microfono? Scegli tu.
       </td>
       <td align="center">
         <img src="resource/image/livecamera.png" width="290px"><br>
-        <b>📸 Trasmissione dalla fotocamera</b><br>
-        Guarda la trasmissione dalle tue fotocamere per monitorare la tua casa.
+        <b>📸 Streaming dalle telecamere</b><br>
+        Guarda lo streaming dalle tue telecamere per monitorare la tua casa.
       </td>
       <td align="center">
         <img src="resource/image/livedesktop.png" width="290px"><br>
-        <b>📸 Trasmissione dallo schermo</b><br>
-        Monitora il tuo desktop dal telefono o da un altro PC.
+        <b>📸 Streaming dal desktop</b><br>
+        Osserva il tuo desktop da telefono o da un altro PC.
+      </td>
+      <td align="center">
+        <img src="resource/image/livemicrophone.png" width="290px"><br>
+        <b>📸 Streaming dal microfono</b><br>
+        Ascolta in tempo reale il suono del tuo microfono da telefono o da un altro PC.
       </td>
     </tr>
     <tr>

@@ -14,20 +14,25 @@ Das Skript erhält regelmäßig kostenlose Updates. Solange ich die Möglichkeit
   <table>
    <tr>
       <td align="center">
-        <img src="resource/image/primarymenuserver.png" width="290px"><br>
-        <b>🔧 Bequeme Navigation zwischen Kamera oder Desktop</b><br>
-        Möchten Sie etwas beobachten? Wählen Sie aus.
-      </td>
-      <td align="center">
-        <img src="resource/image/livecamera.png" width="290px"><br>
-        <b>📸 Kameraübertragung</b><br>
-        Sehen Sie Live-Übertragungen von Ihren Kameras und überwachen Sie Ihr Zuhause.
-      </td>
-      <td align="center">
-        <img src="resource/image/livedesktop.png" width="290px"><br>
-        <b>📸 Bildschirmübertragung</b><br>
-        Beobachten Sie Ihren Desktop, sei es von Ihrem Telefon oder einem anderen PC.
-      </td>
+      <img src="resource/image/primarymenuserver.png" width="290px"><br>
+      <b>🔧 Einfache Navigation zwischen Kamera, Desktop und Mikrofon.</b><br>
+      Möchten Sie Überwachung oder Mikrofon-Ton aktivieren? Wählen Sie selbst.
+    </td>
+    <td align="center">
+      <img src="resource/image/livecamera.png" width="290px"><br>
+      <b>📸 Kamera-Übertragung</b><br>
+      Sehen Sie den Livestream Ihrer Kameras, um Ihr Zuhause zu überwachen.
+    </td>
+    <td align="center">
+      <img src="resource/image/livedesktop.png" width="290px"><br>
+      <b>📸 Bildschirm-Übertragung</b><br>
+      Beobachten Sie Ihren Desktop, egal ob vom Handy oder einem anderen PC.
+    </td>
+    <td align="center">
+      <img src="resource/image/livemicrophone.png" width="290px"><br>
+      <b>📸 Mikrofon-Übertragung</b><br>
+      Hören Sie den Ton in Echtzeit von Ihrem Mikrofon, egal ob vom Handy oder einem anderen PC.
+    </td>
     </tr>
     <tr>
       <td align="center">
