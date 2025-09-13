@@ -165,7 +165,6 @@ El script recibe actualizaciones gratuitas de forma regular. Mientras tenga la c
 - **📤 Subida de archivos:** Sube archivos desde tu PC a Telegram.
 - **🗑️ Eliminación de archivos y carpetas:** Elimina archivos o carpetas por nombre.
 - **🔗 Descarga por enlace:** Descarga archivos mediante un enlace directo.
-- **🛜 Fuerza bruta WiFi:** Descubre contraseñas de puntos de acceso seleccionados.
 - **👮 Antirrobo:** Bloquea la pantalla ante cualquier actividad en el PC.
 - **✍️ Escritura de texto:** Escribe texto en el PC directamente desde el bot.
 - **🗣 Mensaje de voz:** Envía un mensaje de voz al bot y se reproducirá en el PC con tu voz.
@@ -173,6 +172,9 @@ El script recibe actualizaciones gratuitas de forma regular. Mientras tenga la c
 - **🛡️ Cortafuegos:** Activa o desactiva la protección del cortafuegos directamente desde el bot.
 - **🖥 Monitor:** Activa o desactiva el monitor directamente desde el bot.
 - **⌨️ Bloqueo de acceso:** Bloquee el acceso al ratón y al teclado durante el tiempo que desee.
+- **🪫 Seguimiento de la batería** Supervisa y recibe una notificación si la batería del portátil está baja.  
+- **🗂 Reinicio del Explorador** Reinicia el Explorador de archivos directamente desde el bot.  
+
 ---
 
 ## 🖼️ Gestión de fondos de pantalla
@@ -182,9 +184,9 @@ El script recibe actualizaciones gratuitas de forma regular. Mientras tenga la c
 
 ---
 
-## 💬 Enviar mensajes
+## 💬 Envío de notificaciones
 
-- **📝 Enviar notas:** Envía mensajes a tu PC para crear notas.
+- **📝 Envío de notificaciones:** Envía mensajes a tu PC para crear notas y notificaciones del sistema.  
 
 ## 🖥️ Sistemas Soportados
 
@@ -204,6 +206,7 @@ El script recibe actualizaciones gratuitas de forma regular. Mientras tenga la c
 - Se proporcionan actualizaciones periódicas para mantener la seguridad y funcionalidad.
 - ¿Qué es `update.exe`?  
   Este archivo es responsable de actualizar el script. Si desea actualizar rápidamente el script sin descargarlo manualmente, simplemente descargue y ejecute `update.exe`. Este descargará e instalará automáticamente la última versión del script.
+- ⚠️ Para que todo funcione correctamente, no uses el mismo token en varios programas al mismo tiempo, solo en una aplicación.
 - Nota sobre el análisis antivirus
 
   

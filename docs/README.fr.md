@@ -165,7 +165,6 @@ Le script reçoit régulièrement des mises à jour gratuites. Tant que j'ai la 
 - **📤 Téléversement de fichiers :** Envoyez des fichiers de votre PC vers Telegram.
 - **🗑️ Suppression de fichiers et dossiers :** Supprimez des fichiers ou des dossiers par leur nom.
 - **🔗 Téléchargement via lien :** Téléchargez des fichiers à partir d'un lien direct.
-- **🛜 BruteForce WiFi :** Essayez de trouver le mot de passe d'un point d'accès sélectionné.
 - **👮 Anti-Vol :** Verrouillez l'écran en cas d'activité suspecte sur le PC.
 - **✍️ Saisie de texte :** Tapez du texte sur le PC directement depuis le bot.
 - **🗣 Message vocal :** Envoyez un message vocal au bot, il sera lu sur le PC avec votre voix.
@@ -173,6 +172,8 @@ Le script reçoit régulièrement des mises à jour gratuites. Tant que j'ai la 
 - **🛡️ Pare-feu :** Activez ou désactivez la protection du pare-feu directement depuis le bot.
 - **🖥 Moniteur :** Activez ou désactivez le moniteur directement depuis le bot.
 - **⌨️ Verrouillage d'accès:** Bloquez l'accès à la souris et au clavier pendant le temps souhaité.
+- **🪫 Suivi de la batterie** Surveillez et recevez une notification si l'ordinateur portable a une batterie faible.  
+- **🗂 Redémarrage de l'Explorateur** Redémarrez l'Explorateur de fichiers directement depuis le bot.  
 ---
 
 ## 🖼️ Gestion des fonds d'écran
@@ -182,9 +183,9 @@ Le script reçoit régulièrement des mises à jour gratuites. Tant que j'ai la 
 
 ---
 
-## 💬 Envoi de messages
+## 💬 Envoi de notifications
 
-- **📝 Envoyer des notes :** Envoyez des messages sur votre PC pour créer des notes.
+- **📝 Envoi de notifications :** Envoyez des messages à votre PC pour créer des notes et des notifications système.  
 
 ## 🖥️ Systèmes Pris en Charge
 
@@ -204,6 +205,7 @@ Le script reçoit régulièrement des mises à jour gratuites. Tant que j'ai la 
 - Des mises à jour régulières sont fournies pour maintenir la sécurité et la fonctionnalité.
 - Qu'est-ce que `update.exe` ?  
   Ce fichier est responsable de la mise à jour du script. Si vous souhaitez mettre à jour rapidement le script sans le télécharger manuellement, il vous suffit de télécharger et d'exécuter `update.exe`. Il téléchargera et installera automatiquement la dernière version du script.
+- ⚠️ Pour que tout fonctionne correctement, ne lancez pas le même token dans plusieurs programmes en même temps, uniquement dans une seule application.
 - Remarque concernant l'analyse antivirus
 
   

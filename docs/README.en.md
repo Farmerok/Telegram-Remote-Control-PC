@@ -165,7 +165,6 @@ The script regularly receives free updates. As long as I have the ability and de
 - **📤 File Download:** Download files from your PC to Telegram.
 - **🗑️ File and Folder Deletion:** Delete files or folders by name.
 - **🔗 Direct Link Download:** Download files via direct links.
-- **🛜 WiFi Brute Force:** Attempt to crack the password of a selected WiFi network.
 - **👮 Anti-Theft:** Lock the screen upon any PC activity.
 - **✍️ Text Input:** Type text on your PC directly from the bot.
 - **🗣 Voice Message:** Send a voice message to the bot, and it will play on your PC in your voice.
@@ -173,6 +172,8 @@ The script regularly receives free updates. As long as I have the ability and de
 - **🛡️ Firewall:** Enable or disable the firewall directly from the bot.
 - **🖥 Monitor Control:** Turn the monitor on or off directly from the bot.
 - **⌨️ 🖥 Access Lock:** Lock access to the mouse and keyboard for the desired time.
+- **🪫 Battery Tracking:** Receive notifications for low battery.
+- **🗂 Restart Explorer:** Restart Windows Explorer directly from the bot.
 
 ---
 
@@ -183,9 +184,10 @@ The script regularly receives free updates. As long as I have the ability and de
 
 ---
 
-## 💬 Send Messages
+## 💬 Notifications
 
-- **📝 Send notes:** Send messages to your PC for creating notes.
+- **📝 Send Notifications:** Send messages to your PC for notes and system notifications.
+
 
 ## 🖥️ Supported Systems
 
@@ -205,6 +207,7 @@ The script regularly receives free updates. As long as I have the ability and de
 - Regular updates are provided to maintain security and functionality.
 - What is `update.exe`?  
   This file is responsible for updating the script. If you want to quickly update the script without downloading it manually, simply download and run `update.exe`. It will automatically fetch and install the latest version of the script for you.
+- ⚠️ Do not run the same token in multiple programs simultaneously—use it in only one application.
 - Note about antivirus scanning
 
   
