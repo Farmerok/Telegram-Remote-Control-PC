@@ -170,7 +170,6 @@ Das Skript erhält regelmäßig kostenlose Updates. Solange ich die Möglichkeit
 - **📤 Dateien herunterladen:** Laden Sie Dateien von Ihrem PC in Telegram herunter.
 - **🗑️ Dateien und Ordner löschen:** Löschen Sie Dateien oder Ordner nach Namen.
 - **🔗 Herunterladen über Link:** Laden Sie Dateien über einen direkten Link herunter.
-- **🛜 WiFi-Bruteforce:** Finden Sie das Passwort für einen ausgewählten Zugangspunkt.
 - **👮 Diebstahlschutz:** Sperren Sie den Bildschirm bei jeglicher PC-Aktivität.
 - **✍️ Texteingabe:** Schreiben Sie Text auf Ihrem PC direkt über den Bot.
 - **🗣 Sprachnachricht:** Senden Sie dem Bot eine Sprachnachricht, und sie wird auf Ihrem PC mit Ihrer Stimme wiedergegeben.
@@ -178,6 +177,8 @@ Das Skript erhält regelmäßig kostenlose Updates. Solange ich die Möglichkeit
 - **🛡️ Firewall:** Aktivieren/Deaktivieren Sie den Firewall-Schutz direkt im Bot.
 - **🖥 Monitor:** Schalten Sie den Monitor direkt im Bot ein oder aus.
 - **⌨️ Zugriffssperre:** Sperren Sie den Zugriff auf Maus und Tastatur für die gewünschte Zeit.
+- **🪫 Batterieüberwachung** Überwachen Sie den Akku und erhalten Sie eine Benachrichtigung, wenn der Laptop wenig Akku hat.  
+- **🗂 Explorer neu starten** Starten Sie den Datei-Explorer direkt über den Bot neu.  
 ---
 
 ## 🖼️ Hintergrundbildverwaltung
@@ -187,9 +188,9 @@ Das Skript erhält regelmäßig kostenlose Updates. Solange ich die Möglichkeit
 
 ---
 
-## 💬 Nachrichten senden
+## 💬 Benachrichtigungen senden
 
-- **📝 Notizen senden:** Sende Nachrichten an deinen PC, um Notizen zu erstellen.
+- **📝 Benachrichtigungen senden:** Senden Sie Nachrichten an Ihren PC, um Notizen und Systembenachrichtigungen zu erstellen.  
 
 ## 🖥️ Unterstützte Systeme
 
@@ -209,6 +210,7 @@ Das Skript erhält regelmäßig kostenlose Updates. Solange ich die Möglichkeit
 - Regelmäßige Updates werden bereitgestellt, um Sicherheit und Funktionalität zu gewährleisten.
 - Was ist `update.exe`?  
   Diese Datei ist für die Aktualisierung des Skripts verantwortlich. Wenn Sie das Skript schnell aktualisieren möchten, ohne es manuell herunterzuladen, laden Sie einfach `update.exe` herunter und führen Sie es aus. Es wird automatisch die neueste Version des Skripts abrufen und installieren.
+- ⚠️ Damit alles richtig funktioniert, führen Sie denselben Token nicht gleichzeitig in mehreren Programmen aus, nur in einer Anwendung.
 - Hinweis zur Antivirus-Überprüfung
 
   

@@ -165,7 +165,6 @@ Das Skript erhält regelmäßig kostenlose Updates. Solange ich die Möglichkeit
 - **📤 Caricamento di file:** Carica file dal PC su Telegram.
 - **🗑️ Eliminazione di file e cartelle:** Elimina file o cartelle per nome.
 - **🔗 Download tramite link:** Scarica file tramite un link diretto.
-- **🛜 Brute Force WiFi:** Trova la password per un punto di accesso selezionato.
 - **👮 Anti-Furto:** Blocca lo schermo in caso di qualsiasi attività sul PC.
 - **✍️ Scrittura di testo:** Puoi digitare testo sul PC direttamente dal bot.
 - **🗣 Messaggio vocale:** Inviando un messaggio vocale al bot, verrà riprodotto sul PC con la tua voce.
@@ -173,6 +172,8 @@ Das Skript erhält regelmäßig kostenlose Updates. Solange ich die Möglichkeit
 - **🛡️ Firewall:** Attiva/disattiva la protezione del firewall direttamente dal bot.
 - **🖥 Monitor:** Accendi/spegni il monitor direttamente dal bot.
 - **⌨️ Blocco accesso:** Blocca l'accesso al mouse e alla tastiera per il tempo desiderato.
+- **🪫 Monitoraggio della batteria** Monitora e ricevi una notifica se il laptop ha una batteria scarica.  
+- **🗂 Riavvio di Esplora risorse** Riavvia Esplora risorse direttamente dal bot.
 
 ---
 
@@ -183,9 +184,9 @@ Das Skript erhält regelmäßig kostenlose Updates. Solange ich die Möglichkeit
 
 ---
 
-## 💬 Nachrichten senden
+## 💬 Invio delle notifiche
 
-- **📝 Notizen senden:** Sende Nachrichten an deinen PC, um Notizen zu erstellen.
+- **📝 Invio delle notifiche:** Invia messaggi al tuo PC per creare note e notifiche di sistema. 
 
 ## 🖥️ Unterstützte Systeme
 
@@ -205,6 +206,7 @@ Das Skript erhält regelmäßig kostenlose Updates. Solange ich die Möglichkeit
 - Regelmäßige Updates werden bereitgestellt, um Sicherheit und Funktionalität zu gewährleisten.
 - Was ist `update.exe`?  
   Diese Datei ist für die Aktualisierung des Skripts verantwortlich. Wenn Sie das Skript schnell aktualisieren möchten, ohne es manuell herunterzuladen, laden Sie einfach `update.exe` herunter und führen Sie es aus. Es wird automatisch die neueste Version des Skripts abrufen und installieren.
+- ⚠️ Per far funzionare tutto correttamente, non eseguire lo stesso token in più programmi contemporaneamente, solo in un'applicazione.
 - Hinweis zur Antivirus-Überprüfung
 
   
