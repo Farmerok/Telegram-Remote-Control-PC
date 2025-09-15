@@ -78,7 +78,6 @@ This script is designed to run even on low-end systems without overloading resou
 | 💬 **Get in Touch**            | 🌐 **Link**                                                                                 |
 |--------------------------------|----------------------------------------------------------------------------------------------|
 | **Telegram**                   | [Contact on Telegram](https://t.me/insiderkeeps)                                             |
-| **YouTube**                   | [Open](https://www.youtube.com/@IKDeveloper)                                                  |
 
 
 # 🛡️ LICENSE
