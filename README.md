@@ -80,10 +80,6 @@ This script is designed to run even on low-end systems without overloading resou
 | **Telegram**                   | [Contact on Telegram](https://t.me/insiderkeeps)                                             |
 | **YouTube**                   | [Open](https://www.youtube.com/@IKDeveloper)                                                  |
 
-# 📹 Video Demo (EN)     | Видео Демонстрация (RU)
-[![Video on YouTube](https://img.youtube.com/vi/QhUmuGZmCfc/0.jpg)](https://youtu.be/QhUmuGZmCfc?feature=share) 
-[![Video on YouTube](https://img.youtube.com/vi/BHk1nThG2VI/0.jpg)](https://youtu.be/BHk1nThG2VI?si=1Qrc_q9fawjXHUNk)
-
 
 # 🛡️ LICENSE
 ## [Custom License Agreement for _PCGuardControl program_](LICENSE)
