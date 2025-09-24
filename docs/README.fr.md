@@ -1,10 +1,10 @@
 ## 📝 Introduction
 
-Bienvenue dans **Contrôlez votre PC avec un bot Telegram** ! Ce puissant bot vous permet de contrôler votre ordinateur à distance en utilisant des commandes Telegram simples, ce qui rend votre travail plus pratique et efficace.
+Bienvenue dans **PCGuardControl** ! Cet outil puissant vous permet de gérer votre ordinateur à distance via des commandes simples sur Telegram, rendant votre travail plus pratique et efficace.
 
-Le script prend en charge un administrateur unique ainsi que plusieurs administrateurs. Par exemple, si vous utilisez un ordinateur familial, vous pouvez donner l'accès à vos proches.
+Le script prend en charge un ou plusieurs administrateurs. Par exemple, sur un ordinateur familial, vous pouvez accorder l’accès à vos proches.
 
-Le script reçoit régulièrement des mises à jour gratuites. Tant que j'ai la capacité et l'envie, je maintiendrai sa fonctionnalité.
+Des mises à jour gratuites sont régulièrement publiées pour maintenir la sécurité et la fonctionnalité du script.
 
 ---
 
@@ -12,229 +12,228 @@ Le script reçoit régulièrement des mises à jour gratuites. Tant que j'ai la 
 
 <div align="center">
   <table>
-   <tr>
+    <tr>
       <td align="center">
         <img src="resource/image/primarymenuserver.png" width="290px"><br>
-        <b>🔧 Navigation pratique entre la caméra, le bureau et le microphone.</b><br>
-        Vous souhaitez activer la surveillance ou le son du micro ? À vous de choisir.
+        <b>🔧 Navigation intuitive</b><br>
+        Basculez facilement entre la gestion de la caméra, du bureau et du micro.
       </td>
       <td align="center">
         <img src="resource/image/livecamera.png" width="290px"><br>
-        <b>📸 Diffusion des caméras</b><br>
-        Regardez le flux de vos caméras pour surveiller votre domicile.
+        <b>📸 Vidéosurveillance</b><br>
+        Diffusez des vidéos depuis vos caméras pour surveiller votre maison.
       </td>
       <td align="center">
         <img src="resource/image/livedesktop.png" width="290px"><br>
-        <b>📸 Diffusion de l'écran</b><br>
-        Surveillez votre bureau, que ce soit depuis un téléphone ou un autre PC.
+        <b>📸 Diffusion d’écran</b><br>
+        Suivez votre bureau depuis un téléphone ou un autre appareil.
       </td>
       <td align="center">
         <img src="resource/image/livemicrophone.png" width="290px"><br>
-        <b>📸 Diffusion du microphone</b><br>
-        Écoutez le son en temps réel depuis votre micro, que ce soit depuis un téléphone ou un autre PC.
+        <b>📸 Diffusion audio</b><br>
+        Écoutez le son de votre micro en temps réel.
       </td>
     </tr>
     <tr>
       <td align="center">
         <img src="resource/image/language.png" width="290px"><br>
-        <b>🌍 Localisation</b><br>
-        Le bot est disponible en plusieurs langues, offrant une utilisation pratique pour les utilisateurs du monde entier.
+        <b>🌍 Prise en charge multilingue</b><br>
+        Le bot est disponible dans plusieurs langues pour une utilisation mondiale.
       </td>
       <td align="center">
         <img src="resource/image/botconfig.png" width="290px"><br>
         <b>🤖 Configuration du bot</b><br>
-        Modifiez le token, ajoutez ou supprimez des administrateurs directement depuis le bot.
+        Modifiez le token, ajoutez ou supprimez des administrateurs directement via le bot.
       </td>
       <td align="center">
         <img src="resource/image/panelbot.png" width="290px"><br>
-        <b>🔧 Paramètres du bot</b><br>
-        Configurez et gérez facilement les paramètres du bot.
+        <b>🔧 Gestion des paramètres</b><br>
+        Configurez les paramètres du bot rapidement et facilement.
       </td>
     </tr>
     <tr>
       <td align="center">
         <img src="resource/image/panelsystem.png" width="290px"><br>
-        <b>🖥️ Panneau de navigation pour la gestion du système</b><br>
-        Navigation pratique avec votre système.
+        <b>🖥️ Gestion du système</b><br>
+        Interface pratique pour interagir avec votre système.
       </td>
       <td align="center">
         <img src="resource/image/systemSection.png" width="290px"><br>
         <b>⚙️ Informations système</b><br>
-        Interagissez avec l'alimentation du PC, changez le plan d'alimentation, verrouillez l'écran, effectuez un verrouillage rapide ou déconnectez-vous.
+        Gérez l’alimentation, les plans d’alimentation, le verrouillage de l’écran ou la déconnexion.
       </td>
       <td align="center">
         <img src="resource/image/PowerPC.png" width="290px"><br>
-        <b>🔋 Gestion de l'alimentation</b><br>
-        Gérez les options d'alimentation de votre PC, y compris : arrêt, redémarrage, mode hibernation ou planification de l'arrêt.
+        <b>🔋 Gestion de l’alimentation</b><br>
+        Éteignez, redémarrez, mettez en veille ou planifiez l’arrêt de votre PC.
       </td>
     </tr>
     <tr>
       <td align="center">
         <img src="resource/image/playersettings.png" width="290px"><br>
         <b>🎵 Paramètres audio</b><br>
-        Configurez et gérez le son de votre PC à distance.
+        Ajustez le son de votre PC à distance.
       </td>
       <td align="center">
         <img src="resource/image/devicecontrol.png" width="290px"><br>
-        <b>🖱️ Gestion des périphériques</b><br>
-        Contrôlez à distance la souris et le clavier.
+        <b>🖱️ Contrôle des périphériques</b><br>
+        Contrôlez la souris et le clavier à distance.
       </td>
       <td align="center">
         <img src="resource/image/checkweather.png" width="290px"><br>
-        <b>🌤️ Vérification de la météo</b><br>
-        Recevez des informations météo actualisées directement dans le bot !
+        <b>🌤️ Météo</b><br>
+        Obtenez des informations météo actualisées directement dans le bot.
       </td>
     </tr>
     <tr>
       <td align="center">
         <img src="resource/image/processmonitoring.png" width="290px"><br>
         <b>🎥 Surveillance des processus</b><br>
-        Ajoutez un processus à la liste noire pour le surveiller ou suivez l'activité des nouveaux processus.
+        Suivez les processus en les ajoutant à une liste noire et surveillez les nouveaux lancements.
       </td>
       <td align="center">
         <img src="resource/image/checkprocess.png" width="290px"><br>
         <b>🗂️ Gestion des processus</b><br>
-        Consultez et gérez tous les processus en cours sur votre PC, vérifiez leur consommation et fermez-les.
+        Consultez les processus en cours, leurs ressources et mettez-les fin si nécessaire.
       </td>
       <td align="center">
         <img src="resource/image/browsercontrol.png" width="290px"><br>
-        <b>🌐 Panneau de contrôle du navigateur</b><br>
-        Gérez les actions dans le navigateur sans quitter le chat.
+        <b>🌐 Contrôle du navigateur</b><br>
+        Effectuez des actions dans le navigateur directement depuis le chat.
       </td>
     </tr>
     <tr>
-    <td align="center">
+      <td align="center">
         <img src="resource/image/installerapp.png" width="290px"><br>
-        <b>🔧 Installateur de programmes</b><br>
-        Vous avez réinstallé Windows ? Vous ne voulez pas perdre de temps à chercher les programmes nécessaires sur Internet ? Utilisez cette fonctionnalité ! Ici, vous trouverez diverses applications triées par catégories. Vous pouvez utiliser la recherche par catégorie pour trouver le programme dont vous avez besoin. S'il n'est pas dans la liste, il vous suffit d'utiliser le bouton « Non dans la liste », de saisir le nom du package et le système vous proposera une option appropriée.
+        <b>🔧 Installation de programmes</b><br>
+        Windows réinstallé ? Trouvez des programmes par catégorie ou recherche. Si un programme n’est pas listé, entrez son nom pour l’installer.
       </td>
       <td align="center">
         <img src="resource/image/myaplication.png" width="290px"><br>
         <b>🈸 Mes applications</b><br>
-        Ajoutez vos applications à une liste, donnez-leur un nom personnalisé et lancez-les depuis ce menu.
+        Ajoutez vos applications à une liste, donnez-leur un nom et lancez-les depuis ce menu.
       </td>
       <td align="center">
         <img src="resource/image/jokemenu.png" width="290px"><br>
-        <b>🤡 Menu des blagues</b><br>
-        Vous voulez vous amuser si quelqu'un accède à votre ordinateur en votre absence ? Jouez un son aléatoire, lancez une mélodie, bloquez l'écran ou utilisez d'autres fonctionnalités amusantes.
+        <b>🤡 Fonctions amusantes</b><br>
+        Amusez-vous en piégeant ceux qui utilisent votre PC : jouez un son aléatoire, une mélodie ou bloquez l’écran.
       </td>
       <td align="center">
         <img src="resource/image/preferences.png" width="290px"><br>
-        <b>🛠️ Préférences</b><br>
-        Configurez le bot selon vos besoins. Vous voulez recevoir des photos en tant que "Document" ? Activez-le. Vous ne voulez pas de notifications pour les nouvelles versions ? Désactivez-les.
+        <b>🛠️ Personnalisation</b><br>
+        Personnalisez le bot : format des images, notifications de mise à jour, verrouillage d’écran, etc.
       </td>
     </tr>
     <tr>
       <td align="center">
         <img src="resource/image/clicker.png" width="290px"><br>
-        <b>🔘 Clicker</b><br>
+        <b>🔘 Autoclicker</b><br>
         Lancez un autoclicker pour la souris ou le clavier directement depuis le bot.
       </td>
       <td align="center">
         <img src="resource/image/takescreenshot.png" width="290px"><br>
-        <b>🖼️ Capture d'écran</b><br>
-        Prenez et recevez des captures d'écran de votre PC directement sur Telegram.
+        <b>🖼️ Captures d’écran</b><br>
+        Prenez et recevez des captures d’écran de votre PC sur Telegram.
       </td>
       <td align="center">
         <img src="resource/image/scaryfunc.png" width="290px"><br>
-        <b>🖼️ Panneau des fonctions effrayantes</b><br>
-        Vous voulez tester vos nerfs ? Ce menu est pour vous. Lancez un BSOD ou fermez tous les processus !
+        <b>🖼️ Fonctions extrêmes</b><br>
+        Testez vos limites : déclenchez un BSOD ou fermez tous les processus !
       </td>
     </tr>
   </table>
 </div>
 
-
 ---
 
 ## 📂 Gestion des fichiers et dossiers
 
-- **📁 Déplacer entre les dossiers :** Changez facilement de répertoire.
-- **📂 Créer des dossiers :** Créez de nouveaux dossiers dans n'importe quel répertoire.
-- **✏️ Renommer les dossiers :** Renommez facilement les dossiers existants.
-- **🔍 Scanner les répertoires :** Trouvez des fichiers et des dossiers dans le répertoire actuel.
-- **🔄 Changer de répertoire :** Passez rapidement d'un répertoire à un autre.
+- **📁 Navigation dans les dossiers :** Passez rapidement d’un répertoire à l’autre.
+- **📂 Création de dossiers :** Créez de nouveaux dossiers n’importe où.
+- **✏️ Renommage :** Modifiez les noms des dossiers existants.
+- **🔍 Analyse :** Consultez les fichiers et dossiers du répertoire actuel.
+- **🔄 Changement de répertoire :** Naviguez facilement entre les dossiers.
 
 ---
 
-## 🛠️ Utilitaires supplémentaires
+## 🛠️ Fonctions supplémentaires
 
-- **💻 Accès à la ligne de commande :** Exécutez des commandes dans la console Windows.
-- **🚀 Lancement de fichiers :** Ouvrez n'importe quel fichier depuis votre répertoire.
-- **📥 Téléchargement de fichiers :** Téléchargez des fichiers directement sur votre PC.
-- **📤 Téléversement de fichiers :** Envoyez des fichiers de votre PC vers Telegram.
-- **🗑️ Suppression de fichiers et dossiers :** Supprimez des fichiers ou des dossiers par leur nom.
-- **🔗 Téléchargement via lien :** Téléchargez des fichiers à partir d'un lien direct.
-- **👮 Anti-Vol :** Verrouillez l'écran en cas d'activité suspecte sur le PC.
-- **✍️ Saisie de texte :** Tapez du texte sur le PC directement depuis le bot.
-- **🗣 Message vocal :** Envoyez un message vocal au bot, il sera lu sur le PC avec votre voix.
-- **📦 Presse-papiers :** Consultez le contenu du presse-papiers ou remplacez-le.
-- **🛡️ Pare-feu :** Activez ou désactivez la protection du pare-feu directement depuis le bot.
-- **🖥 Moniteur :** Activez ou désactivez le moniteur directement depuis le bot.
-- **⌨️ Verrouillage d'accès:** Bloquez l'accès à la souris et au clavier pendant le temps souhaité.
-- **🪫 Suivi de la batterie** Surveillez et recevez une notification si l'ordinateur portable a une batterie faible.  
-- **🗂 Redémarrage de l'Explorateur** Redémarrez l'Explorateur de fichiers directement depuis le bot.  
----
-
-## 🖼️ Gestion des fonds d'écran
-
-- **📥 Télécharger des fonds d'écran :** Sauvegardez des fonds d'écran sur votre PC.
-- **🎨 Définir un fond d'écran :** Définissez un fond d'écran en envoyant une image.
+- **💻 Ligne de commande :** Exécutez des commandes dans la console Windows.
+- **🚀 Lancement de fichiers :** Ouvrez des fichiers depuis n’importe quel répertoire.
+- **📥 Téléchargement de fichiers :** Envoyez des fichiers sur votre PC.
+- **📤 Téléversement de fichiers :** Récupérez des fichiers depuis votre PC sur Telegram.
+- **🗑️ Suppression :** Supprimez des fichiers ou dossiers par leur nom.
+- **🔗 Téléchargement par lien :** Téléchargez des fichiers via des liens directs.
+- **👮 Antivol :** Verrouillez l’écran en cas d’activité sur le PC.
+- **✍️ Saisie de texte :** Tapez du texte sur votre PC via le bot.
+- **🗣 Messages vocaux :** Envoyez des messages vocaux qui seront lus sur le PC.
+- **📦 Presse-papiers :** Consultez et modifiez le contenu du presse-papiers.
+- **🛡️ Pare-feu :** Activez/désactivez la protection directement dans le bot.
+- **🖥 Gestion de l’écran :** Allumez/éteignez l’écran.
+- **⌨️ Verrouillage des entrées :** Limitez l’accès à la souris et au clavier.
+- **🪫 Suivi de la batterie :** Recevez des notifications pour une batterie faible.
+- **🗂 Redémarrage de l’Explorateur :** Redémarrez l’Explorateur Windows.
 
 ---
 
-## 💬 Envoi de notifications
+## 🖼️ Gestion des fonds d’écran
 
-- **📝 Envoi de notifications :** Envoyez des messages à votre PC pour créer des notes et des notifications système.  
-
-## 🖥️ Systèmes Pris en Charge
-
-| **Système**      | **Compatible** | **Notes**                                                                                                                                                                     | **LIEN**                                                                                                               |
-|------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
-| **Linux**        | ❌              |                                                                                                                                                                              |                                                                                                                        |
-| **MacOS**        | ❌              |                                                                                                                                                                              |                                                                                                                        |
-| **Windows 7**    | ✔️              | **Si vous ajoutez le programme au démarrage, activez-le manuellement dans** `msconfig` > **Démarrage.** |
-| **Windows 8**    | ✔️              | 1. **Si vous ajoutez le programme au démarrage, activez-le manuellement dans** `Gestionnaire de tâches` > **Démarrage.**                                                         |                                                                                                                        |
-| **Windows 10**   | ✔️              |                                                                                                                                                                              |                                                                                                                        |
-| **Windows 11**   | ✔️              |                                                                                                                                                                              |                                                                                                                        |
+- **📥 Téléchargement de fonds d’écran :** Enregistrez des images sur votre PC.
+- **🎨 Définition des fonds d’écran :** Changez le fond d’écran en envoyant une image.
 
 ---
 
-## ⚠️ Informations Importantes
-- Ce script est propriétaire et non open-source.
-- Des mises à jour régulières sont fournies pour maintenir la sécurité et la fonctionnalité.
-- Qu'est-ce que `update.exe` ?  
-  Ce fichier est responsable de la mise à jour du script. Si vous souhaitez mettre à jour rapidement le script sans le télécharger manuellement, il vous suffit de télécharger et d'exécuter `update.exe`. Il téléchargera et installera automatiquement la dernière version du script.
-- ⚠️ Pour que tout fonctionne correctement, ne lancez pas le même token dans plusieurs programmes en même temps, uniquement dans une seule application.
-- Remarque concernant l'analyse antivirus
+## 💬 Notifications
 
-  
+- **📝 Envoi de notifications :** Créez des notes et des notifications système sur votre PC.
+
+---
+
+## 🖥️ Systèmes pris en charge
+
+| **Système**      | **Support** | **Remarques**                                                                                   | **Lien** |
+|------------------|-------------|-------------------------------------------------------------------------------------------------|----------|
+| **Linux**        | ❌          |                                                                                                 |          |
+| **MacOS**        | ❌          |                                                                                                 |          |
+| **Windows 7**    | ✔️          | Activez manuellement le programme dans `msconfig` > **Démarrage**.                              |          |
+| **Windows 8**    | ✔️          | Activez manuellement le programme dans `Gestionnaire des tâches` > **Démarrage**.               |          |
+| **Windows 10**   | ✔️          |                                                                                                 |          |
+| **Windows 11**   | ✔️          |                                                                                                 |          |
+
+---
+
+## ⚠️ Informations importantes
+
+- Le script est propriétaire et non open-source.
+- Des mises à jour régulières garantissent sécurité et nouvelles fonctionnalités.
+- **Qu’est-ce que `update.exe` ?**  
+  Ce fichier permet la mise à jour automatique du script. Lancez-le pour télécharger la dernière version sans installation manuelle.
+- **⚠️ N’utilisez pas le même token dans plusieurs programmes simultanément** — uniquement dans une seule application.
+- **À propos des détections antivirus :**
+
   ```ini
-  Certains programmes antivirus peuvent signaler ce fichier comme un virus, car le programme est conçu pour contrôler un PC à distance.
-  C'est un comportement typique de ces programmes, car ils peuvent être considérés comme potentiellement dangereux en raison de leurs fonctions.
-  Cependant, ce script est absolument sûr et vous pouvez l'utiliser sans problème.
-  
-  Vous décidez si vous souhaitez le télécharger ou non - c'est votre droit, et nous respectons votre décision. Cependant,
-  si vous faites confiance à la source et avez besoin de contrôler votre PC à distance,
-  ajoutez simplement le fichier à la liste des fichiers de confiance ou exclus dans votre antivirus pour éviter les faux positifs.
-  
-  Le script est fourni gratuitement et nous le mettrons à jour de temps en temps pour garantir sa sécurité,
-  sa compatibilité et améliorer sa fonctionnalité.
-  Ne vous inquiétez pas, télécharger le script est sûr,
-  et vous obtiendrez un outil puissant pour gérer votre PC à distance via TELEGRAM !
+  Certains antivirus peuvent signaler le script comme une menace en raison de sa fonction de contrôle à distance.
+  C’est un comportement courant pour ce type de programmes en raison de leurs fonctionnalités.
+  Le script est totalement sûr à utiliser.
 
-- 🚨 Avertissement
+  Vous décidez de le télécharger ou non — c’est votre droit, et nous le respectons. Si vous faites confiance à la source,
+  ajoutez le fichier aux exclusions de votre antivirus pour éviter les faux positifs.
 
-  - Les créateurs de ce script ne sont pas responsables des éventuelles actions illégales des utilisateurs, y compris l'utilisation du programme pour nuire à d'autres personnes. N'utilisez pas ce script pour effectuer des actions qui pourraient violer des lois ou les droits d'autrui. Vous devez utiliser le programme dans les limites de la loi et pour le bien de vous-même et des autres.
+  Le script est fourni gratuitement, et nous le mettrons à jour pour garantir sécurité et fonctionnalité.
+  Le téléchargement est sûr, et vous obtiendrez un outil puissant pour gérer votre PC via Telegram !
+  ```
+
+- **🚨 Avertissement :**  
+  Les développeurs ne sont pas responsables de l’utilisation illégale du script. Ne l’utilisez pas pour des actions violant la loi ou les droits d’autrui. Utilisez le programme uniquement à des fins légales.
 
 ---
 
-## ⚙️ Configuration du Script
+## ⚙️ Configuration du script
 
-*Pour configurer le script :*
+Pour configurer :
 
-1. **Exécutez le script pour générer le fichier `settings.ini`, où vous pourrez entrer les données (un exemple est montré ci-dessous).**
-2. **Alternativement, créez un fichier nommé `settings.ini`, copiez l'exemple ci-dessous, collez-le dans le fichier, puis remplacez-le par VOS données.**
+1. Lancez le script pour générer le fichier `settings.ini` où entrer les données (exemple ci-dessous).
+2. Ou créez un fichier `settings.ini`, copiez l’exemple et remplacez par vos données.
 
     ```ini
     [BotConfig]
@@ -242,18 +241,15 @@ Le script reçoit régulièrement des mises à jour gratuites. Tant que j'ai la 
     admin_list = 123331492, 320491837
     ```
 
-### Où Obtenir les Données Nécessaires
+### Comment obtenir les données
 
-1. **Token du Bot :**  
-   - Allez sur Telegram et recherchez [@BotFather](https://t.me/BotFather).  
-   - Lancez une conversation avec lui et envoyez la commande `/newbot`.  
-   - Suivez les instructions pour créer un nouveau bot et obtenir votre token unique.  
-     Exemple : `123456789:ABCDefghIJKLMNOPQRSTUVWXYZ`.  
-   - Conservez ce token pour l'utiliser dans le fichier `settings.ini`.
+1. **Token du bot :**  
+   - Trouvez [@BotFather](https://t.me/BotFather) sur Telegram.  
+   - Envoyez la commande `/newbot` et suivez les instructions pour créer un bot.  
+   - Obtenez le token, par exemple : `123456789:ABCDefghIJKLMNOPQRSTUVWXYZ`.  
+   - Enregistrez-le dans `settings.ini`.
 
-2. **ID(s) de l'Administrateur :**  
-   - Ouvrez Telegram et recherchez `MYID` et `getmyid`.  
-   - Lancez une conversation avec lui, et il affichera votre ID utilisateur unique Telegram.  
-     Exemple : `123456789`.  
-   - Ajoutez votre ID à la `admin_list` dans le fichier `settings.ini` pour vous assurer que vous avez accès aux commandes administratives.
-   - Si vous souhaitez ajouter plusieurs administrateurs, séparez leurs IDs par une virgule (`,`) comme montré ci-dessus.
+2. **ID administrateur :**  
+   - Trouvez `@userinfobot` ou `@getmyid_bot` sur Telegram.  
+   - Lancez un chat pour obtenir votre ID Telegram, par exemple : `123456789`.  
+   - Ajoutez l’ID à `admin_list` dans `settings.ini`. Pour plusieurs administrateurs, séparez les ID par des virgules (`,`).

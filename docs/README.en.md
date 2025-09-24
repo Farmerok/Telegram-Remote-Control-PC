@@ -1,6 +1,6 @@
 ## 📝 Introduction
 
-Welcome to **Control Your PC with a Telegram Bot**! This powerful bot allows you to remotely control your computer using simple Telegram commands, making your work more convenient and efficient.
+Welcome to **PCGuardControl**! This powerful bot allows you to remotely control your computer using simple Telegram commands, making your work more convenient and efficient.
 
 The script supports both a single administrator and multiple administrators. For example, if you are using a family computer, you can grant access to your loved ones.
 
@@ -259,4 +259,3 @@ The script regularly receives free updates. As long as I have the ability and de
      Example: `123456789`.  
    - Add your ID to the `admin_list` in the `settings.ini` file to ensure you have access to admin commands.
    - If you want to add multiple admins, separate their IDs with a comma (`,`) as shown above.
-
