@@ -1,3 +1,8 @@
+<p align = "center">
+  <img width="3441" height="1799" alt="pcguardcontrol_logo" src="https://github.com/user-attachments/assets/fb76dbaf-5366-4eac-bf40-22a9c4417ab6" />
+
+</p>
+
 # 🤖 Control your computer through a telegram bot and over a local network using the _PCGuardControl program_
 
 ## ⚡ Lightweight & Efficient  
@@ -5,7 +10,7 @@
 This script is designed to run even on low-end systems without overloading resources.  
 
 **Average consumption in normal mode:**  
-- 🖥 **RAM**: `45-50 MB`
+- 🖥 **RAM**: `50-59 MB`
 - 🔄 **CPU**: 0-0.10%  
 - 💾 **The required free space on the system disk**: `250-350 MB`
 
