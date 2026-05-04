@@ -1,6 +1,5 @@
-<p align = "center">
-  <img width="1280" height="720" alt="pcguardcontrol_logo" src="https://github.com/user-attachments/assets/fb76dbaf-5366-4eac-bf40-22a9c4417ab6" />
-
+<p align="center">
+  <img src="docs/resource/image/pcguardcontrol_logo.png" width="100%" alt="pcguardcontrol_logo">
 </p>
 
 # 🤖 Control your computer through a telegram bot and over a local network using the _PCGuardControl program_
