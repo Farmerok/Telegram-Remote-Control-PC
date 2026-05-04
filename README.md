@@ -1,5 +1,5 @@
 <p align = "center">
-  <img width="3441" height="1799" alt="pcguardcontrol_logo" src="https://github.com/user-attachments/assets/fb76dbaf-5366-4eac-bf40-22a9c4417ab6" />
+  <img width="1280" height="720" alt="pcguardcontrol_logo" src="https://github.com/user-attachments/assets/fb76dbaf-5366-4eac-bf40-22a9c4417ab6" />
 
 </p>
 
