@@ -28,11 +28,6 @@ Des mises à jour gratuites sont régulièrement publiées pour maintenir la sé
         <b>📸 Diffusion d’écran</b><br>
         Suivez votre bureau depuis un téléphone ou un autre appareil.
       </td>
-      <td align="center">
-        <img src="resource/image/livemicrophone.png" width="290px"><br>
-        <b>📸 Diffusion audio</b><br>
-        Écoutez le son de votre micro en temps réel.
-      </td>
     </tr>
     <tr>
       <td align="center">
@@ -168,6 +163,7 @@ Des mises à jour gratuites sont régulièrement publiées pour maintenir la sé
 - **✍️ Saisie de texte :** Tapez du texte sur votre PC via le bot.
 - **🗣 Messages vocaux :** Envoyez des messages vocaux qui seront lus sur le PC.
 - **📦 Presse-papiers :** Consultez et modifiez le contenu du presse-papiers.
+- **👀 Surveillance du presse-papiers :** Suivi en temps réel des modifications du presse-papiers avec notifications.
 - **🛡️ Pare-feu :** Activez/désactivez la protection directement dans le bot.
 - **🖥 Gestion de l’écran :** Allumez/éteignez l’écran.
 - **⌨️ Verrouillage des entrées :** Limitez l’accès à la souris et au clavier.

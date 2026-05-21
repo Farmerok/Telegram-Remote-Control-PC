@@ -28,11 +28,6 @@ The script regularly receives free updates. As long as I have the ability and de
       <b>📸 Screen streaming</b><br>
       Monitor your desktop from your phone or another PC.
     </td>
-    <td align="center">
-      <img src="resource/image/livemicrophone.png" width="290px"><br>
-      <b>📸 Microphone streaming</b><br>
-      Listen to real-time audio from your microphone from your phone or another PC.
-    </td>
     </tr>
     <tr>
       <td align="center">
@@ -169,6 +164,7 @@ The script regularly receives free updates. As long as I have the ability and de
 - **✍️ Text Input:** Type text on your PC directly from the bot.
 - **🗣 Voice Message:** Send a voice message to the bot, and it will play on your PC in your voice.
 - **📦 Clipboard Management:** View and modify the clipboard content.
+- **👀 Clipboard Monitoring:** Real-time tracking of clipboard changes with notifications.
 - **🛡️ Firewall:** Enable or disable the firewall directly from the bot.
 - **🖥 Monitor Control:** Turn the monitor on or off directly from the bot.
 - **⌨️ 🖥 Access Lock:** Lock access to the mouse and keyboard for the desired time.

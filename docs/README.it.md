@@ -28,11 +28,6 @@ Rilasciamo regolarmente aggiornamenti gratuiti per mantenere la sicurezza e la f
         <b>📸 Streaming del desktop</b><br>
         Osserva il tuo desktop da un telefono o un altro dispositivo.
       </td>
-      <td align="center">
-        <img src="resource/image/livemicrophone.png" width="290px"><br>
-        <b>📸 Streaming audio</b><br>
-        Ascolta l’audio del microfono in tempo reale.
-      </td>
     </tr>
     <tr>
       <td align="center">
@@ -168,6 +163,7 @@ Rilasciamo regolarmente aggiornamenti gratuiti per mantenere la sicurezza e la f
 - **✍️ Inserimento testo:** Digita testo sul PC tramite il bot.
 - **🗣 Messaggi vocali:** Invia messaggi vocali che verranno riprodotti sul PC.
 - **📦 Appunti:** Visualizza e modifica il contenuto degli appunti.
+- **👀 Monitoraggio appunti:** Monitoraggio in tempo reale delle modifiche agli appunti con notifiche.
 - **🛡️ Firewall:** Attiva/disattiva la protezione direttamente nel bot.
 - **🖥 Gestione monitor:** Accendi/spegni il monitor.
 - **⌨️ Blocco input:** Limita l’accesso a mouse e tastiera.

@@ -28,11 +28,6 @@ Lanzamos actualizaciones gratuitas regularmente para mantener la funcionalidad y
         <b>📸 Transmisión de pantalla</b><br>
         Supervisa el escritorio desde tu teléfono u otro dispositivo.
       </td>
-      <td align="center">
-        <img src="resource/image/livemicrophone.png" width="290px"><br>
-        <b>📸 Transmisión de audio</b><br>
-        Escucha el audio del micrófono en tiempo real.
-      </td>
     </tr>
     <tr>
       <td align="center">
@@ -168,6 +163,7 @@ Lanzamos actualizaciones gratuitas regularmente para mantener la funcionalidad y
 - **✍️ Introducción de texto:** Escribe texto en el PC a través del bot.
 - **🗣 Mensajes de voz:** Envía mensajes de voz que se reproducirán en el PC.
 - **📦 Portapapeles:** Visualiza y modifica el contenido del portapapeles.
+- **👀 Monitoreo del portapapeles:** Seguimiento en tiempo real de los cambios en el portapapeles con notificaciones.
 - **🛡️ Firewall:** Activa/desactiva la protección directamente en el bot.
 - **🖥 Control del monitor:** Enciende/apaga el monitor.
 - **⌨️ Bloqueo de entrada:** Restringe el acceso al ratón y al teclado.

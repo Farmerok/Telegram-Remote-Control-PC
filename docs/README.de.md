@@ -28,11 +28,6 @@ Wir veröffentlichen regelmäßig kostenlose Updates, um die Sicherheit und Funk
         <b>📸 Bildschirm-Streaming</b><br>
         Beobachte deinen Desktop von einem Handy oder einem anderen Gerät.
       </td>
-      <td align="center">
-        <img src="resource/image/livemicrophone.png" width="290px"><br>
-        <b>📸 Audio-Streaming</b><br>
-        Höre den Ton deines Mikrofons in Echtzeit.
-      </td>
     </tr>
     <tr>
       <td align="center">
@@ -168,6 +163,7 @@ Wir veröffentlichen regelmäßig kostenlose Updates, um die Sicherheit und Funk
 - **✍️ Texteingabe:** Gib Text auf deinem PC über den Bot ein.
 - **🗣 Sprachnachrichten:** Sende Sprachnachrichten, die auf dem PC abgespielt werden.
 - **📦 Zwischenablage:** Zeige und bearbeite den Inhalt der Zwischenablage.
+- **👀 Zwischenablage-Überwachung:** Echtzeit-Verfolgung von Änderungen in der Zwischenablage mit Benachrichtigungen.
 - **🛡️ Firewall:** Aktiviere/deaktiviere den Schutz direkt im Bot.
 - **🖥 Monitorsteuerung:** Schalte den Monitor ein/aus.
 - **⌨️ Eingabesperre:** Beschränke den Zugriff auf Maus und Tastatur.
