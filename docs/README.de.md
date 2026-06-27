@@ -224,18 +224,61 @@ Wir veröffentlichen regelmäßig kostenlose Updates, um die Sicherheit und Funk
 
 ---
 
-## ⚙️ Skript-Konfiguration
+## ⚙️ Skript-Einrichtung
 
 Zur Konfiguration:
 
-1. Führe das Skript aus, um die Datei `settings.ini` zu erstellen, in die du die Daten eingeben kannst (Beispiel unten).
-2. Oder erstelle eine Datei `settings.ini`, kopiere das Beispiel und ersetze die Daten durch deine eigenen.
+1. Starten Sie das Skript, um die Datei `settings.ini` zu erstellen (Beispiel unten).
+2. Oder erstellen Sie `settings.ini` manuell, kopieren Sie das Beispiel und ersetzen Sie die Daten.
 
-    ```ini
-    [BotConfig]
-    token = 1298170394:AAFoRAJsNzgxalі4dhHX_UNjDbu6stjsTkI
-    admin_list = 123331492, 320491837
-    ```
+```ini
+[BotConfig]
+token = 1298170394:AAFoRAJsNzgxalі4dhHX_UNjDbu6stjsTkI
+admin_list = 123331492, 320491837
+
+[Proxy]
+use_proxy = False
+proxy_type = http
+proxy_url = ip:port
+proxy_user = 
+proxy_pass = 
+```
+
+> 💡 Der Abschnitt `[Proxy]` ist optional — wenn kein Proxy benötigt wird, lassen Sie `use_proxy = False` oder lassen Sie den Abschnitt weg, das Skript erstellt ihn automatisch.
+
+---
+
+### 🌐 Proxy-Einrichtung (optional)
+
+Wenn Telegram in Ihrem Land gesperrt ist oder Sie einen Proxy verwenden möchten — bearbeiten Sie den Abschnitt `[Proxy]` in `settings.ini`:
+
+**Mit Login und Passwort:**
+```ini
+[Proxy]
+use_proxy = True
+proxy_type = http
+proxy_url = 45.67.89.10:3128
+proxy_user = mylogin
+proxy_pass = mypassword
+```
+
+**Ohne Login und Passwort:**
+```ini
+[Proxy]
+use_proxy = True
+proxy_type = http
+proxy_url = 45.67.89.10:3128
+proxy_user = 
+proxy_pass = 
+```
+
+**Unterstützte Typen:** `http`, `https`, `socks5`
+
+> ⚠️ **Wichtig:**
+> - Kostenlose Proxys sind instabil und halten 1–2 Stunden. Für den Dauereinsatz wird ein kostenpflichtiger oder eigener Proxy empfohlen.
+> - Wenn der Proxy beim Start nicht verfügbar ist — versucht der Bot automatisch 3 Mal, danach deaktiviert er den Proxy und startet direkt.
+> - Wenn der Proxy während des Betriebs ausfällt — wechselt der Bot automatisch zur direkten Verbindung und benachrichtigt Sie in Telegram.
+> - Den Proxy können Sie direkt im Bot konfigurieren: **Bot-Panel → Bot-Konfiguration → Proxy**.
 
 ### Wie du die Daten erhältst
 

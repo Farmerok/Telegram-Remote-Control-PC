@@ -228,14 +228,57 @@ Rilasciamo regolarmente aggiornamenti gratuiti per mantenere la sicurezza e la f
 
 Per configurare:
 
-1. Esegui lo script per generare il file `settings.ini` dove inserire i dati (esempio sotto).
-2. Oppure crea un file `settings.ini`, copia l’esempio e sostituisci con i tuoi dati.
+1. Avviare lo script per creare il file `settings.ini` (esempio di seguito).
+2. Oppure creare `settings.ini` manualmente, copiare l'esempio e sostituire i dati.
 
-    ```ini
-    [BotConfig]
-    token = 1298170394:AAFoRAJsNzgxalі4dhHX_UNjDbu6stjsTkI
-    admin_list = 123331492, 320491837
-    ```
+```ini
+[BotConfig]
+token = 1298170394:AAFoRAJsNzgxalі4dhHX_UNjDbu6stjsTkI
+admin_list = 123331492, 320491837
+
+[Proxy]
+use_proxy = False
+proxy_type = http
+proxy_url = ip:port
+proxy_user = 
+proxy_pass = 
+```
+
+> 💡 La sezione `[Proxy]` è facoltativa — se non si ha bisogno di un proxy, lasciare `use_proxy = False` o omettere la sezione, lo script la creerà automaticamente.
+
+---
+
+### 🌐 Configurazione proxy (opzionale)
+
+Se Telegram è bloccato nel tuo paese o vuoi usare un proxy — modifica la sezione `[Proxy]` in `settings.ini`:
+
+**Con login e password:**
+```ini
+[Proxy]
+use_proxy = True
+proxy_type = http
+proxy_url = 45.67.89.10:3128
+proxy_user = mylogin
+proxy_pass = mypassword
+```
+
+**Senza login e password:**
+```ini
+[Proxy]
+use_proxy = True
+proxy_type = http
+proxy_url = 45.67.89.10:3128
+proxy_user = 
+proxy_pass = 
+```
+
+**Tipi supportati:** `http`, `https`, `socks5`
+
+> ⚠️ **Importante:**
+> - I proxy gratuiti sono instabili e durano 1–2 ore. Per uso permanente si consiglia un proxy a pagamento o personale.
+> - Se il proxy non è disponibile all'avvio — il bot riproverà automaticamente 3 volte, poi disabiliterà il proxy e si avvierà direttamente.
+> - Se il proxy cade durante il funzionamento — il bot passerà automaticamente alla connessione diretta e ti notificherà su Telegram.
+> - Puoi configurare o cambiare il proxy direttamente nel bot: **Pannello bot → Configurazione bot → Proxy**.
 
 ### Come ottenere i dati
 

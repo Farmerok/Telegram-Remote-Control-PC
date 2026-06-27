@@ -226,16 +226,59 @@ Lanzamos actualizaciones gratuitas regularmente para mantener la funcionalidad y
 
 ## ⚙️ Configuración del script
 
-Para la configuración:
+Para configurar:
 
-1. Ejecuta el script para crear el archivo `settings.ini` para introducir los datos (ejemplo a continuación).
-2. O crea el archivo `settings.ini`, copia el ejemplo y reemplaza los datos con los tuyos.
+1. Ejecute el script para crear el archivo `settings.ini` (ejemplo a continuación).
+2. O cree `settings.ini` manualmente, copie el ejemplo y reemplace los datos.
 
-    ```ini
-    [BotConfig]
-    token = 1298170394:AAFoRAJsNzgxalі4dhHX_UNjDbu6stjsTkI
-    admin_list = 123331492, 320491837
-    ```
+```ini
+[BotConfig]
+token = 1298170394:AAFoRAJsNzgxalі4dhHX_UNjDbu6stjsTkI
+admin_list = 123331492, 320491837
+
+[Proxy]
+use_proxy = False
+proxy_type = http
+proxy_url = ip:port
+proxy_user = 
+proxy_pass = 
+```
+
+> 💡 La sección `[Proxy]` es opcional — si no necesita proxy, deje `use_proxy = False` u omita la sección, el script la creará automáticamente.
+
+---
+
+### 🌐 Configuración de proxy (opcional)
+
+Si Telegram está bloqueado en su país o desea usar un proxy — edite la sección `[Proxy]` en `settings.ini`:
+
+**Con usuario y contraseña:**
+```ini
+[Proxy]
+use_proxy = True
+proxy_type = http
+proxy_url = 45.67.89.10:3128
+proxy_user = mylogin
+proxy_pass = mypassword
+```
+
+**Sin usuario y contraseña:**
+```ini
+[Proxy]
+use_proxy = True
+proxy_type = http
+proxy_url = 45.67.89.10:3128
+proxy_user = 
+proxy_pass = 
+```
+
+**Tipos compatibles:** `http`, `https`, `socks5`
+
+> ⚠️ **Importante:**
+> - Los proxies gratuitos son inestables y duran 1–2 horas. Para uso permanente se recomienda un proxy de pago o propio.
+> - Si el proxy no está disponible al iniciar — el bot reintentará automáticamente 3 veces, luego desactivará el proxy y se iniciará directamente.
+> - Si el proxy falla durante el funcionamiento — el bot cambiará automáticamente a conexión directa y le notificará en Telegram.
+> - Puede configurar o cambiar el proxy directamente en el bot: **Panel del bot → Configuración del bot → Proxy**.
 
 ### Cómo obtener los datos
 

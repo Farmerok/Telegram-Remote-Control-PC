@@ -228,14 +228,57 @@ Des mises à jour gratuites sont régulièrement publiées pour maintenir la sé
 
 Pour configurer :
 
-1. Lancez le script pour générer le fichier `settings.ini` où entrer les données (exemple ci-dessous).
-2. Ou créez un fichier `settings.ini`, copiez l’exemple et remplacez par vos données.
+1. Lancez le script pour créer le fichier `settings.ini` (exemple ci-dessous).
+2. Ou créez `settings.ini` manuellement, copiez l'exemple et remplacez les données.
 
-    ```ini
-    [BotConfig]
-    token = 1298170394:AAFoRAJsNzgxalі4dhHX_UNjDbu6stjsTkI
-    admin_list = 123331492, 320491837
-    ```
+```ini
+[BotConfig]
+token = 1298170394:AAFoRAJsNzgxalі4dhHX_UNjDbu6stjsTkI
+admin_list = 123331492, 320491837
+
+[Proxy]
+use_proxy = False
+proxy_type = http
+proxy_url = ip:port
+proxy_user = 
+proxy_pass = 
+```
+
+> 💡 La section `[Proxy]` est facultative — si vous n'avez pas besoin de proxy, laissez `use_proxy = False` ou omettez la section, le script la créera automatiquement.
+
+---
+
+### 🌐 Configuration du proxy (optionnel)
+
+Si Telegram est bloqué dans votre pays ou si vous souhaitez utiliser un proxy — modifiez la section `[Proxy]` dans `settings.ini` :
+
+**Avec identifiant et mot de passe :**
+```ini
+[Proxy]
+use_proxy = True
+proxy_type = http
+proxy_url = 45.67.89.10:3128
+proxy_user = mylogin
+proxy_pass = mypassword
+```
+
+**Sans identifiant et mot de passe :**
+```ini
+[Proxy]
+use_proxy = True
+proxy_type = http
+proxy_url = 45.67.89.10:3128
+proxy_user = 
+proxy_pass = 
+```
+
+**Types pris en charge :** `http`, `https`, `socks5`
+
+> ⚠️ **Important :**
+> - Les proxies gratuits sont instables et durent 1 à 2 heures. Pour une utilisation permanente, un proxy payant ou personnel est recommandé.
+> - Si le proxy est indisponible au démarrage — le bot réessaiera automatiquement 3 fois, puis désactivera le proxy et démarrera directement.
+> - Si le proxy tombe en panne pendant le fonctionnement — le bot basculera automatiquement vers une connexion directe et vous notifiera dans Telegram.
+> - Vous pouvez configurer ou changer le proxy directement dans le bot : **Panneau du bot → Configuration du bot → Proxy**.
 
 ### Comment obtenir les données
 

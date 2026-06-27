@@ -227,18 +227,61 @@ The script regularly receives free updates. As long as I have the ability and de
 
 ---
 
-## ⚙️ Script Configuration
+## ⚙️ Script Setup
 
-*To configure the script:*
+To configure:
 
-1. **Run the script to generate the `settings.ini` file, where you can enter the data (an example is shown below).**
-2. **Alternatively, create a file named `settings.ini`, copy the example below, and paste it into the file, then replace it with YOUR data.**
+1. Run the script to create the `settings.ini` file (example below).
+2. Or create `settings.ini` manually, copy the example and replace with your data.
 
-    ```ini
-    [BotConfig]
-    token = 1298170394:AAFoRAJsNzgxalі4dhHX_UNjDbu6stjsTkI
-    admin_list = 123331492, 320491837
-    ```
+```ini
+[BotConfig]
+token = 1298170394:AAFoRAJsNzgxalі4dhHX_UNjDbu6stjsTkI
+admin_list = 123331492, 320491837
+
+[Proxy]
+use_proxy = False
+proxy_type = http
+proxy_url = ip:port
+proxy_user = 
+proxy_pass = 
+```
+
+> 💡 The `[Proxy]` section is optional — if you don't need a proxy, leave `use_proxy = False` or skip the section entirely, the script will create it automatically.
+
+---
+
+### 🌐 Proxy Setup (optional)
+
+If Telegram is blocked in your country or you want to use a proxy — edit the `[Proxy]` section in `settings.ini`:
+
+**With login and password:**
+```ini
+[Proxy]
+use_proxy = True
+proxy_type = http
+proxy_url = 45.67.89.10:3128
+proxy_user = mylogin
+proxy_pass = mypassword
+```
+
+**Without login and password:**
+  ```ini
+  [Proxy]
+  use_proxy = True
+  proxy_type = http
+  proxy_url = 45.67.89.10:3128
+  proxy_user = 
+  proxy_pass = 
+  ```
+
+**Supported types:** `http`, `https`, `socks5`
+
+> ⚠️ **Important:**
+> - Free proxies are unstable and last 1–2 hours. For permanent use, a paid or self-hosted proxy is recommended.
+> - If the proxy is unavailable at startup — the bot will automatically retry 3 times, then disable the proxy and start directly.
+> - If the proxy fails during operation — the bot will automatically switch to a direct connection and notify you in Telegram.
+> - You can configure or change the proxy directly in the bot: **Bot Panel → Bot Configuration → Proxy**.
 
 ### Where to Get the Required Data
 
