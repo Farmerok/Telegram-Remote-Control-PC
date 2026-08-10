@@ -63,6 +63,12 @@ This script is designed to run even on low-end systems without overloading resou
           <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="Italiano" style="width: 40px; vertical-align: middle; margin: 5px;" />
           <br>Italiano
         </a>
+      <td align="center">
+        <a href="docs/README.ar.md">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg" alt="العربية" style="width: 40px; vertical-align: middle; margin: 5px;" />
+          <br>العربية
+        </a>
+      </td>
     </tr>
   </table>
 </p>
