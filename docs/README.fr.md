@@ -74,11 +74,6 @@ Des mises à jour gratuites sont régulièrement publiées pour maintenir la sé
         <b>🖱️ Contrôle des périphériques</b><br>
         Contrôlez la souris et le clavier à distance.
       </td>
-      <td align="center">
-        <img src="resource/image/checkweather.png" width="290px"><br>
-        <b>🌤️ Météo</b><br>
-        Obtenez des informations météo actualisées directement dans le bot.
-      </td>
     </tr>
     <tr>
       <td align="center">

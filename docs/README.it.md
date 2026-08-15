@@ -74,11 +74,6 @@ Rilasciamo regolarmente aggiornamenti gratuiti per mantenere la sicurezza e la f
         <b>🖱️ Controllo dispositivi</b><br>
         Controlla mouse e tastiera da remoto.
       </td>
-      <td align="center">
-        <img src="resource/image/checkweather.png" width="290px"><br>
-        <b>🌤️ Meteo</b><br>
-        Ricevi informazioni meteo aggiornate direttamente nel bot.
-      </td>
     </tr>
     <tr>
       <td align="center">

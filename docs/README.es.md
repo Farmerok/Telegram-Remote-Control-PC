@@ -74,11 +74,6 @@ Lanzamos actualizaciones gratuitas regularmente para mantener la funcionalidad y
         <b>🖱️ Control de dispositivos</b><br>
         Controla el ratón y el teclado de forma remota.
       </td>
-      <td align="center">
-        <img src="resource/image/checkweather.png" width="290px"><br>
-        <b>🌤️ Tiempo</b><br>
-        Recibe datos meteorológicos actualizados directamente en el bot.
-      </td>
     </tr>
     <tr>
       <td align="center">

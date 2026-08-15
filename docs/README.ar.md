@@ -74,11 +74,6 @@
         <b>🖱️ إدارة الأجهزة</b><br>
         تحكم بالماوس ولوحة المفاتيح عن بُعد.
       </td>
-      <td align="center">
-        <img src="resource/image/checkweather.png" width="290px"><br>
-        <b>🌤️ الطقس</b><br>
-        احصل على بيانات الطقس الحالية مباشرة داخل البوت.
-      </td>
     </tr>
     <tr>
       <td align="center">

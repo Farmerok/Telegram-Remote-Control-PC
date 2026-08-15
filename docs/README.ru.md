@@ -74,11 +74,6 @@
         <b>🖱️ Управление устройствами</b><br>
         Контролируйте мышь и клавиатуру удаленно.
       </td>
-      <td align="center">
-        <img src="resource/image/checkweather.png" width="290px"><br>
-        <b>🌤️ Погода</b><br>
-        Получайте актуальные данные о погоде прямо в боте.
-      </td>
     </tr>
     <tr>
       <td align="center">

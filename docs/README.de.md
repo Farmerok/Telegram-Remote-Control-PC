@@ -74,11 +74,6 @@ Wir veröffentlichen regelmäßig kostenlose Updates, um die Sicherheit und Funk
         <b>🖱️ Gerätesteuerung</b><br>
         Steuere Maus und Tastatur aus der Ferne.
       </td>
-      <td align="center">
-        <img src="resource/image/checkweather.png" width="290px"><br>
-        <b>🌤️ Wetter</b><br>
-        Erhalte aktuelle Wetterinformationen direkt im Bot.
-      </td>
     </tr>
     <tr>
       <td align="center">

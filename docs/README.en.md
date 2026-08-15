@@ -74,11 +74,6 @@ The script regularly receives free updates. As long as I have the ability and de
         <b>🖱️ Device Control</b><br>
         Remotely control your mouse and keyboard.
       </td>
-      <td align="center">
-        <img src="resource/image/checkweather.png" width="290px"><br>
-        <b>🌤️ Weather Check</b><br>
-        Get up-to-date weather information directly in the bot!
-      </td>
     </tr>
     <tr>
       <td align="center">

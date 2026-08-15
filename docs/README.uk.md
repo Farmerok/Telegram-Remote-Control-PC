@@ -74,11 +74,6 @@
         <b>🖱️ Керування пристроями</b><br>
         Контролюйте мишу та клавіатуру віддалено.
       </td>
-      <td align="center">
-        <img src="resource/image/checkweather.png" width="290px"><br>
-        <b>🌤️ Погода</b><br>
-        Отримуйте актуальні дані про погоду прямо в боті.
-      </td>
     </tr>
     <tr>
       <td align="center">
