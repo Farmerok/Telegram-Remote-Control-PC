@@ -9,9 +9,9 @@
 This script is designed to run even on low-end systems without overloading resources.  
 
 **Average consumption in normal mode:**  
-- 🖥 **RAM**: `50-59 MB`
+- 🖥 **RAM**: `59-69 MB`
 - 🔄 **CPU**: 0-0.10%  
-- 💾 **The required free space on the system disk**: `250-350 MB`
+- 💾 **The required free space on the system disk**: `Min 350 MB`
 
 ⚙️ Thanks to optimized code and minimal dependencies, the bot runs stably even on older PCs.  
 
