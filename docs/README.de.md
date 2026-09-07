@@ -1,10 +1,14 @@
+# PCGuardControl
+
 ## 📝 Einführung
 
-Willkommen bei **PCGuardControl**! Dieses leistungsstarke Tool ermöglicht dir die Fernsteuerung deines Computers über einfache Telegram-Befehle, wodurch deine Arbeit bequemer und effizienter wird.
+Willkommen bei **PCGuardControl** — einem Tool zur Fernsteuerung Ihres Windows-Computers über Telegram.
 
-Das Skript unterstützt einen oder mehrere Administratoren. Beispielsweise kannst du auf einem Familien-PC deinen Angehörigen Zugriff gewähren.
+Der Bot ermöglicht es Ihnen, alltägliche Aktionen an Ihrem PC direkt aus dem Chat auszuführen: Strom und Ton verwalten, mit Dateien und Anwendungen arbeiten, Screenshots erhalten, Prozesse steuern, eine Fernmaus und -tastatur verwenden, Bildschirm- und Kamera-Streaming starten und vieles mehr.
 
-Wir veröffentlichen regelmäßig kostenlose Updates, um die Sicherheit und Funktionalität des Skripts zu gewährleisten.
+**Ein oder mehrere Administratoren** werden unterstützt. So können Sie beispielsweise mehreren vertrauenswürdigen Benutzern Zugriff auf denselben Computer gewähren.
+
+Das Projekt erhält Updates mit Fehlerbehebungen, Verbesserungen und neuen Funktionen.
 
 ---
 
@@ -15,120 +19,127 @@ Wir veröffentlichen regelmäßig kostenlose Updates, um die Sicherheit und Funk
     <tr>
       <td align="center">
         <img src="resource/image/primarymenuserver.png" width="290px"><br>
-        <b>🔧 Intuitive Navigation</b><br>
-        Wechsle einfach zwischen Kamera, Desktop und Mikrofon.
+        <b>🔧 Übersichtliche Navigation</b><br>
+        Die Kernfunktionen sind in klare Bereiche gegliedert: System, Streaming, Prozesse, Multimedia, Anwendungen, Plugins und andere Tools.
       </td>
       <td align="center">
         <img src="resource/image/livecamera.png" width="290px"><br>
-        <b>📸 Videoüberwachung</b><br>
-        Streame Videos von deinen Kameras zur Überwachung deines Hauses.
+        <b>📸 Kamera</b><br>
+        Erhalten Sie Bilder von angeschlossenen Kameras und nutzen Sie Videoüberwachung über Telegram.
       </td>
       <td align="center">
         <img src="resource/image/livedesktop.png" width="290px"><br>
-        <b>📸 Bildschirm-Streaming</b><br>
-        Beobachte deinen Desktop von einem Handy oder einem anderen Gerät.
+        <b>🖥️ Live-Streaming</b><br>
+        Sehen Sie Ihren Desktop in Echtzeit, wählen Sie Monitor, FPS, Qualität und Skalierung. Separates Audio-Streaming wird unterstützt.
       </td>
     </tr>
     <tr>
       <td align="center">
         <img src="resource/image/language.png" width="290px"><br>
-        <b>🌍 Mehrsprachige Unterstützung</b><br>
-        Der Bot ist in mehreren Sprachen verfügbar für Nutzer weltweit.
+        <b>🌍 8 Sprachen</b><br>
+        Englisch, Ukrainisch, Russisch, Spanisch, Italienisch, Französisch, Deutsch und Arabisch.
       </td>
       <td align="center">
         <img src="resource/image/botconfig.png" width="290px"><br>
         <b>🤖 Bot-Konfiguration</b><br>
-        Ändere den Token, füge Administratoren hinzu oder entferne sie direkt im Bot.
+        Verwalten Sie Administratoren, Token, Proxy, Benutzer und den Speicherort der Konfiguration. Für jeden Administrator kann der Zugriff auf Funktionen und Bereiche des Bots separat eingestellt werden.
       </td>
       <td align="center">
         <img src="resource/image/panelbot.png" width="290px"><br>
-        <b>🔧 Einstellungsverwaltung</b><br>
-        Konfiguriere die Bot-Parameter schnell und einfach.
+        <b>⚙️ Bot-Panel</b><br>
+        Neustart, Ausführung mit Administratorrechten, Autostart, Benachrichtigungen, Sprache, Updates, Leistung, Konfigurations-Reset und weitere Einstellungen.
       </td>
     </tr>
     <tr>
       <td align="center">
         <img src="resource/image/panelsystem.png" width="290px"><br>
-        <b>🖥️ Systemsteuerung</b><br>
-        Praktische Schnittstelle zur Interaktion mit deinem System.
+        <b>🧰 Systempanel</b><br>
+        Schneller Zugriff auf System, gefährliche Funktionen, Bereinigung, Programminstallation, Anwendungen, Live-Streaming, Prozesse, Medien, Module und Plugins.
       </td>
       <td align="center">
         <img src="resource/image/systemSection.png" width="290px"><br>
-        <b>⚙️ Systeminformationen</b><br>
-        Verwalte Stromversorgung, Energiepläne, Bildschirmsperre oder Abmeldung.
+        <b>🖥️ Windows-Steuerung</b><br>
+        Strom, Bildschirmsperre, Abmeldung, Netzwerk, WLAN, Explorer-Neustart, Helligkeit, Akku, Diebstahlschutz und Bewegungssensor.
       </td>
       <td align="center">
         <img src="resource/image/PowerPC.png" width="290px"><br>
-        <b>🔋 Energiemanagement</b><br>
-        Schalte den PC aus, starte ihn neu, aktiviere den Ruhezustand oder plane ein Herunterfahren.
+        <b>🔋 Energieverwaltung</b><br>
+        Fahren Sie den PC sofort oder per Timer herunter, starten Sie ihn neu oder versetzen Sie ihn in den Ruhezustand. Manuelle Zeiteingabe und Abbruch einer geplanten Aktion sind möglich.
       </td>
     </tr>
     <tr>
       <td align="center">
         <img src="resource/image/playersettings.png" width="290px"><br>
-        <b>🎵 Audioeinstellungen</b><br>
-        Passe den Ton deines PCs aus der Ferne an.
+        <b>🎵 Medienverwaltung</b><br>
+        Steuern Sie Wiedergabe und Lautstärke: Pause/Fortsetzen, vorheriger/nächster Titel, Stummschaltung und Lautstärkeänderung.
       </td>
       <td align="center">
         <img src="resource/image/devicecontrol.png" width="290px"><br>
-        <b>🖱️ Gerätesteuerung</b><br>
-        Steuere Maus und Tastatur aus der Ferne.
+        <b>🖱️ Tastatur, Maus und Zwischenablage</b><br>
+        Steuern Sie Maus und Tastatur, geben Sie Text ein, senden Sie Tastenkombinationen und arbeiten Sie mit der Zwischenablage.
+      </td>
+      <td align="center">
+        <img src="resource/image/takescreenshot.png" width="290px"><br>
+        <b>🖼️ Screenshots</b><br>
+        Erstellen Sie einen Screenshot von einem oder allen Monitoren, aktivieren Sie die Cursoranzeige, wählen Sie Bildformat, Größe und Standardmonitor.
       </td>
     </tr>
     <tr>
       <td align="center">
         <img src="resource/image/processmonitoring.png" width="290px"><br>
-        <b>🎥 Prozessüberwachung</b><br>
-        Verfolge Prozesse, indem du sie auf eine Blacklist setzt, und überwache neue Starts.
+        <b>📊 Prozessüberwachung</b><br>
+        Verfolgen Sie das Starten von Anwendungen, verwenden Sie eine schwarze Liste und erhalten Sie Benachrichtigungen über erkannte oder unbekannte Prozesse.
       </td>
       <td align="center">
         <img src="resource/image/checkprocess.png" width="290px"><br>
-        <b>🗂️ Prozessverwaltung</b><br>
-        Zeige laufende Prozesse, ihre Ressourcen an und beende sie bei Bedarf.
+        <b>🗂️ Prozessmanager</b><br>
+        Zeigen Sie laufende Prozesse, PID, Auslastung, übergeordnete/untergeordnete Beziehungen an, nutzen Sie die Suche und beenden Sie einen ausgewählten Prozess.
       </td>
       <td align="center">
         <img src="resource/image/browsercontrol.png" width="290px"><br>
         <b>🌐 Browsersteuerung</b><br>
-        Führe Aktionen im Browser direkt aus dem Chat aus.
+        Wechseln Sie Seiten, aktualisieren Sie einen Tab, führen Sie eine Suche durch, öffnen Sie neue Tabs, scrollen Sie die Seite und schließen Sie Tabs oder den Browser.
       </td>
     </tr>
     <tr>
       <td align="center">
         <img src="resource/image/installerapp.png" width="290px"><br>
-        <b>🔧 Programm-Installation</b><br>
-        Windows neu installiert? Finde Programme nach Kategorien oder Suche. Wenn ein Programm nicht gelistet ist, gib seinen Namen ein, um es zu installieren.
+        <b>🔧 Programminstallation</b><br>
+        Installieren Sie Anwendungen über Chocolatey: wählen Sie Kategorien, nutzen Sie die Suche, Mehrfachinstallation, aktualisieren Sie veraltete Pakete oder geben Sie den Programmnamen manuell ein.
       </td>
       <td align="center">
         <img src="resource/image/myaplication.png" width="290px"><br>
         <b>🈸 Meine Anwendungen</b><br>
-        Füge Anwendungen zu einer Liste hinzu, gib ihnen Namen und starte sie aus diesem Menü.
+        Fügen Sie eigene Programme mit Namen und Dateipfad hinzu und starten, bearbeiten oder entfernen Sie sie anschließend aus der Liste.
       </td>
       <td align="center">
-        <img src="resource/image/jokemenu.png" width="290px"><br>
-        <b>🤡 Unterhaltsame Funktionen</b><br>
-        Spiele Streiche mit denen, die deinen PC benutzen: Spiele zufällige Audios, Melodien oder sperre den Bildschirm.
-      </td>
-      <td align="center">
-        <img src="resource/image/preferences.png" width="290px"><br>
-        <b>🛠️ Personalisierung</b><br>
-        Passe den Bot an: Bildformate, Update-Benachrichtigungen, Bildschirmsperre usw.
+        <img src="resource/image/filemanager.png" width="290px"><br>
+        <b>📂 Dateimanager</b><br>
+        Zeigen Sie das aktuelle Verzeichnis und die Anzahl der Ordner und Dateien an, wechseln Sie zwischen Laufwerken und Ordnern, gehen Sie zurück und verwalten Sie Dateien direkt aus Telegram.
       </td>
     </tr>
     <tr>
       <td align="center">
         <img src="resource/image/clicker.png" width="290px"><br>
-        <b>🔘 Autoklicker</b><br>
-        Starte einen Autoklicker für Maus oder Tastatur direkt im Bot.
+        <b>🔘 Auto-Klicker</b><br>
+        Starten Sie automatische Maus- oder Tastaturklicks und pausieren Sie sie direkt aus Telegram.
       </td>
       <td align="center">
-        <img src="resource/image/takescreenshot.png" width="290px"><br>
-        <b>🖼️ Screenshots</b><br>
-        Erstelle und empfange Screenshots deines PCs auf Telegram.
+        <img src="resource/image/jokemenu.png" width="290px"><br>
+        <b>🤡 Scherzmenü</b><br>
+        Signalton, Systemwarnungen, chaotische Mausbewegung, Bildschirm einfrieren, Audiowiedergabe, Text-zu-Sprache und Wackeln des aktiven Fensters.
       </td>
       <td align="center">
         <img src="resource/image/scaryfunc.png" width="290px"><br>
-        <b>🖼️ Extreme Funktionen</b><br>
-        Teste deine Grenzen: Löse einen BSOD aus oder beende alle Prozesse!
+        <b>⚠️ Gefährliche Funktionen</b><br>
+        Ein separater Bereich für Aktionen mit erhöhtem Risiko, einschließlich Auslösen eines BSOD und erzwungenem Beenden eines Prozesses.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="resource/image/recording.png" width="290px"><br>
+        <b>🎬 Aufnahme</b><br>
+        Machen Sie Screenshots und Kamerafotos, nehmen Sie Webcam-Video, einen oder alle Monitore sowie Ton von einem ausgewählten Mikrofon auf. Für die Aufnahme können Gerät, Monitor und Dauer gewählt werden.
       </td>
     </tr>
   </table>
@@ -136,118 +147,170 @@ Wir veröffentlichen regelmäßig kostenlose Updates, um die Sicherheit und Funk
 
 ---
 
-## 📂 Verwaltung von Dateien und Ordnern
+## 📂 Datei- und Ordnerverwaltung
 
-- **📁 Ordnernavigation:** Wechsle schnell zwischen Verzeichnissen.
-- **📂 Ordner erstellen:** Erstelle neue Ordner an beliebigen Orten.
-- **✏️ Umbenennen:** Ändere die Namen bestehender Ordner.
-- **🔍 Scannen:** Überprüfe Dateien und Ordner im aktuellen Verzeichnis.
-- **🔄 Verzeichniswechsel:** Navigiere einfach zwischen Ordnern.
+PCGuardControl ermöglicht die Arbeit mit dem Dateisystem des Computers ohne direkten Zugriff auf den Desktop.
 
----
-
-## 🛠️ Zusätzliche Funktionen
-
-- **💻 Eingabeaufforderung:** Führe Befehle in der Windows-Konsole aus.
-- **🚀 Dateien starten:** Öffne Dateien aus beliebigen Verzeichnissen.
-- **📥 Datei-Upload:** Sende Dateien an deinen PC.
-- **📤 Datei-Download:** Lade Dateien von deinem PC auf Telegram herunter.
-- **🗑️ Löschen:** Entferne Dateien oder Ordner nach Namen.
-- **🔗 Download über Link:** Lade Dateien über direkte Links herunter.
-- **👮 Diebstahlschutz:** Sperre den Bildschirm bei jeglicher Aktivität.
-- **✍️ Texteingabe:** Gib Text auf deinem PC über den Bot ein.
-- **🗣 Sprachnachrichten:** Sende Sprachnachrichten, die auf dem PC abgespielt werden.
-- **📦 Zwischenablage:** Zeige und bearbeite den Inhalt der Zwischenablage.
-- **👀 Zwischenablage-Überwachung:** Echtzeit-Verfolgung von Änderungen in der Zwischenablage mit Benachrichtigungen.
-- **🛡️ Firewall:** Aktiviere/deaktiviere den Schutz direkt im Bot.
-- **🖥 Monitorsteuerung:** Schalte den Monitor ein/aus.
-- **⌨️ Eingabesperre:** Beschränke den Zugriff auf Maus und Tastatur.
-- **🪫 Akkukontrolle:** Erhalte Benachrichtigungen bei niedrigem Akkustand.
-- **🗂 Explorer-Neustart:** Starte den Windows-Explorer neu.
+- **📁 Ordnernavigation** — wechseln Sie zwischen Verzeichnissen und sehen Sie deren Inhalt.
+- **📂 Ordner erstellen** — erstellen Sie neue Verzeichnisse am gewünschten Ort.
+- **✏️ Umbenennen** — ändern Sie Namen von Dateien und Ordnern.
+- **🔍 Inhalt anzeigen** — erhalten Sie eine Liste der Dateien und Ordner im aktuellen Verzeichnis.
+- **📥 Auf den PC laden** — senden Sie Dateien von Telegram an den Computer.
+- **📤 Vom PC herunterladen** — holen Sie benötigte Dateien vom Computer nach Telegram.
+- **🚀 Dateien ausführen** — öffnen Sie Dateien und Programme aus dem ausgewählten Verzeichnis.
+- **🗑️ Löschen** — löschen Sie ausgewählte Dateien und Ordner.
+- **🔗 Herunterladen per Link** — laden Sie Dateien über einen direkten Link auf den PC herunter.
 
 ---
 
-## 🖼️ Hintergrundbild-Verwaltung
+## 🛠️ Weitere Funktionen
 
-- **📥 Hintergrundbilder herunterladen:** Speichere Bilder auf deinem PC.
-- **🎨 Hintergrundbild einstellen:** Ändere den Desktop-Hintergrund, indem du ein Bild sendest.
+- **💻 Konsole** — führen Sie Windows-Befehle remote aus.
+- **✍️ Texteingabe** — geben Sie Text über Telegram am Computer ein.
+- **⌨️ Tastenkombinationen** — senden Sie benutzerdefinierte Tastenkombinationen.
+- **📦 Zwischenablage** — zeigen Sie den Inhalt der Zwischenablage an und bearbeiten Sie ihn.
+- **👀 Überwachung der Zwischenablage** — erhalten Sie Benachrichtigungen bei Änderungen.
+- **🗣️ Sprachnachrichten** — senden Sie Audio zur Wiedergabe am Computer.
+- **🛡️ Firewall** — verwalten Sie den Status der Windows-Firewall über den Bot.
+- **🖥️ Monitorsteuerung** — schalten Sie den Monitor ein oder aus.
+- **⌨️ Eingabesperre** — schränken Sie Maus- und Tastaturbedienung ein.
+- **🪫 Akkuüberwachung** — verfolgen Sie den Akkustand des Laptops und erhalten Sie Benachrichtigungen.
+- **🗂️ Explorer-Neustart** — starten Sie den Windows Explorer neu, ohne den PC neu zu starten.
+- **🌐 Netzwerk und WLAN** — verwalten Sie Netzwerkfunktionen und WLAN-Einstellungen.
+- **👮 Diebstahlschutz** — aktivieren Sie einen Schutzmodus, der den Bildschirm bei erkannter Aktivität sperren kann.
+- **🎥 Bewegungssensor** — nutzen Sie die Kamera zur Bewegungserkennung.
+- **🧩 Module und Plugins** — erweitern Sie die Fähigkeiten des Bots durch separate Module und einen Plugin-Manager.
+- **🧹 Bereinigungspanel** — schneller Zugriff auf Bereinigungsfunktionen.
+
+---
+
+## 🖼️ Hintergrundbildverwaltung
+
+- **📥 Bild hochladen** — speichern Sie das gewünschte Bild auf dem Computer.
+- **🎨 Hintergrund festlegen** — senden Sie ein Bild über Telegram und legen Sie es als Desktop-Hintergrund fest.
 
 ---
 
 ## 💬 Benachrichtigungen
 
-- **📝 Benachrichtigungen senden:** Erstelle Notizen und Systembenachrichtigungen auf deinem PC.
+- **📝 Systembenachrichtigungen** — zeigen Sie Nachrichten am Computer an.
+- **🔔 Bot-Benachrichtigungen** — aktivieren oder deaktivieren Sie Benachrichtigungen über das Panel.
+- **📢 Update-Benachrichtigung** — der Bot kann über die Veröffentlichung einer neuen Version informieren.
+- **💡 Hinweise** — bei Bedarf können Hinweise zu einzelnen Funktionen aktiviert werden.
+
+---
+
+## ⚙️ Bot-Panel und Einstellungen
+
+Über das **Bot-Panel** stehen zur Verfügung:
+
+- Neustart des Bots;
+- Neustart mit Administratorrechten;
+- Deaktivierung des Bots;
+- Aktivieren/Deaktivieren von Benachrichtigungen;
+- Sprachwechsel;
+- Update-Center;
+- Autostart-Verwaltung;
+- Einstellungen;
+- Zurücksetzen der Konfiguration;
+- Bot-Konfiguration;
+- Auswahl des Leistungsprofils des Bots.
+
+---
+
+## 🤖 Bot-Konfiguration
+
+Aus Telegram können Sie ein separates Konfigurationspanel öffnen und verwalten:
+
+- **Administratoren** — Administratoren hinzufügen und entfernen sowie jedem einzeln Zugriff auf bestimmte Funktionen und Bereiche des Bots einstellen;
+- Telegram-Bot-Token;
+- Proxy;
+- Benutzer;
+- Konfigurationsverzeichnis.
 
 ---
 
 ## 🖥️ Unterstützte Systeme
 
-| **System**       | **Unterstützung** | **Hinweise**                                                                                   | **Link** |
-|------------------|-------------------|------------------------------------------------------------------------------------------------|----------|
-| **Linux**        | ❌                |                                                                                                |          |
-| **MacOS**        | ❌                |                                                                                                |          |
-| **Windows 7**    | ✔️                | Aktiviere das Programm manuell in `msconfig` > **Autostart**.                                   |          |
-| **Windows 8**    | ✔️                | Aktiviere das Programm manuell in `Task-Manager` > **Autostart**.                               |          |
-| **Windows 10**   | ✔️                |                                                                                                |          |
-| **Windows 11**   | ✔️                |                                                                                                |          |
+| System | Unterstützung | Hinweis |
+|---|---:|---|
+| Linux | ❌ | Nicht unterstützt |
+| macOS | ❌ | Nicht unterstützt |
+| Windows 7 | ✔️ | Für Autostart ist möglicherweise eine manuelle Aktivierung über `msconfig` erforderlich |
+| Windows 8 | ✔️ | Autostart kann über `Task-Manager → Autostart` überprüft werden |
+| Windows 10 | ✔️ | Unterstützt |
+| Windows 11 | ✔️ | Unterstützt |
 
 ---
 
 ## ⚠️ Wichtige Informationen
 
-- Das Skript ist proprietär und nicht Open Source.
-- Regelmäßige Updates gewährleisten Sicherheit und neue Funktionen.
-- **Was ist `update.exe`?**  
-  Diese Datei dient der automatischen Aktualisierung des Skripts. Führe sie aus, um die neueste Version ohne manuelle Installation herunterzuladen.
-- **⚠️ Verwende denselben Token nicht gleichzeitig in mehreren Programmen** — nur in einer Anwendung.
-- **Zu Antiviren-Warnungen:**
+- Das Projekt ist **proprietär** und hat keinen offenen Quellcode.
+- Funktionen zur Fernsteuerung, Prozess-, Eingabe-, Datei- und Systembearbeitung können erhöhte Aufmerksamkeit von Antivirenprogrammen hervorrufen.
+- Laden Sie das Programm nur aus einer Quelle herunter, der Sie vertrauen.
+- Verwenden Sie nicht denselben Telegram-Token gleichzeitig in mehreren Instanzen des Programms.
+- Prüfen Sie vor der Nutzung von Funktionen aus dem Bereich **Gefährliche Funktionen** die ausgewählte Aktion sorgfältig.
+- Verwenden Sie das Programm nur an Ihrem eigenen Computer oder an Geräten, deren Steuerung Ihnen gestattet ist.
 
-  ```ini
-  Manche Antivirenprogramme könnten das Skript als Bedrohung markieren, da es für die Fernsteuerung des PCs gedacht ist.
-  Dies ist normales Verhalten für derartige Programme aufgrund ihrer Funktionalität.
-  Das Skript ist absolut sicher zu verwenden.
+### Was ist `update.exe`?
 
-  Du entscheidest, ob du es herunterladen möchtest – das ist dein Recht, und wir respektieren es. Wenn du der Quelle vertraust,
-  füge die Datei zu den Ausnahmen deines Antivirenprogramms hinzu, um Fehlalarme zu vermeiden.
+`update.exe` dient zur Aktualisierung von PCGuardControl. Damit können Sie eine neue Version herunterladen und installieren, ohne eine vollständige manuelle Neuinstallation durchzuführen.
 
-  Das Skript wird kostenlos bereitgestellt, und wir werden es regelmäßig aktualisieren, um Sicherheit und Funktionalität zu gewährleisten.
-  Der Download ist sicher, und du erhältst ein leistungsstarkes Tool zur Steuerung deines PCs über Telegram!
-  ```
+### Über Antiviren-Warnungen
 
-- **🚨 Haftungsausschluss:**  
-  Die Entwickler übernehmen keine Verantwortung für die illegale Nutzung des Skripts. Verwende es nicht für Handlungen, die gegen Gesetze oder die Rechte anderer verstoßen. Nutze das Programm nur für legale Zwecke.
+Manche Antivirenprogramme reagieren auf Fernsteuerungsprogramme aufgrund ihrer Funktionen für System, Prozesse, Dateien, Eingabe und Netzwerk.
+
+Wenn Ihr Antivirenprogramm eine Warnung anzeigt:
+
+1. stellen Sie sicher, dass die Datei aus einer offiziellen oder vertrauenswürdigen Quelle stammt;
+2. überprüfen Sie die Datei mit den Ihnen zur Verfügung stehenden Mitteln;
+3. fügen Sie sie nur dann zu den Ausnahmen hinzu, wenn Sie sich der Herkunft der Datei sicher sind.
+
+### 🚨 Haftungsausschluss
+
+Die Entwickler übernehmen keine Verantwortung für die illegale oder unbefugte Nutzung des Programms.
+
+Verwenden Sie PCGuardControl nicht, um ohne Erlaubnis auf fremde Geräte zuzugreifen, in fremde Systeme einzugreifen oder Handlungen vorzunehmen, die gegen Gesetze oder die Rechte anderer Personen verstoßen.
 
 ---
 
-## ⚙️ Skript-Einrichtung
+## ⚙️ Einrichtung des Skripts
 
-Zur Konfiguration:
+Es gibt zwei Möglichkeiten der Ersteinrichtung.
 
-1. Starten Sie das Skript, um die Datei `settings.ini` zu erstellen (Beispiel unten).
-2. Oder erstellen Sie `settings.ini` manuell, kopieren Sie das Beispiel und ersetzen Sie die Daten.
+### Option 1 — automatisch
+
+1. Starten Sie das Programm.
+2. Falls `settings.ini` fehlt, wird sie automatisch erstellt.
+3. Geben Sie den Telegram-Bot-Token und die Administrator-ID ein.
+
+### Option 2 — manuell
+
+Erstellen Sie neben dem Programm eine Datei `settings.ini`:
 
 ```ini
 [BotConfig]
-token = 1298170394:AAFoRAJsNzgxalі4dhHX_UNjDbu6stjsTkI
-admin_list = 123331492, 320491837
+token = YOUR_BOT_TOKEN
+admin_list = 123456789, 987654321
 
 [Proxy]
 use_proxy = False
 proxy_type = http
 proxy_url = ip:port
-proxy_user = 
-proxy_pass = 
+proxy_user =
+proxy_pass =
 ```
 
-> 💡 Der Abschnitt `[Proxy]` ist optional — wenn kein Proxy benötigt wird, lassen Sie `use_proxy = False` oder lassen Sie den Abschnitt weg, das Skript erstellt ihn automatisch.
+> 💡 Der Abschnitt `[Proxy]` ist optional. Wenn kein Proxy verwendet wird, lassen Sie `use_proxy = False`. Bei Bedarf kann das Programm fehlende Parameter automatisch erstellen.
 
 ---
 
-### 🌐 Proxy-Einrichtung (optional)
+## 🌐 Proxy-Einrichtung
 
-Wenn Telegram in Ihrem Land gesperrt ist oder Sie einen Proxy verwenden möchten — bearbeiten Sie den Abschnitt `[Proxy]` in `settings.ini`:
+Ein Proxy kann verwendet werden, wenn eine direkte Verbindung zu Telegram nicht verfügbar ist oder eine andere Verbindungsroute erforderlich ist.
 
-**Mit Login und Passwort:**
+### Mit Login und Passwort
+
 ```ini
 [Proxy]
 use_proxy = True
@@ -257,33 +320,64 @@ proxy_user = mylogin
 proxy_pass = mypassword
 ```
 
-**Ohne Login und Passwort:**
+### Ohne Autorisierung
+
 ```ini
 [Proxy]
 use_proxy = True
 proxy_type = http
 proxy_url = 45.67.89.10:3128
-proxy_user = 
-proxy_pass = 
+proxy_user =
+proxy_pass =
 ```
 
-**Unterstützte Typen:** `http`, `https`, `socks5`
+Unterstützte Typen:
 
-> ⚠️ **Wichtig:**
-> - Kostenlose Proxys sind instabil und halten 1–2 Stunden. Für den Dauereinsatz wird ein kostenpflichtiger oder eigener Proxy empfohlen.
-> - Wenn der Proxy beim Start nicht verfügbar ist — versucht der Bot automatisch 3 Mal, danach deaktiviert er den Proxy und startet direkt.
-> - Wenn der Proxy während des Betriebs ausfällt — wechselt der Bot automatisch zur direkten Verbindung und benachrichtigt Sie in Telegram.
-> - Den Proxy können Sie direkt im Bot konfigurieren: **Bot-Panel → Bot-Konfiguration → Proxy**.
+- `http`
+- `https`
+- `socks5`
 
-### Wie du die Daten erhältst
+> ⚠️ Kostenlose öffentliche Proxys sind oft instabil und können jederzeit ausfallen.
 
-1. **Bot-Token:**  
-   - Suche auf Telegram nach [@BotFather](https://t.me/BotFather).  
-   - Sende den Befehl `/newbot` und folge den Anweisungen, um einen Bot zu erstellen.  
-   - Erhalte den Token, z. B.: `123456789:ABCDefghIJKLMNOPQRSTUVWXYZ`.  
-   - Speichere ihn in `settings.ini`.
+Ist der Proxy beim Start nicht verfügbar, unternimmt der Bot bis zu **3 Verbindungsversuche**, danach deaktiviert er den Proxy und startet über eine direkte Verbindung. Fällt der Proxy während des Bot-Betriebs aus, wechselt der Bot ebenfalls zu einer direkten Verbindung und sendet eine Benachrichtigung an Telegram.
 
-2. **Administrator-ID:**  
-   - Suche auf Telegram nach `@userinfobot` oder `@getmyid_bot`.  
-   - Starte einen Chat, um deine Telegram-ID zu erhalten, z. B.: `123456789`.  
-   - Füge die ID zu `admin_list` in `settings.ini` hinzu. Für mehrere Administratoren trenne die IDs durch Kommas (`,`).
+Sie können den Proxy direkt im Bot konfigurieren oder ändern:
+
+**Bot-Panel → Bot-Konfiguration → Proxy**
+
+---
+
+## 🔑 So erhalten Sie die Zugangsdaten
+
+### 1. Telegram-Bot-Token
+
+1. Öffnen Sie [@BotFather](https://t.me/BotFather).
+2. Senden Sie den Befehl `/newbot`.
+3. Folgen Sie den Anweisungen von Telegram.
+4. Kopieren Sie den erhaltenen Token in den Parameter `token` der Datei `settings.ini`.
+
+Formatbeispiel:
+
+```text
+123456789:ABCDefghIJKLMNOPQRSTUVWXYZ
+```
+
+> Geben Sie den echten Bot-Token niemandem weiter. Damit lässt sich die Kontrolle über den Bot erlangen.
+
+### 2. Telegram-ID des Administrators
+
+Sie können Ihre Telegram-ID über spezielle Info-Bots erhalten, zum Beispiel `@userinfobot`.
+
+Fügen Sie die ID hinzu:
+
+```ini
+admin_list = 123456789
+```
+
+Für mehrere Administratoren geben Sie die IDs durch Kommas getrennt an:
+
+```ini
+admin_list = 123456789, 987654321
+```
+
+---
